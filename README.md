@@ -1,8 +1,8 @@
 ---
-description: 'Catalyst Circle version 3: Feb - April 2022'
+description: 'Catalyst Circle version 3: Feb-April 2022'
 ---
 
-# Catalyst Circle V3
+# Catalyst Circle v3
 
 ## Overview <a href="#overview" id="overview"></a>
 

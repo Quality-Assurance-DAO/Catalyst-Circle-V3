@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Catalyst Circle V3](README.md)
+* [Catalyst Circle v3](README.md)
 
 ## Governance day ccv3 - 12th Feb 2022
 
