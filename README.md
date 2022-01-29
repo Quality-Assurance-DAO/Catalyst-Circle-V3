@@ -10,7 +10,7 @@ This GitBook documents Catalyst Circle v3. For Circle v2 please see [this GitBoo
 
 ## Overview <a href="#overview" id="overview"></a>
 
-Catalyst Circle Version 2 is produced by [**Quality Assurance DAO**](https://quality-assurance-dao.github.io)****
+Catalyst Circle Version 3 GitBook is produced by [**Quality Assurance DAO**](https://quality-assurance-dao.github.io)****
 
 ### Funded by Project Catalyst
 
