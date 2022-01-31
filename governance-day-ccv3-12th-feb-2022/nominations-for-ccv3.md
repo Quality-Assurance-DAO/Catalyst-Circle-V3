@@ -351,7 +351,7 @@ Collecting: Currently the CA/VCA group’s discussions are spread across several
 
 Connecting: I will make sure as many differing viewpoints as possible are at the table for maximum diversity of opinions and creative output. Like and opposing minded people should have an environment to come together and help the communication happen productively, focusing on the tactics being considered and not the people.
 
-Critiquing: Opposing viewpoints should hash it out, and we go until we get to the bottom of what could happen if this or that. Because we can’t all be right all the time, when we strongly disagree, we have the opportunity to build measurement criteria that hold the opposing decision accountable. Communicating: I am particularly strong at verifying a perspective through active listening, and summarizing it in lay terms for broad understanding. As the community comes to the point of agreement, I will condense the recommendations and be able to succinctly present them to the Circle and IOHK for consideration.
+Critiquing: Opposing viewpoints should hash it out, and we go until we get to the bottom of what could happen if this or that. Because we can’t all be right all the time, when we strongly disagree, we have the opportunity to build measurement criteria that hold the opposing decision accountable.&#x20;
 
 Communicating: I am particularly strong at verifying a perspective through active listening, and summarizing it in lay terms for broad understanding. As the community comes to the point of agreement, I will condense the recommendations and be able to succinctly present them to the Circle and IOHK for consideration.
 
@@ -387,13 +387,12 @@ Some specific metrics/outcomes include:
 
 * 10+ years facilitating the growth and scaling of small to medium sized organizations through strategic planning and development.
 * 10+ years as a small business owner, creating several businesses from scratch that have grossed 7 figures.
-*   Engaged to teach Active Listening at three major universities: Haverford College, Villanova University and Temple University.&#x20;
+* Engaged to teach Active Listening at three major universities: Haverford College, Villanova University and Temple University.&#x20;
+* One of my businesses is a Healing Arts business where I provided therapeutics for people with complicated situations, ranging from stroke victims to major injury to high level anxiety. - I have designed curriculum and taught certification trainings for more than 10,000 professionals.
+* Fulbright Scholar who has lived in 2 foreign countries for more than 1 year (Germany and Austria)
+* I am married with a son, Duke, who is 12, and live in Pennsylvania USA.&#x20;
 
-    * One of my businesses is a Healing Arts business where I provided therapeutics for people with complicated situations, ranging from stroke victims to major injury to high level anxiety. - I have designed curriculum and taught certification trainings for more than 10,000 professionals.
-    * Fulbright Scholar who has lived in 2 foreign countries for more than 1 year (Germany and Austria)
-    * I am married with a son, Duke, who is 12, and live in Pennsylvania USA.&#x20;
-
-    I am comfortable with navigating the complexities of this work. I have a lot of time to devote to this and intend to do the best job possible. I believe strongly in what we are creating together, and that belief drives my stamina for the work ahead of us.
+I am comfortable with navigating the complexities of this work. I have a lot of time to devote to this and intend to do the best job possible. I believe strongly in what we are creating together, and that belief drives my stamina for the work ahead of us.
 
 Thank you for your consideration of my submission.
 {% endhint %}
