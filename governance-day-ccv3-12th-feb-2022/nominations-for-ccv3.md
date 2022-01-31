@@ -158,7 +158,7 @@ description: >-
 
 ## <mark style="color:red;">Toolmakers & Maintainers nominations</mark>
 
-As of 31st Jan 2022 at 20:00 UST, there are no nominations for this role.
+As of 31st Jan 2022 at 22:00 UTC, there are no nominations for this role.
 
 ## <mark style="color:red;">Community Advisors nominations</mark>
 
