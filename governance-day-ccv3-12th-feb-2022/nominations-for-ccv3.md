@@ -387,13 +387,14 @@ Some specific metrics/outcomes include:
 
 * 10+ years facilitating the growth and scaling of small to medium sized organizations through strategic planning and development.
 * 10+ years as a small business owner, creating several businesses from scratch that have grossed 7 figures.
-* Engaged to teach Active Listening at three major universities: Haverford College, Villanova University and Temple University.&#x20;
-  * One of my businesses is a Healing Arts business where I provided therapeutics for people with complicated situations, ranging from stroke victims to major injury to high level anxiety. - I have designed curriculum and taught certification trainings for more than 10,000 professionals.
-  * Fulbright Scholar who has lived in 2 foreign countries for more than 1 year (Germany and Austria)
-  *   I am married with a son, Duke, who is 12, and live in Pennsylvania USA. I am comfortable with navigating the complexities of this work. I have a lot of time to devote to this and intend to do the best job possible.
+*   Engaged to teach Active Listening at three major universities: Haverford College, Villanova University and Temple University.&#x20;
 
-      I believe strongly in what we are creating together, and that belief drives my stamina for the work ahead of us.
+    * One of my businesses is a Healing Arts business where I provided therapeutics for people with complicated situations, ranging from stroke victims to major injury to high level anxiety. - I have designed curriculum and taught certification trainings for more than 10,000 professionals.
+    * Fulbright Scholar who has lived in 2 foreign countries for more than 1 year (Germany and Austria)
+    *   I am married with a son, Duke, who is 12, and live in Pennsylvania USA. I am comfortable with navigating the complexities of this work. I have a lot of time to devote to this and intend to do the best job possible.
 
-      Thank you for your consideration of my submission.
+        I believe strongly in what we are creating together, and that belief drives my stamina for the work ahead of us.
+
+    Thank you for your consideration of my submission.
 {% endhint %}
 
