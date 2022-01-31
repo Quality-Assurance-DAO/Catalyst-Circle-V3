@@ -4,6 +4,7 @@
 
 ### Dimitri Fernando
 
+{% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?**  CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
 
 **Experience in the functional group you seek to represent:**  I am an ADA holder who has delegated to a stake pool. By participating in the above groups I am participating with like minded ADA holders. I am active in all the above mentioned groups on a weekly basis even though in all but the South Asian town hall, they are late night or after midnight and early morning/pre dawn meetings. That is my commitment to being part of these groups and communities. The respective members of the communities can vouch for my involvement.
@@ -17,9 +18,11 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Seeing a more balanced Community with equal emphasis on new developers and developments and regular users who constitute the bulk of any society. In fact create initiatives where all manner of users come on board with an 80/20 split of users to developers. Seeing causes like Environment, Food Security, Sustainable Agriculture, Sanctity of Life, Animal Rights, Creative Groups, Empowerment of Southern and Eastern Hemispheres, in terms of equality to other areas of earth, Empowerment of marginalized communities , LGBTQ initiatives and other diversity related initiatives, in various Aesthetic arts developed, People's emotional and mental well being considered as highly as technical benefits of blockchain, being formed and running smoothly.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** I am mature, empathetic, a marketer and seller, a story teller, passionate about what is right, true and honorable. My ethics are never situational and I value honor, integrity and the word of an individual. I have taken on roles in groups and communities from the age of 13, 35 years ago so have experience dealing with a wide range of individuals and issues. I am an Myers Briggs Type Indicator Accredited Trainer which means I work with corproates and individuals and understand different peoples personality types and can easily work with all of them. I am also an International Coaching Federation Coach in training, which means I have training and experience in how to help people achieve their goals and solve their problems by finding their solutions rather than giving them solutions. As such whatever solutions I an the other parrticipants arrive at it will be their solution not mine, hence they will embrace and execute wholeheartedly. I will vociferously and fearlessly represent the abovementioned causes, groups and communities . If you have heard me thus far at any of the Town Hall meetings, Gimbalabs, Swarm meetings, C4C meetings, you know very well that I am not afraid to speak my mind for the betterment of the community. That is part of my core nature. I believe that Cardano can become a driver of societal change and transformation if and only if all the members of society and community have equal value.
+{% endhint %}
 
 ### Dan/Quasar
 
+{% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?** Catalyst since Fund 1 (3 respectively) CA, Funded Proposer, Voter, Team member, Mentoring & on-boarding, Founding of SecretDecks (member of RYUUKI pool network)
 
 **Experience in the functional group you seek to represent:** Attending Twitter Spaces, setting up a recurring TwitterSpace for (catalyst) ada holders, organiser of Cardano Berlin meetup group, Attendance at 2 year anniversay in Plovdiv, ADA holder since 2017
@@ -33,9 +36,11 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role? H**aving reduced the minimum amount to vote; ADA holders and voters feel well represented and heard: Referencing [https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/) -> Engagement of **all** stakeholders -> Keeping the leverage of individual stakeholders low
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** We run as a tandem, because this is possibly more than a fulltime job. Our focus is on compos-ability, interoperability, and connecting or improving communications for GenAda Holders. We will be like Basho, and since Cardano has entered into the Basho Era, we will apply some specifically abstract methods to understand the general lovelace holder's place in the belly of the beached whale on a sunny afternoon.
+{% endhint %}
 
 ### Mark Stopka
 
+{% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?** Proposer and Voter
 
 **Experience in the functional group you seek to represent:** Twitter, Telegram, Discord stakeholder management, software development
@@ -49,11 +54,13 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** More clarity into what CC is and what role it will play in overall governance of Cardano; more defined processes - Service Operations Manual of sorts
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** I have 10 years of experience in IT transition & transformation projects, over 15 years in openSUSE open source project and several large M\&A transactions
+{% endhint %}
 
 ## <mark style="color:red;">Funded Proposers nominations</mark>
 
 ### Nebiyu Sultan
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** I am currently running a funded proposal from F5, and I'm also in the team of two other funded proposals funded in F6. I have also recommended one other funded proposal in F6 and participated in the voting rounds since fund 5.
 
 **Experience in the functional group you seek to represent:** My participation in the Funded proposals is limited to the Eastern African Community, however i am eager to connect with, assist and represent other funded proposals from across the global community.
@@ -67,11 +74,13 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Although i do not expect to accomplish the the work i feel is needed within the 3 month time period, I would like to lay down the ground work of the needed research and feedback from the community to enable my successor to start implementation. Additionally, I would like to make sure there are at least 5 applicants for the role after my term ends.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** Having been part of several teams that have been funded before, and also having engaged with other teams that have been funded, i have noticed unaired grievances and issues that will hurt Catalyst in the long run as the community grows. I believe my listening skills will be valuable to identify these issues and concerns of the wider functional group. Through my participation in the Circle, I would like to contribute my fair share to assist funded proposers and keep Catalyst growing.
+{% endhint %}
 
 ## <mark style="color:red;">Stakepool operators nominations</mark>
 
 ### Edickson Aguilera
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** <mark style="color:red;"></mark> I follow Catalyst closely and will soon participate as a community advisor
 
 **Experience in the functional group you seek to represent:** I am an ambassador for the Cardano foundation and a stake pool operator with a long time in the Cardano community
@@ -85,9 +94,11 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Achieving better opportunities for single pools and improving decentralization and consensus would be the most expected results for me
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I want you to know that I am fully committed to the entire Cardano community and that I live to serve, thank you very much
+{% endhint %}
 
 ### Eystein Hansen
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** Community advisor then Veteran Community Advisor.
 
 **Experience in the functional group you seek to represent:** Member of Cardano single pool alliance, member of operators guild, member of ISPPA. Staking pool operator since friends and family testnet and ITN.
@@ -101,9 +112,11 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  I would have found a way to better aggregate SPO data and thus helping future Catalyst Circle SPO representatives.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I have been interested in the subject of governance for a long time and I made a presentation on how we as an ecosystem could do better in the 2020 Cardano summit: [https://www.youtube.com/watch?v=t\_atG6fHW7Q](https://www.youtube.com/watch?v=t\_atG6fHW7Q)
+{% endhint %}
 
 ### Alexandru Dragnescu
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?**  I am familiar with Project Catalyst (including voting system) but I can't named it a big experience.
 
 **Experience in the functional group you seek to represent:**  I'm an active member on forum.cardano.org especially on Pool Operators section.. where I am offering support for other POOL OPERATORS (how to build, configure, upgrade, fix issues with the pools). also I have few useful topics like how to build a POOL, I created a script for updating nodes, etc
@@ -117,9 +130,11 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Decentralization of the delegation process;
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** Being a pool operator I can say that I am aware about the issues regarding the delegation process
+{% endhint %}
 
 ### Sergiu Cazan
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?**  Not really:)
 
 **Experience in the functional group you seek to represent:**  Yes, running a pool since 31.05.2021
@@ -133,6 +148,7 @@
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  More ADA staked to Single SPO pools, and preferably mission driven ones.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I'm a double economist and really understand current financial system we're working on replacing and I'm very pasionate about Cardano ecosystem. I also have a business of my own, worked previously in customer care, product management and of course people management. I belive I have the power to be objective when needed, define SMART Objectives and also listen to people when the situation demands it.
+{% endhint %}
 
 ## <mark style="color:red;">Toolmakers & Maintainers nominations</mark>
 
@@ -142,6 +158,7 @@ As of 31st Jan 2022 at 20:00 UST, there are no nominations for this role.
 
 ### Filip Blagojević
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** I am actively participating in Project Catalyst since Fund 2. I've been a CA in each Fund since Fund 2 and VCA in each fund since Fund 3, except Fund 7. I have actively suggested development of tools and procedures and early tested some of them, Yellow and Red Card thing for example. I was an active member of the Swarm team, actively organized the first Ideafest, held many breakout rooms and different community discussions about various subjects regarding Catalyst and governance in general. I held sessions in the Catalyst School about Catalyst in general and specific sessions for CAs and VCAs.
 
 **Experience in the functional group you seek to represent:**  I've been a CA in each Fund since Fund 2 and VCA in each Fund since Fund 3, except Fund 7. I participate in Telegram discussions, especially when there is tension due to misunderstanding. I have commented and tested tools through the Funds. I held sessions for Catalyst School.
@@ -155,6 +172,7 @@ As of 31st Jan 2022 at 20:00 UST, there are no nominations for this role.
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  I would like to establish CAs in the wider Cardano community as a serious group of dedicated, respected, hardworking and honest people. I think VCAs should be regarded as sort of professionals in their work so I would go in the way of transparently and honestly displaying data that proves CAs and VCAs do an amazing job and getting better Fund after Fund.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  My activities in Catalyst moved me to quitting my job and dedicating full-time to work in and around Cardano. I am very familiar with Catalyst, but I have a pretty decent technical understanding, I am an Emurgo Academy student and I dedicate my complete work life to Cardano. I do not shy away from difficult subjects and discussions and I bring focus on the solutions and the work that needs to be done. Thank you for your consideration!
+{% endhint %}
 
 ### Tomi Astikainen
 
@@ -225,4 +243,6 @@ By ushering in a new era of results oriented collaboration, my intention is to h
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  It depends if it's three or six months. If latter, I hope to have convinced IOG they can trust the CAs' and VCAs' ability to run and develop Catalyst independently. Our collaboration tools would have improved. There'd be a process for continuous improvement that my successor can easily take over. Finally, the culture and team spirit would be on a whole new level.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Liked the IOG's idea regarding a CA Portal? I can probably help design and implement that, too. I design online communities for living. My current client has approximately 100,000 employees so, no, I'm not afraid to build global solutions that scale.  [https://www.linkedin.com/in/tomiastikainen](https://www.linkedin.com/in/tomiastikainen)
+
+
 
