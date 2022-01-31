@@ -82,6 +82,24 @@ description: >-
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** Having been part of several teams that have been funded before, and also having engaged with other teams that have been funded, i have noticed unaired grievances and issues that will hurt Catalyst in the long run as the community grows. I believe my listening skills will be valuable to identify these issues and concerns of the wider functional group. Through my participation in the Circle, I would like to contribute my fair share to assist funded proposers and keep Catalyst growing.
 {% endhint %}
 
+### Mercy A
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?**  Proposer. Completed Funded Proposal. Wada Coordinator
+
+**Experience in the functional group you seek to represent:**  Proposer. Completed Funded Proposals. Wada Coordinator in charge of ecosystem collaborations.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?** Time requirements for executing on funded projects leaves little time participating in governance Predictability of funding to bring project to completion Timeliness of funding disbursements.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  Previous predecessors of this role have already spent time on issues gathering. I will connect with them to carry forward whatever issues haven't been addressed yet. Also plan on using any existing channels that isn't too time intensive for funded proposers to communicate issues. I'll make my tenure a team effort to enable broad outreach.
+
+**What key ideas or issues would you like to champion on behalf of your community?**  Ways to ensure Funded Proposer's voices are heard Ways to ensure that once a project has been funded, it can have predictable an timely resources to completion.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  Easier impact collaborations that enhance funded projects.
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I have been part of Catalyst since the beginning and have found it immensely rewarding. I find DLT governance interesting because it opens up a whole new paradigm of thinking and doing things. Governance also presents challenges and after being nominated by others for both Circle v1 and v2, I feel it's time to request a seat and add to the conversation if I am voted in.
+{% endhint %}
+
 ## <mark style="color:red;">Stakepool operators nominations</mark>
 
 ### Edickson Aguilera
