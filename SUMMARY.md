@@ -5,6 +5,7 @@
 ## Governance day ccv3 - 12th Feb 2022
 
 * [Background -  planning the CCv3 election process, Jan 2022](governance-day-ccv3-12th-feb-2022/background-planning-the-ccv3-election-process-jan-2022.md)
+* [Nominations for CCv3](governance-day-ccv3-12th-feb-2022/nominations-for-ccv3.md)
 
 ## ccv3 meetings
 
