@@ -156,6 +156,24 @@ description: >-
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I'm a double economist and really understand current financial system we're working on replacing and I'm very pasionate about Cardano ecosystem. I also have a business of my own, worked previously in customer care, product management and of course people management. I belive I have the power to be objective when needed, define SMART Objectives and also listen to people when the situation demands it.
 {% endhint %}
 
+### Rhys Morgan
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?** Yes, I have participated in Catalyst since Fund 1, Voted all the way through and submitted my own proposals. Since Fund 5 I have been a lot more present and Fund 6 started getting proposals together and In fund 7 submitted proposals, which I am currently seeing through voting right now.
+
+**Experience in the functional group you seek to represent:** Yes I have been an SPO since September 2020, I am a member of CSPA, ArmAda, Bare Metal and Carbon Neutral Cardano, All of whom I am an active member in, as well as other more closed communities such a discord and telegram channels. I am participating in multiple projects operating on both mainnet and testnet.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?** At the minute there is a huge divide in the SPO community. I hope to help bridge the gap between these two sides and help people look to the future of the space in a productive way, building solutions to the problems we face
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?** I will engage the community in both an open forum and close spaces in the communities I am already a part of; and by sharing potential solutions/opportunities to have a discussion about addressing problems I see and fear within the SPO community.
+
+**What key ideas or issues would you like to champion on behalf of your community?** Collaboration to help work and build together, championing each others skills to provide creative solutions in groups.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  Increased participation from SPOs in voting & proposing challenges and projects for funding.
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I like to take action and get things done, both personally and as a member of a group. I want to leave Catalyst better than I joined by contributing my time and effort to increasing the exposure and reach of Catalyst beyond where it is right now.
+{% endhint %}
+
 ## <mark style="color:red;">Toolmakers & Maintainers nominations</mark>
 
 As of 31st Jan 2022 at 22:00 UTC, there are no nominations for this role.
