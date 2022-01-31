@@ -1,3 +1,9 @@
+---
+description: >-
+  Nominees in each section are listed in the order in which they submitted their
+  info; the earliest first.
+---
+
 # Nominations for CCv3
 
 ## <mark style="color:red;">General ADA holders nominations</mark>
@@ -176,6 +182,7 @@ As of 31st Jan 2022 at 20:00 UST, there are no nominations for this role.
 
 ### Tomi Astikainen
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** I've been a VCA, a CA, a Challenge Team member, a mentor, a proposer and a voter. Joined and became active in Fund3.
 
 **Experience in the functional group you seek to represent:**  I use about 2-4 hours a day to participate and to try and improve things in Catalyst. &#x20;
@@ -243,6 +250,7 @@ By ushering in a new era of results oriented collaboration, my intention is to h
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  It depends if it's three or six months. If latter, I hope to have convinced IOG they can trust the CAs' and VCAs' ability to run and develop Catalyst independently. Our collaboration tools would have improved. There'd be a process for continuous improvement that my successor can easily take over. Finally, the culture and team spirit would be on a whole new level.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Liked the IOG's idea regarding a CA Portal? I can probably help design and implement that, too. I design online communities for living. My current client has approximately 100,000 employees so, no, I'm not afraid to build global solutions that scale.  [https://www.linkedin.com/in/tomiastikainen](https://www.linkedin.com/in/tomiastikainen)
+{% endhint %}
 
 
 
