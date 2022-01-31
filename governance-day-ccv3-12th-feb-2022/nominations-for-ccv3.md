@@ -288,5 +288,112 @@ By ushering in a new era of results oriented collaboration, my intention is to h
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Liked the IOG's idea regarding a CA Portal? I can probably help design and implement that, too. I design online communities for living. My current client has approximately 100,000 employees so, no, I'm not afraid to build global solutions that scale.  [https://www.linkedin.com/in/tomiastikainen](https://www.linkedin.com/in/tomiastikainen)
 {% endhint %}
 
+### Nadia Hopkins
 
+{% hint style="info" %}
+
+
+**Experience of Project Catalyst – which roles have you fulfilled?**  Yes. I have had a Daedalus Wallet since early 2019 in the Byron phase. During that time I’ve been fortunate to witness many upgrades like the Shelley Incentivized Testnet, and now in the Goguen era the Alonzo hard fork upgrades. We voted for the first time in Fund 3.
+
+I began joining the Town Hall sessions in August, 2021 and have taken an active role in the circle groups and breakout sessions since November. I served as a Community Advisor in Fund 7. It has been enlivening getting to know other members of the community, understanding the challenges and contributing to opportunities as we expand together.
+
+Specifically, I have become involved in: solving scaling issues in the Community Advisor/Veteran Community Advisor (CA/VCA) process, improving auditing accountability and enhancing the record keeping standards for two of the Circle groups.
+
+I am also working with an incredible group of women in the Leadership Academy project, considering how we might fundamentally reimagine the concept of leadership and encourage greater participation in Catalyst from diverse groups of people and thinkers.
+
+**Experience in the functional group you seek to represent:** Yes. I have been honored to be a member of the CA/VCA group over the past few months. In Fund 7, new challenges to the current CA/VCA process emerged that required collective attention. The group needs to come to solutions that prevent and correct problematic influences now, and plan for scaling long-term.
+
+In addition to contributing my own ideas, I had the benefit of filling a scribe role and a co-host role for the group. Serving these roles required gaining a clear understanding of the challenges and recommendations, drawing collective insight from the sessions, from the related social channels and from the inputs made to the group’s iterative dropbox. I also spent time individually with community members who had strong opinions on specific topics.
+
+Additionally, I have engaged in Catalyst Circle/IOHK planning sessions with CA/VCA group members, and served as a support committee member and scribe for the General ADA Holder Circle Rep.
+
+Ultimately these experiences have helped me to facilitate discussion between differing viewpoints, ask pointed questions to generate more complete understanding and to run through potential scenarios that our decisions could achieve.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?**   I see this group with two main concern categories: Enhancing Group Dynamics and Identifying Actionable Solutions
+
+Enhancing Group Dynamics
+
+The members of this community, especially those who are volunteering extensive time to this group, are passionate about looking at the issues and solving them. The downside of this is that there has been a good amount of interpersonal conflict and frustration that is preventing us from working as productively and cooperatively as possible.
+
+In filling this role, I would make it a priority to harness the power of differing opinions to encourage harvesting the best thinking that our conflict inspires. I expand on this more in the next question. Here are some key points:
+
+* We commit to collecting the genius despite and through the conflict.
+* We facilitate coming to terms with the discomfort of disagreement so that we keep all of our talent and use it &#x20;
+* We consider all sides in getting to the bottom of the impact and implications of our collective choices
+* We devise ways to measure and record the outcomes of our solutions so that we can learn from these decisions.
+
+Identifying Actionable Solutions:
+
+The second category of concern is more tactical. We need to specifically solve these issues:
+
+* Consider the “bookends” of our group’s influence. Right before us, proposals are submitted, and the quality of these will directly influence our CA/VCA’s work, so we need to consider this input. After us, voting happens, projects are funded and then eventually audited. Our decisions affect the whole, and communication is key.
+*   CA onboarding, training & accountability refined so people start &#x20;
+
+    as they mean to continue.
+
+    * Plan for engaging industry experts as CAs to assess feasibility of highly technical proposals, and merging this into our current system
+    * Bots/nefarious influences thwarted through reputation system and verification tools
+    * Define best standards for CA content process and submission, including criteria for use of templating and of scoring.
+    * CAs/VCAs cultivated across funds to retain and improve talent.
+    * VCA standards and accountability checks in place.
+    * Review of current bonus structure to determine impact.
+    * A more collaborative relationship built with the Challenge Teams to streamline assessments.
+    * Measurable criteria put in place to determine the success of these decisions and chronicle the learning from what didn’t work as planned.
+    * More will surface!
+
+    The Catalyst Circle/IOHK meetings have also produced specific plans outlining which adaptations will be undertaken by IOHK, and which will be guided by the community. An overview of these can be found here: [https://docs.google.com/document/d/1\_\_RZNfCB3v-0jqOg1zQyStpgeL1hUaegGIhPhT-p8YI/edit](https://docs.google.com/document/d/1\_\_RZNfCB3v-0jqOg1zQyStpgeL1hUaegGIhPhT-p8YI/edit). I include this as a cross-reference.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  I have had several roles in my career, both as a business owner and as a Director of Development and Strategic Initiatives in several non-profit organizations, where community engagement was my key responsibility (outlined in final question). I consider the Circle Rep a service role, and I would consider myself a facilitator of the community’s involvement.
+
+My organized approach to community engagement is: Collecting, Connecting, Critiquing, Communicating. In an effective process, each of these is happening simultaneously and feeding the others.
+
+Collecting: Currently the CA/VCA group’s discussions are spread across several platforms and documents, which leaves space for ideas and voices to be left out. Regardless of where they originate, these ideas need to be brought to the stage and incorporated into the discussion by letting the rest of the group consider and critique their viability together. I will be a vigilant monitor of these places and aim to organize the discussions topically. Where possible, I will conduct one-on-one and small group sessions to deep dive complex issues with community members.
+
+Connecting: I will make sure as many differing viewpoints as possible are at the table for maximum diversity of opinions and creative output. Like and opposing minded people should have an environment to come together and help the communication happen productively, focusing on the tactics being considered and not the people.
+
+Critiquing: Opposing viewpoints should hash it out, and we go until we get to the bottom of what could happen if this or that. Because we can’t all be right all the time, when we strongly disagree, we have the opportunity to build measurement criteria that hold the opposing decision accountable. Communicating: I am particularly strong at verifying a perspective through active listening, and summarizing it in lay terms for broad understanding. As the community comes to the point of agreement, I will condense the recommendations and be able to succinctly present them to the Circle and IOHK for consideration.
+
+Communicating: I am particularly strong at verifying a perspective through active listening, and summarizing it in lay terms for broad understanding. As the community comes to the point of agreement, I will condense the recommendations and be able to succinctly present them to the Circle and IOHK for consideration.
+
+**What key ideas or issues would you like to champion on behalf of your community?** The first decade of my career, I worked for a firm that helped small- and medium-sized non-profits and NGOs scale to the next level. Scaling has intrinsic growing pains, which can be extremely creative and also chaotic and frustrating. I am comfortable helping people navigate this time productively.
+
+These are key ideas I’d like to champion:
+
+* The more diversity and (consciously expressed) conflict, the richer the process and product. We should aim to be especially inclusive of the people and ideas that make us most uncomfortable.
+* Great solutions take time and patience, so does growth.
+* Experimenting can and should be happening continuously to test our hypotheses.
+* Empirical data and the story of impact balance each other.
+* We can invest more time in research and understanding.
+* We need an increase in the right industry tools to build bridges with new communities.
+* Creating something that has never existed requires letting go of our conditioning but not of our wisdom.
+* Everything happens in the end because of people, and each person is full of unexpected genius tapped in different ways. We as the Catalyst community can be a model for treating each other as if we are the most valuable things we have.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?** At the end of my term, we would have a diverse community confident to make a justifiable case for its insights, and united in creating solutions that help Catalyst scale seamlessly across the next 7 funds and beyond.
+
+Some specific metrics/outcomes include:
+
+* Decrease in the percentage of low quality assessments. Fund 7 had approximately 20% that needed to be filtered out. As we scale, this number needs to be significantly less, ideally under 5% and decreasing.
+* Increase in number of engaged and successful CAs. This can be measured by number of assessments submitted and number of excellent assessments.
+* Trustable process for promoting VCAs and criteria for filtering decisions. Algorithmic tools that support VCAs filtering reviews.
+*   A functional group model for mediating intense disagreement and arriving at an understanding and&#x20;
+
+    recommendation that has considered all perspectives.
+
+    * An interactive hub for recording discussion topics and inviting continuous public feedback over time.
+    * Standards around project and challenge budgeting
+    * A large core of involved members personally committed to this group for the coming year or more. Creating solutions in this specific arena will take time, as will educating new members to the group who will need to come up to speed in order to contribute (ex 1 year).
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  These are some of my life and career experiences that will contribute to my capacity to serve the community in this role:
+
+* 10+ years facilitating the growth and scaling of small to medium sized organizations through strategic planning and development.
+* 10+ years as a small business owner, creating several businesses from scratch that have grossed 7 figures.
+* Engaged to teach Active Listening at three major universities: Haverford College, Villanova University and Temple University.&#x20;
+  * One of my businesses is a Healing Arts business where I provided therapeutics for people with complicated situations, ranging from stroke victims to major injury to high level anxiety. - I have designed curriculum and taught certification trainings for more than 10,000 professionals.
+  * Fulbright Scholar who has lived in 2 foreign countries for more than 1 year (Germany and Austria)
+  *   I am married with a son, Duke, who is 12, and live in Pennsylvania USA. I am comfortable with navigating the complexities of this work. I have a lot of time to devote to this and intend to do the best job possible.
+
+      I believe strongly in what we are creating together, and that belief drives my stamina for the work ahead of us.
+
+      Thank you for your consideration of my submission.
+{% endhint %}
 
