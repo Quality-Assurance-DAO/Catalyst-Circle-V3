@@ -10,6 +10,8 @@ description: >-
 
 ### Dimitri Fernando
 
+<mark style="color:red;">**Note:**</mark>** Dimitri, Quasar and Dan are standing together as a team for both this role and the Toolmakers and Maintainers role. Their statements for the General ADA holders role remain separate, to reflect their range of skills and experience.**
+
 {% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?**  CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
 
@@ -27,6 +29,8 @@ description: >-
 {% endhint %}
 
 ### Dan/Quasar
+
+<mark style="color:red;">**Note:**</mark> **Dimitri, Quasar and Dan are standing together as a team for both this role and the Toolmakers and Maintainers role. Their statements for the General ADA holders role remain separate, to reflect their range of skills and experience.**
 
 {% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?** Catalyst since Fund 1 (3 respectively) CA, Funded Proposer, Voter, Team member, Mentoring & on-boarding, Founding of SecretDecks (member of RYUUKI pool network)
@@ -194,7 +198,23 @@ description: >-
 
 ## <mark style="color:red;">Toolmakers & Maintainers nominations</mark>
 
-As of 31st Jan 2022 at 22:00 UTC, there are no nominations for this role.
+### Quasar, Dan and Dimitri
+
+<mark style="color:red;">**Note:**</mark> **Quasar, Dan and Dimitri are standing together as a team for both this role and the General ADA voters role.**&#x20;
+
+**Experience of Project Catalyst – which roles have you fulfilled?** CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
+
+**Experience in the functional group you seek to represent:** Yes, maintain discord server, build swarm boards, hold twitter spaces. I run the South Asian Town Hall. Am designing a template based CA tool to help bring more quality and clarity to CA's often thankless job, and also building various tools such as NFT minting solutions, AI driven Apps, NFT marketplace.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?**  NO one has applied for this position. No one understands T\&M. The developers and toolmakers are often too busy to consider their own interests. Someone needs to represent them. We three feel we can fulfill the role effectively since none of these roles really can be handled by one individual. We plan on fairly standing up for the rights and benefits of toolmakers since Cardano so far is growing because of efforts of toolmakers. I being a toolmaker can understand. And because we are also in the ADA holder role, we can be fair and important to all concerned.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  We can ensure that developers needs are met. That IOG, IOHK and all other authorities consider the needs of toolmakers and maintainers and provide whatever is needed. We want to develop the toolmakers, developers and maintainers to be equally right brained and fully realised in their full potential as human beings. Not just toolmakers and maintainers. Why should they be laboring behind the scenes without being happy and fulfilled as well? Through multiple modalities we will empower the right and left brains of all toolmakers and maintainers.
+
+**What key ideas or issues would you like to champion on behalf of your community?**  We are all toolmakers and maintainers. We will champion the rights of everyone. Since we are all makers of different kinds of tools. Not all are code based. Some are heart based. Some are mind based. Some are knowledge based. Some are gut based. All communities , all around the globe, all have a voice.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  A greater sense of autonomy in the community. Everyone should be growing, not just one sector at the expense of another, or one region at the expense of another. If certain regions are lacking behind such as South Asia, South East Asia, West Asia, Pacific Islands and Oceania, North Asia, we want them also to be equally represented in Catalyst and given equal or preferential treatment to come up to the level of other regions.
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Dan, Dimitri and I (Quasar) build tools and are dedicated to restorative practices in digital communities. We want to bring about societal change by accessing the C Fund and DCF fund as a community not just where big companies can access these since they too are taking catalyst funding plus DCF funding and then dominating the markets. Why should only big companies get big funding? Why cant small companies, small community groups have access to that funding?
 
 ## <mark style="color:red;">Community Advisors nominations</mark>
 
