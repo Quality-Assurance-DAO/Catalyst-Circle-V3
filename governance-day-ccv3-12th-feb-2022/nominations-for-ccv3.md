@@ -200,7 +200,7 @@ description: >-
 
 ### Quasar, Dan and Dimitri
 
-<mark style="color:red;">**Note:**</mark> **Quasar, Dan and Dimitri are standing together as a team for both this role and the General ADA voters role.**&#x20;
+<mark style="color:red;">**Note:**</mark> **Quasar, Dan and Dimitri are standing together as a team for both this role and the General ADA holders role.**&#x20;
 
 {% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
