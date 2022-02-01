@@ -218,6 +218,47 @@ description: >-
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Dan, Dimitri and I (Quasar) build tools and are dedicated to restorative practices in digital communities. We want to bring about societal change by accessing the C Fund and DCF fund as a community not just where big companies can access these since they too are taking catalyst funding plus DCF funding and then dominating the markets. Why should only big companies get big funding? Why cant small companies, small community groups have access to that funding?
 {% endhint %}
 
+### Aharon Porath
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?** Yes, I have been a lurker in fund 5, and a proposer in fund 6 (not funded) and fund 7. Also I'm a challenge team member of the DAOs <3 Cardano challenge.
+
+**Experience in the functional group you seek to represent:**  As a tool builder I have been in touch and worked with catalyst members that are building tools for the use of the community, as Phil K, Victor, Tevo, Lucio and others. I haven't got the chance to work with them on specific project, but I am well acquaintance with their work on the CA tool, the voter tool etc.  In addition, I am a member of the ADAGov group, and have been working with Ro and Neils over the last few months on their funded proposals projects.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?** 1. How to recognized the needs of the community, identify problems in the current processes, and build the right and best tools to address those problems and answer those needs.  2. How to bring the Catalyst community members to use those tools and provide feedback.  3. How to receive updated and rich data and information that needed for better tools design.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  I plan to continue track the different communication channels - discord servers, telegram group, twitter feed and other of the toolmakers and maintainers group, to participate in relevant zoom meetings, and to initiate breakout room in the town hall and swarm meetings.
+
+**What key ideas or issues would you like to champion on behalf of your community?** &#x20;
+
+Push ahead decentralization of project catalyst - transfer more processes, tools building, improvements and maintenance from IOG team to the community, with the resources needed for this mission. For example -
+
+1. Open the source code of the voting app and allow developers from the community to commit changes and propose improvements.
+2. Request API of the ideascale data, and open to discussion option to use more or different idea management platforms.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  More developers will join the toolmakers community and the existing ones will be more engage and with greater sense of owning and belonging to the Catalyst and Cardano community.
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Proper disclosure - I'm a also proposer for fund 7, and hope that if our project will be funded it will be used by the catalyst community as well. I will do my best to always be transparent about it and to avoid potential conflict of interests.
+{% endhint %}
+
+### Victor Larde
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?**  Yes, I am a proposer fund 7 for One Small Town - Contributionism.
+
+**Experience in the functional group you seek to represent:**  I plan to be more active in the coming month in creation of educational content for voters and also for new community members to include, contant about delegation and benefits to stake pool and others topics. I have a Youtube channel and work as a coach and formator. More than 150 people are following my training so far.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?**  We need more accessible videos and papers tutorials for people who don't know anything about blockchain and crypto. Specifically for third world countries who are not banked or do not trust bank anymore (more and more people). To teach them to delegate for example with step by step easy to understand tutorials is a challenge that I can take, being good pedagogue.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  Being naturally easy to approach and talk to I will be available to the community to answer their question and make connection if need be between members so help are provided by the good people. If the need of creation of any sort is necessary we will in the circle private communication channel raise them and schedule creation by the good people that are willing to do so.
+
+**What key ideas or issues would you like to champion on behalf of your community?**  Liberty, from legacy system that doesn't serve us the people. Educating my community to free themselves thanks to new technologie that blockchain offer.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  A growing community of educated people able to educate others and exponentially bring actual positive change in every day life.
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I am on a mission to serve the people.
+{% endhint %}
+
 ## <mark style="color:red;">Community Advisors nominations</mark>
 
 ### Filip Blagojević
