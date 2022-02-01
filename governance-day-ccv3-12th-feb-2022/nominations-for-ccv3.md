@@ -104,6 +104,24 @@ description: >-
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I have been part of Catalyst since the beginning and have found it immensely rewarding. I find DLT governance interesting because it opens up a whole new paradigm of thinking and doing things. Governance also presents challenges and after being nominated by others for both Circle v1 and v2, I feel it's time to request a seat and add to the conversation if I am voted in.
 {% endhint %}
 
+### Simon
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?**  Ca, proposer, referrer, challenge team
+
+**Experience in the functional group you seek to represent:**  Catalyst school teacher and organiser
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?**  catalyst can not be a dao with a representational group since daos are anonymous.
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  I am well connected with the community and therefore intend to further interact with other funded proposers as well as put emerging issues up with the circle, key-stakeholders and the public if appropriate.
+
+**What key ideas or issues would you like to champion on behalf of your community?**  1 person 1 vote,
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Having helped change catalysts in a positive way
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Being active in the community for a year now, working fulltime on projects i have helped build diverse groups like the swarm, C4C, Catalyst School and fulfilled duties of different roles of catalyst.
+{% endhint %}
+
 ## <mark style="color:red;">Stakepool operators nominations</mark>
 
 ### Edickson Aguilera
