@@ -202,6 +202,7 @@ description: >-
 
 <mark style="color:red;">**Note:**</mark> **Quasar, Dan and Dimitri are standing together as a team for both this role and the General ADA voters role.**&#x20;
 
+{% hint style="info" %}
 **Experience of Project Catalyst – which roles have you fulfilled?** CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
 
 **Experience in the functional group you seek to represent:** Yes, maintain discord server, build swarm boards, hold twitter spaces. I run the South Asian Town Hall. Am designing a template based CA tool to help bring more quality and clarity to CA's often thankless job, and also building various tools such as NFT minting solutions, AI driven Apps, NFT marketplace.
@@ -215,6 +216,7 @@ description: >-
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  A greater sense of autonomy in the community. Everyone should be growing, not just one sector at the expense of another, or one region at the expense of another. If certain regions are lacking behind such as South Asia, South East Asia, West Asia, Pacific Islands and Oceania, North Asia, we want them also to be equally represented in Catalyst and given equal or preferential treatment to come up to the level of other regions.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Dan, Dimitri and I (Quasar) build tools and are dedicated to restorative practices in digital communities. We want to bring about societal change by accessing the C Fund and DCF fund as a community not just where big companies can access these since they too are taking catalyst funding plus DCF funding and then dominating the markets. Why should only big companies get big funding? Why cant small companies, small community groups have access to that funding?
+{% endhint %}
 
 ## <mark style="color:red;">Community Advisors nominations</mark>
 
