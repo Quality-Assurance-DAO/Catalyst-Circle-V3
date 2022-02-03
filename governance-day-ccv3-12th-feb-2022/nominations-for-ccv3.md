@@ -10,7 +10,7 @@ description: >-
 
 Remuneration for CCv3 members is dependent on the success of the Fund 7 proposal "[_Sustaining the Circle_](https://cardano.ideascale.com/c/idea/384250)". It is planned to be $1,000 per person.
 
-The term of office for CCv2 members was 3 months. At the time of writing, it is TBC whether this will remain the same for CCv3, or whether it will change to 6 months.
+The term of office for CCv3 members is 3 months, and members can stand again for election to CCv4.
 
 ## <mark style="color:red;">General ADA holders nominations</mark>
 
