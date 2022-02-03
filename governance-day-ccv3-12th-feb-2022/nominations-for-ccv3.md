@@ -16,8 +16,6 @@ The term of office for CCv3 members is 3 months. Members may stand again for a s
 
 ### Dimitri Fernando
 
-<mark style="color:red;">**Note:**</mark>** Dimitri, Quasar and Dan are standing together as a team for both this role and the Toolmakers and Maintainers role. Their statements for the General ADA holders role remain separate, to reflect their range of skills and experience.**
-
 {% hint style="info" %}
 **Experience of Project Catalyst - which roles have you fulfilled?**  CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
 
@@ -32,26 +30,6 @@ The term of office for CCv3 members is 3 months. Members may stand again for a s
 **At the end of your term as a Circle Representative, what outcomes would represent success in your role?** Seeing a more balanced Community with equal emphasis on new developers and developments and regular users who constitute the bulk of any society. In fact create initiatives where all manner of users come on board with an 80/20 split of users to developers. Seeing causes like Environment, Food Security, Sustainable Agriculture, Sanctity of Life, Animal Rights, Creative Groups, Empowerment of Southern and Eastern Hemispheres, in terms of equality to other areas of earth, Empowerment of marginalized communities , LGBTQ initiatives and other diversity related initiatives, in various Aesthetic arts developed, People's emotional and mental well being considered as highly as technical benefits of blockchain, being formed and running smoothly.
 
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** I am mature, empathetic, a marketer and seller, a story teller, passionate about what is right, true and honorable. My ethics are never situational and I value honor, integrity and the word of an individual. I have taken on roles in groups and communities from the age of 13, 35 years ago so have experience dealing with a wide range of individuals and issues. I am an Myers Briggs Type Indicator Accredited Trainer which means I work with corproates and individuals and understand different peoples personality types and can easily work with all of them. I am also an International Coaching Federation Coach in training, which means I have training and experience in how to help people achieve their goals and solve their problems by finding their solutions rather than giving them solutions. As such whatever solutions I an the other parrticipants arrive at it will be their solution not mine, hence they will embrace and execute wholeheartedly. I will vociferously and fearlessly represent the abovementioned causes, groups and communities . If you have heard me thus far at any of the Town Hall meetings, Gimbalabs, Swarm meetings, C4C meetings, you know very well that I am not afraid to speak my mind for the betterment of the community. That is part of my core nature. I believe that Cardano can become a driver of societal change and transformation if and only if all the members of society and community have equal value.
-{% endhint %}
-
-### Dan/Quasar
-
-<mark style="color:red;">**Note:**</mark> **Dimitri, Quasar and Dan are standing together as a team for both this role and the Toolmakers and Maintainers role. Their statements for the General ADA holders role remain separate, to reflect their range of skills and experience.**
-
-{% hint style="info" %}
-**Experience of Project Catalyst - which roles have you fulfilled?** Catalyst since Fund 1 (3 respectively) CA, Funded Proposer, Voter, Team member, Mentoring & on-boarding, Founding of SecretDecks (member of RYUUKI pool network)
-
-**Experience in the functional group you seek to represent:** Attending Twitter Spaces, setting up a recurring TwitterSpace for (catalyst) ada holders, organiser of Cardano Berlin meetup group, Attendance at 2 year anniversay in Plovdiv, ADA holder since 2017
-
-**What do you see as the biggest concerns facing the functional group you hope to represent?** Stewardship of beginning of Voltaire era; active participation of small ADA holders; Facilitation of "Just Relationships" within community; Nurturing a listening culture, especially between (sub)communities; so much more
-
-**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?** Sensing issues in recurring twitter spaces, by listening; reflect issues with community; present issue emergence and reflection to the Circle
-
-**What key ideas or issues would you like to champion on behalf of your community?** Minimum ADA amount to vote; and can ADA holders be represented by just one or two people? Or would a federated approach be sensible?
-
-**At the end of your term as a Circle Representative, what outcomes would represent success in your role? H**aving reduced the minimum amount to vote; ADA holders and voters feel well represented and heard: Referencing [https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/](https://iohk.io/en/blog/posts/2020/11/13/the-general-perspective-on-staking-in-cardano/) -> Engagement of **all** stakeholders -> Keeping the leverage of individual stakeholders low
-
-**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** We run as a tandem, because this is possibly more than a fulltime job. Our focus is on compos-ability, interoperability, and connecting or improving communications for GenAda Holders. We will be like Basho, and since Cardano has entered into the Basho Era, we will apply some specifically abstract methods to understand the general lovelace holder's place in the belly of the beached whale on a sunny afternoon.
 {% endhint %}
 
 ### Mark Stopka
@@ -221,26 +199,6 @@ The term of office for CCv3 members is 3 months. Members may stand again for a s
 {% endhint %}
 
 ## <mark style="color:red;">Toolmakers & Maintainers nominations</mark>
-
-### Quasar, Dan and Dimitri
-
-<mark style="color:red;">**Note:**</mark> **Quasar, Dan and Dimitri are standing together as a team for both this role and the General ADA holders role.**&#x20;
-
-{% hint style="info" %}
-**Experience of Project Catalyst – which roles have you fulfilled?** CA Fund 6, CA and VCA Fund 7, VCA Flash Assessment Fund 7, Founder of South Asian Town Hall. Member of several groups like Cardano for Climate, Town Hall, Eastern Town Hall, Pacific Town Hall, Swarm, Catalyst Creatives, Community Listeners.
-
-**Experience in the functional group you seek to represent:** Yes, maintain discord server, build swarm boards, hold twitter spaces. I run the South Asian Town Hall. Am designing a template based CA tool to help bring more quality and clarity to CA's often thankless job, and also building various tools such as NFT minting solutions, AI driven Apps, NFT marketplace.
-
-**What do you see as the biggest concerns facing the functional group you hope to represent?**  NO one has applied for this position. No one understands T\&M. The developers and toolmakers are often too busy to consider their own interests. Someone needs to represent them. We three feel we can fulfill the role effectively since none of these roles really can be handled by one individual. We plan on fairly standing up for the rights and benefits of toolmakers since Cardano so far is growing because of efforts of toolmakers. I being a toolmaker can understand. And because we are also in the ADA holder role, we can be fair and important to all concerned.
-
-**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  We can ensure that developers needs are met. That IOG, IOHK and all other authorities consider the needs of toolmakers and maintainers and provide whatever is needed. We want to develop the toolmakers, developers and maintainers to be equally right brained and fully realised in their full potential as human beings. Not just toolmakers and maintainers. Why should they be laboring behind the scenes without being happy and fulfilled as well? Through multiple modalities we will empower the right and left brains of all toolmakers and maintainers.
-
-**What key ideas or issues would you like to champion on behalf of your community?**  We are all toolmakers and maintainers. We will champion the rights of everyone. Since we are all makers of different kinds of tools. Not all are code based. Some are heart based. Some are mind based. Some are knowledge based. Some are gut based. All communities , all around the globe, all have a voice.
-
-**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  A greater sense of autonomy in the community. Everyone should be growing, not just one sector at the expense of another, or one region at the expense of another. If certain regions are lacking behind such as South Asia, South East Asia, West Asia, Pacific Islands and Oceania, North Asia, we want them also to be equally represented in Catalyst and given equal or preferential treatment to come up to the level of other regions.
-
-**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  Dan, Dimitri and I (Quasar) build tools and are dedicated to restorative practices in digital communities. We want to bring about societal change by accessing the C Fund and DCF fund as a community not just where big companies can access these since they too are taking catalyst funding plus DCF funding and then dominating the markets. Why should only big companies get big funding? Why cant small companies, small community groups have access to that funding?
-{% endhint %}
 
 ### Aharon Porath
 
