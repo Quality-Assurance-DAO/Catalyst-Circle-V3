@@ -50,6 +50,24 @@ The term of office for CCv3 members is 3 months. Members may stand again for a s
 **Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?** I have 10 years of experience in IT transition & transformation projects, over 15 years in openSUSE open source project and several large M\&A transactions
 {% endhint %}
 
+### Cardano Cubano
+
+{% hint style="info" %}
+**Experience of Project Catalyst – which roles have you fulfilled?**  Yes, I became a community advisor and had a chance to read many proposals and learn the process and while not having the opportunity to review them I did get the opportunity to vote.
+
+**Experience in the functional group you seek to represent:** Yes. I buy and use ADA regularly. I attend spaces to learn more about Cardano.
+
+**What do you see as the biggest concerns facing the functional group you hope to represent?**  We need patience and allow the scientific process to work and we will come out with the most powerful, secure and trusted blackchin. Price will eventually go up so in the meantime build. Make more ADA!
+
+**A key part of a Circle seat is to be a “sensor array" for opportunities/problems. How do you intend to engage with your functional group and bring existing and emerging issues in your community to the Circle?**  Rugs in the NFT space and the increasing lack of decentralization due to large multipools.
+
+**What key ideas or issues would you like to champion on behalf of your community?**  Not your node, not your ADA! We need everyday ADA holders to run nodes as a way to help secure the network and by having more relays we can help increase the speed.
+
+**At the end of your term as a Circle Representative, what outcomes would represent success in your role?**  More people holding ADA, more wallets, more decentralization, less rugs!
+
+**Is there anything else that you want voters to know as to why you would be a good fit for this seat on the Circle?**  I first bought ADA when it was .80 cents. The second time was .08 cents. I've been an ADA holder through and through. As soon as I could I created a node and while I never ran a pool I did. I created and release a NFT project on Cardano, @CardanoAmigos. Planning on filling a proposal for A Web3 space in our hometowns art district. Trying to cover the whole Cardano vertical! 😊
+{% endhint %}
+
 ## <mark style="color:red;">Funded Proposers nominations</mark>
 
 ### Nebiyu Sultan
