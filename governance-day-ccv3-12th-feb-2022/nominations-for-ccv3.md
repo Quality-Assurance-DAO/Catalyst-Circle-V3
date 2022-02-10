@@ -8,7 +8,7 @@ description: >-
 
 ## Information on CCv3
 
-Remuneration for CCv3 members is dependent on the success of the Fund 7 proposal "[_Sustaining the Circle_](https://cardano.ideascale.com/c/idea/384250)". It is planned to be $1,000 per person.
+Remuneration for CCv3 members will be funded by the Fund 7 proposal "[_Sustaining the Circle_](https://cardano.ideascale.com/c/idea/384250)", and is $1,000 per person.
 
 The term of office for CCv3 members is 3 months. Members may stand again for a second term in CCv4.
 
