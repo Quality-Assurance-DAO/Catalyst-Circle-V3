@@ -7,7 +7,7 @@
 * [Background -  planning the CCv3 election process, Jan 2022](governance-day-ccv3-12th-feb-2022/background-planning-the-ccv3-election-process-jan-2022.md)
 * [The Catalyst Circle Election Process](governance-day-ccv3-12th-feb-2022/the-catalyst-circle-election-process.md)
 * [Nominations for CCv3](governance-day-ccv3-12th-feb-2022/nominations-for-ccv3.md)
-* [voting results CCv3](governance-day-ccv3-12th-feb-2022/voting-results-ccv3.md)
+* [Voting results CCv3](governance-day-ccv3-12th-feb-2022/voting-results-ccv3.md)
 
 ## ccv3 meetings
 

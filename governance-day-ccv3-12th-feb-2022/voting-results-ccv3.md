@@ -1,4 +1,8 @@
-# voting results CCv3
+---
+description: Results of the vote for CCv3
+---
+
+# Voting results CCv3
 
 The results of the vote for CCv3 will be announced at 15:00 UTC on Mon 14th Feb.
 
@@ -7,22 +11,22 @@ The winner in each category will be listed here soon after the announcement; and
 
 ### General Ada Holders representative
 
-TBC
+Dimitri Fernando
 
 ### Funded Proposers representative
 
-TBC
+Mercy A
 
 ### Stakepool Operators representative
 
-TBC
+Rhys Morgan
 
 ### Toolmakers and Maintainers representative
 
-TBC
+Joey Chessher
 
 ### Community Advisors representative
 
-TBC
+Nadia Hopkins
 
 ### &#x20; 
