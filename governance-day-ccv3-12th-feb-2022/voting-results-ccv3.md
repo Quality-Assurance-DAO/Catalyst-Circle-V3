@@ -11,22 +11,22 @@ The winner in each category will be listed here soon after the announcement; and
 
 ### General Ada Holders representative
 
-Dimitri Fernando
+xx
 
 ### Funded Proposers representative
 
-Mercy A
+xxx
 
 ### Stakepool Operators representative
 
-Rhys Morgan
+xxx
 
 ### Toolmakers and Maintainers representative
 
-Joey Chessher
+xxx
 
 ### Community Advisors representative
 
-Nadia Hopkins
+xxx
 
 ### &#x20; 
