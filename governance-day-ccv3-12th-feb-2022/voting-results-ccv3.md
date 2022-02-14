@@ -4,37 +4,61 @@ description: Results of the vote for CCv3
 
 # Voting results CCv3
 
-The results of the vote for CCv3 will be announced at 15:00 UTC on Mon 14th Feb.
+The elections for CCv3 were held on 12th Feb 2022.   The representatives elected are:
 
-\
-The winner in each category will be listed here soon after the announcement; and the full voting results will be added on Monday evening UTC.
+* **General ADA holders** (Dimitri Fernando elected, with 57.4% of the vote)
+* **Funded Proposers**  (Mercy A elected, with 70% of the vote)
+* **Stakepool Operators** (Rhys Morgan elected, with 61.8% of the vote)
+* **Toolmakers and Maintainers** (Joey Chessher elected, with 50% of the vote)
+* **Community Advisors** (Nadia Hopkins elected, after a run-off. Nadia Hopkins and Filip Blagojevic tied in the first vote; and in the run-off, Nadia was elected with 55% of the vote)
 
-### General Ada Holders representative
+Catalyst Circle additionally includes 2 representatives who are appointed by their organisations, rather than elected:&#x20;
 
-Dimitri Fernando
+* from **IOG** (Harris Warren continues in the role)
+* from the **Cardano Foundation** (Bullish Dumpling has been appointed to the role, replacing Matthias Sieber).
+
+## The full voting results for each elected role:
+
+
+
+### General ADA Holders representative
+
+3 people stood for election to the role. Dimitri Fernando was elected.
+
+![](<../.gitbook/assets/General ADA holders.JPG>)
 
 ### Funded Proposers representative
 
-Mercy A
+3 people stood for election to the role. Mercy A. was elected.
+
+![](<../.gitbook/assets/funded proposer.JPG>)
 
 ### Stakepool Operators representative
 
-Rhys Morgan
+5 people stood for election to the role. Rhys Morgan was elected.
+
+![](<../.gitbook/assets/Stakepool operators.JPG>)
 
 ### Toolmakers and Maintainers representative
 
-Joey Chessher
+3 people stood for election to the role. Joey Chessher and Aharon Porath received an equal share of the vote; they decided that they would prefer for Joey Chessher to take the seat, so Aharon stood down and Joey was duly elected.
+
+![](<../.gitbook/assets/toolmakers and maintainers.JPG>)
 
 ### Community Advisors representative
 
-Nadia Hopkins
+3 people stood for election to the role. Nadia Hopkins and Filip Blagojevic went forward to a run-off vote; and in the run-off, Nadia Hopkins was elected.
 
-### Cardano Foundation
+![Results of the first election for CA representative](<../.gitbook/assets/CAs first election.JPG>)
 
-Bullish Dumpling
+![Result of the run-off vote for CA representative](<../.gitbook/assets/CAs run-off.JPG>)
 
-### IOG
+### Cardano Foundation representative
 
-Harris Warren
+Cardano Ambassador Bullish Dumpling was appointed.  [https://twitter.com/BullishDumpling](https://twitter.com/BullishDumpling)
+
+### IOG representative
+
+Harris Warren will continue in the role.
 
 ### &#x20; 
