@@ -21,31 +21,31 @@ Catalyst Circle additionally includes 2 representatives who are appointed by the
 
 
 
-### General ADA Holders representative
+## General ADA Holders representative
 
 3 people stood for election to the role. Dimitri Fernando was elected.
 
 ![](<../.gitbook/assets/General ADA holders.JPG>)
 
-### Funded Proposers representative
+## Funded Proposers representative
 
 3 people stood for election to the role. Mercy A. was elected.
 
 ![](<../.gitbook/assets/funded proposer.JPG>)
 
-### Stakepool Operators representative
+## Stakepool Operators representative
 
 5 people stood for election to the role. Rhys Morgan was elected.
 
 ![](<../.gitbook/assets/Stakepool operators.JPG>)
 
-### Toolmakers and Maintainers representative
+## Toolmakers and Maintainers representative
 
 3 people stood for election to the role. Joey Chessher and Aharon Porath received an equal share of the vote; they decided that they would prefer for Joey Chessher to take the seat, so Aharon stood down and Joey was duly elected.
 
 ![](<../.gitbook/assets/toolmakers and maintainers.JPG>)
 
-### Community Advisors representative
+## Community Advisors representative
 
 3 people stood for election to the role. Nadia Hopkins and Filip Blagojevic went forward to a run-off vote; and in the run-off, Nadia Hopkins was elected.
 
@@ -53,11 +53,11 @@ Catalyst Circle additionally includes 2 representatives who are appointed by the
 
 ![Result of the run-off vote for CA representative](<../.gitbook/assets/CAs run-off.JPG>)
 
-### Cardano Foundation representative
+## Cardano Foundation representative
 
 Cardano Ambassador Bullish Dumpling was appointed.  [https://twitter.com/BullishDumpling](https://twitter.com/BullishDumpling)
 
-### IOG representative
+## IOG representative
 
 Harris Warren will continue in the role.
 
