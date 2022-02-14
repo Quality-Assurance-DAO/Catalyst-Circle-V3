@@ -11,22 +11,30 @@ The winner in each category will be listed here soon after the announcement; and
 
 ### General Ada Holders representative
 
-xx
+Dimitri Fernando
 
 ### Funded Proposers representative
 
-xxx
+Mercy A
 
 ### Stakepool Operators representative
 
-xxx
+Rhys Morgan
 
 ### Toolmakers and Maintainers representative
 
-xxx
+Joey Chessher
 
 ### Community Advisors representative
 
-xxx
+Nadia Hopkins
+
+### Cardano Foundation
+
+Bullish Dumpling
+
+### IOG
+
+Harris Warren
 
 ### &#x20; 
