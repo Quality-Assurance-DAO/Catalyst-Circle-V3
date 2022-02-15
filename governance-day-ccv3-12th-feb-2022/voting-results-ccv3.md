@@ -49,7 +49,7 @@ Catalyst Circle additionally includes 2 representatives who are appointed by the
 
 3 people stood for election to the role. Nadia Hopkins and Filip Blagojevic went forward to a run-off vote; and in the run-off, Nadia Hopkins was elected.
 
-![Results of the first election for CA representative](<../.gitbook/assets/CAs first election.JPG>)
+![Results of the first election for CA representative. Note that three votes were accidentally recorded after the vote had closed; at the close, the votes between Filip Blagojevic and Nadia Hopkins were equal.](<../.gitbook/assets/CAs first election.JPG>)
 
 ![Result of the run-off vote for CA representative](<../.gitbook/assets/CAs run-off.JPG>)
 
