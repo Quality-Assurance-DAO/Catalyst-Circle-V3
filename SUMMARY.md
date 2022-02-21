@@ -11,4 +11,4 @@
 
 ## ccv3 meetings
 
-* [Meeting 1](ccv3-meetings/meeting-1.md)
+* [Onboarding session - 17th Feb 2022](ccv3-meetings/onboarding-session-17th-feb-2022.md)
