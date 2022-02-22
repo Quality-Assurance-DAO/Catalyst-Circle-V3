@@ -75,5 +75,5 @@ Presentation on the Prioritised Problems board
 
 1:46:36                  Check-out; how everyone is feeling
 
-1:57:02                  Meeting close
+1:57:02                  Meeting ends
 
