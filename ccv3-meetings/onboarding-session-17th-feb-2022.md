@@ -43,7 +43,7 @@ This is not a full, decision-making Circle meeting, but simply an introductory s
 
 42:05                     Collaboration between Circle reps
 
-44:14                     Introducing the Prioritised Problems Board&#x20;
+44:14                     Introducing the [**Prioritised Problems Board** ](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/projects/3)****
 
 {% embed url="https://docs.google.com/presentation/d/1GyPQr37dNJ9CiSfbVhdJzXQ17amcyMHi2V1Lop1g4io/edit?usp=sharing" %}
 Presentation on the Prioritised Problems board
