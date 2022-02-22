@@ -30,7 +30,12 @@ This is not a full, decision-making Circle meeting, but simply an introductory s
 
 27:58                     Pay for Circle members and sub-circles
 
-30:01                     Circle Treasury team, mentorship, and Circle funded proposals
+30:01                     Circle Treasury team, mentorship, and Circle funded proposals :
+
+* Sustaining the Circle ($6,000) [https://cardano.ideascale.com/c/idea/384250](https://cardano.ideascale.com/c/idea/384250)
+* CC Admin Team scope expansion ($15,000) [https://cardano.ideascale.com/c/idea/384245](https://cardano.ideascale.com/c/idea/384245)
+* Catalyst Circle Treasury Management ($11,400) [https://cardano.ideascale.com/c/idea/383284](https://cardano.ideascale.com/c/idea/383284)
+* Catalyst Circle Mentorship ($10,000) [https://cardano.ideascale.com/c/idea/385019](https://cardano.ideascale.com/c/idea/385019)
 
 33:17                     Training for Circle in using open source tools
 
@@ -38,7 +43,11 @@ This is not a full, decision-making Circle meeting, but simply an introductory s
 
 42:05                     Collaboration between Circle reps
 
-44:14                     Introducing the Prioritised Problems Board
+44:14                     Introducing the Prioritised Problems Board&#x20;
+
+{% embed url="https://docs.google.com/presentation/d/1GyPQr37dNJ9CiSfbVhdJzXQ17amcyMHi2V1Lop1g4io/edit?usp=sharing" %}
+Presentation on the Prioritised Problems board
+{% endembed %}
 
 57:35                     After Town Halls and problem-sensing
 
@@ -50,9 +59,9 @@ This is not a full, decision-making Circle meeting, but simply an introductory s
 
 1:21:43                  Mentoring with your counterpart from CCv2 and CCv1
 
-1:25:12                  Catalyst Circle website
+1:25:12                  Catalyst Circle website  [https://www.catalystcircle.io/](https://www.catalystcircle.io)
 
-1:27:42                  Additional treasury for community engagement for each seat on Circle
+1:27:42                  The Catalyst Circle Funding Mechanism, an additional treasury for community engagement for each seat on Circle [https://cardano.ideascale.com/c/idea/384249](https://cardano.ideascale.com/c/idea/384249)
 
 1:29:26                  Planning future funding proposals
 
@@ -62,7 +71,7 @@ This is not a full, decision-making Circle meeting, but simply an introductory s
 
 1:42:14                  Representing Cardano Foundation
 
-1:44:27                  Planning  slides for Town Hall next Wednesday
+1:44:27                  Planning slides for Town Hall next Wednesday
 
 1:46:36                  Check-out; how everyone is feeling
 
