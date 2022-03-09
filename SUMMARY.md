@@ -12,3 +12,4 @@
 ## ccv3 meetings
 
 * [Onboarding session - 17th Feb 2022](ccv3-meetings/onboarding-session-17th-feb-2022.md)
+* [Meeting #1, March 3rd 2022, 05:00 UTC](ccv3-meetings/meeting-1-march-3rd-2022-05-00-utc.md)
