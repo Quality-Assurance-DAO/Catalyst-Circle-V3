@@ -239,6 +239,8 @@ Meeting ends **1:51:22**
 
 ## **Key words from this meeting**
 
+![](<../.gitbook/assets/frequentword CCv3#1.JPG>)
+
 ## **Appendix**
 
 ### Intelligent-verbatim transcript of this meeting
