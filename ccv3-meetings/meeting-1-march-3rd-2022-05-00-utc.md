@@ -117,7 +117,7 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 ### **CA incentives - (31:21)**
 
 * Unclear who added this agenda item, so no-one ready to discuss it
-* Nadia got an update on distribution of CA resources [https://docs.google.com/document/d/1l4nI2SGlRoRHTv21VjVWN2oT7Kbloka0V7PrqSwh8fQ/edit](https://docs.google.com/document/d/1l4nI2SGlRoRHTv21VjVWN2oT7Kbloka0V7PrqSwh8fQ/edit) and will be looking through it in detail.
+* Nadia got an [update on distribution of CA resources](https://docs.google.com/document/d/1l4nI2SGlRoRHTv21VjVWN2oT7Kbloka0V7PrqSwh8fQ/edit) and will be looking through it in detail.
 
 ### **d-Reps letter  (Joey, 33:37)**
 
