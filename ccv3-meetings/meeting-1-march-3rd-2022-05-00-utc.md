@@ -173,7 +173,7 @@ Note, it only covers 3 months, so as your Circle tenure is now 6 months, you wou
 
 <mark style="color:red;">**ACTION ITEM:**</mark>** ** Admin team to ask IOG if Circle can get the full funding for the Catalyst Circle Funding Mechanism proposal, rather than in tranches.
 
-<mark style="color:red;">**ACTION ITEM:**</mark> Admin team to add this to the Board as a Prioritised Problem
+<mark style="color:red;">**ACTION ITEM:**</mark> Admin team to add this issue to the Board as a [Prioritised Problem](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/76)
 
 ### **New Prioritised Problem:  “**[**Achieve clarification on exact timing of release of funds each month to funded proposers**](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75)**" – Mercy (1:16:01)**
 
