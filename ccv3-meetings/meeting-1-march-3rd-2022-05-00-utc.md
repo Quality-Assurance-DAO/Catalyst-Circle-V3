@@ -72,7 +72,7 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 
 **Joey (11:32)**
 
-* Attended several meetings, and has brought topics from them to this agenda. Met with June Akra to discuss formation of a sub-circle for Toolmakers and Maintainers. Met with the Philadelphia Cardano group, and submitted proposals with them.
+* Attended Swarm meetings, and has brought topics from them to this agenda. Met with June Akra to discuss formation of a sub-circle for Toolmakers and Maintainers. Met with the Philadelphia Cardano group, and some of them have submitted proposals.
 * Will be working with June as sub-circle representative, and deciding on approach. Will meet with Circle mentor \[_Tevo Saks_], and with Aharon \[_Porath, who also stood for election to CCv3_] to discuss Problems Board cards, and overall approach.
 * No blockers; but challenge is how to fund sub-circle activity – to be discussed in this meeting.           ****          &#x20;
 
