@@ -2,7 +2,7 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/eevf92uTVgI" %}
 
 ## Minutes of Catalyst Circle v3 Meeting #1
 
