@@ -135,7 +135,7 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 * people were concerned that the community had not been brought into the conversation, and that decisions are being made without community input
 * the people at the meetings were thoughtful and professional in their approach.
 
-**(Harris, 38:43):**
+**Harris (38:43):**
 
 * IOG welcomes this type of feedback
 * The letter has been shared widely internally at IOG
@@ -145,9 +145,7 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 * IOG’s goal is also to be more transparent about the Treasury
 * But we need to do that with care, to ensure the Treasuries are not compromised.
 
-**(JP, 45:44**) Glad IOG liked the tone of the letter \[_JP took responsibility for drafting the letter based on the community’s notes_]
-
-&#x20;****&#x20;
+**JP (45:44)** Glad IOG liked the tone of the letter \[_JP took on responsibility for drafting the letter based on the community’s notes_]
 
 ### **Subcircle roles and stipend - Joey (46:47)**
 
