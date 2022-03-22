@@ -62,7 +62,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 ## **2. Circle Stand-Up (13:44)**
 
-NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/projects/3), where each Circle member in turn says
+**NOTE:** The Stand-up is a go-round using the [Prioritised Problems GitHub board](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/projects/3), where each Circle member in turn says
 
 * what they have worked on since last meeting
 * what they will be working on next
@@ -74,15 +74,11 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 * Will have regular meetings with Tevo and Aharon every 2 weeks.
 * Blocked by confusion getting used to times in UTC, but otherwise good.
 
-&#x20;                  ****                  &#x20;
-
 **Nadia (17:57)**
 
 * Updating the CA Guide, together with CA community, with info from IOG about new tools; lots of good collaboration. Begun drafting a VCA guide. Submitted a proposal for a  rapid funding Treasury for the CAs Subcircle; aiming to address the issue of burnout and “proposal fatigue” and to have an experiment in a governance framework for the CA group.
 * Will continue to work on onboarding CAs, and reaching out to other sections of the community
 * No blockers.
-
-&#x20;
 
 **Dumpling (21:56)**
 
@@ -90,23 +86,17 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 * Open discussion event will be 31st March, 9:15 UTC: Frederik and others from CF, and Felix \[_Weber, from Swarm_] will discuss with the community about CF’s involvement with Catalyst. The event won’t be decision-making; just for CF to hear from the community.
 * Blocker – would like Circle members to come to the Discord server and join Twitter space.
 
-&#x20;****&#x20;
-
 **Harris (25:57)**
 
 * The [Catalyst Parameters Pilot](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/63) will be delayed and de-prioritised, so for the time being, Circle will remain as a sensing organisation, not a decision-making one; there are things in the works that will clarify its future role. There’s been discussions in IOG about how we make decisions – Harris met the IO Leadership team, legal team, etc last week. Also met Wallet team re: some new features that are planned.
 * Will be sharing details of these things with the community in coming weeks, but cannot do so yet. Will also be able to move some of the other tickets on the board soon, e.g. “[IOG transitioning from governors to service providers](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/47)”. There will also be some follow-up from IOG to the community’s letter about d-Reps. Will add to the board some specific workshops to share updates with the community. Harris will take on new role of Governance Technologies, so focusing on voting mechanisms and voting tools. What will the future role of Circle be?
 * Main blocker is time; has not had time to engage with Circle members except a short meeting with Nadia.
 
-&#x20;
-
 **Mercy (32:11)**
 
 * Formed a Funded Proposers Subcircle, very representative in terms of time zones; have held one After Town Hall. And Mercy’s slides at Town Hall generated good discussions; Item added to this meeting’s agenda based on that. A Fund 8 proposal has been submitted to [support the Sub-Circle](https://cardano.ideascale.com/c/idea/398211)’s work
 * Funded proposers would like more ways to meet each other, build collaborations, etc but don’t always have time to do it in a meeting – so perhaps a platform like a proposal directory or search engine? This will be added as a problem on the board. Harris is working on the issues around [timing of when funding is released](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75) so hope to hear more on that at next Circle meeting.
 * No blockers.
-
-&#x20;
 
 **Dimitri (40:02)**
 
@@ -119,8 +109,6 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
   * dReps.
   * (46:12) A second [survey](https://forms.gle/KTwxc7eLB7KtGTYK6) was in favour of a retrospective funding bid to pay Circle reps more than what was previously allocated; so Dimitri submitted [a proposal](https://cardano.ideascale.com/c/idea/397306)
 * Planning to attend Africa Town Hall and Pacific Town Hall. Will set up a Reddit account for General ADA Holders
-
-&#x20;
 
 **Rhys (52:07)**
 
