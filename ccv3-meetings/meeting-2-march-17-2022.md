@@ -204,3 +204,17 @@ End-of-meeting feedback form has been updated, and is no longer anonymous. And, 
 Checkout **(1:49:10)** – each member in turn briefly says how they are feeling
 
 Meeting ends **1:53:37**
+
+## **Key words from this meeting**
+
+![](<../.gitbook/assets/frequentword v3 mtg2.JPG>)
+
+## **Appendix**
+
+### Intelligent-verbatim transcript of this meeting
+
+Coming soon
+
+### Agenda for this meeting
+
+{% file src="../.gitbook/assets/Meeting Agenda CCv3 meeting 2 17th March 2022.doc" %}
