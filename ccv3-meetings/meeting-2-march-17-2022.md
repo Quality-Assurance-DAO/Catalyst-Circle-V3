@@ -2,7 +2,7 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/9eOlojGi1Yg" %}
 
 ## Minutes of Catalyst Circle v3 Meeting #2
 
@@ -128,8 +128,6 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 * &#x20;Dropped till next meeting, as the meeting is 25 minutes over time.
 * In brief, Kriss Baird already mentioned the issue at Town Hall – we are all overburdened, and want to consider expanding the length of a funding cycle.
 
-&#x20;****&#x20;
-
 ### **Sub-circles  (Joey, 1:03:10)**
 
 * &#x20; Circle members cannot be everywhere at once, so I plan to pay 5 subcommittee members to attend Town Halls around the word, and discuss on social media, to help problem sense. Will pay then $500 at first and another $500 at the end of the 6 month term.
@@ -148,10 +146,6 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 * Also “handshakes” – the chance for us to get to know key players in IOHK, and for us all to find out who in the community has what skills
 * **(Harris, 1:15:40)** – I like the idea of Fireside Chats; IOG will have information to share soon; particularly working on open APIs to support toolmaking. We want to frame Circle’s activities around Catalyst.
 * **Mercy (1:18:16)** – Inasmuch as we want to focus on Catalyst, we also need to become more global in our outlook.
-
-<mark style="color:red;">**ACTION ITEM**</mark>**:** Admin team to ask IOG if Circle can get the full funding for the Catalyst Circle Funding Mechanism proposal, rather than in tranches.
-
-<mark style="color:red;">**ACTION ITEM:**</mark> Admin team to add this to the Board as a Prioritised Problem
 
 ### **Community Treasury  (Joey, 1:18:39)**
 
@@ -174,7 +168,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 * Nadia and Rhys have discussed how to collaborate to encourage SPOs to become CAs. In general, how do we all collaborate to attract CAs form different parts of the ecosystem? Suggest a working group in Slack to address it.
 * **Nori (1:34:19)** Similar issue arose in Circle v1 with a shortage of CAs; Victor and Felix brought in hundreds of new CAs, so maybe collaborate with them also.
 
-<mark style="color:red;">**ACTION ITEM:**</mark>** ** Nadia and Rhys to co-ordinate planning on Slack; anyone else interested can join.
+<mark style="color:red;">**ACTION POINT:**</mark>** ** Nadia and Rhys to co-ordinate planning on Slack; anyone else interested can join.
 
 ### **Sustainability for core services in Catalyst (Mercy, 1:35:03)**
 
