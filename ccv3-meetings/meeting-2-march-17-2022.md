@@ -108,7 +108,8 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
   * information silos;
   * dReps.
   * (46:12) A second [survey](https://forms.gle/KTwxc7eLB7KtGTYK6) was in favour of a retrospective funding bid to pay Circle reps more than what was previously allocated; so Dimitri submitted [a proposal](https://cardano.ideascale.com/c/idea/397306)
-* Planning to attend Africa Town Hall and Pacific Town Hall. Will set up a Reddit account for General ADA Holders
+* Planning to attend Africa Town Hall and Pacific Town Hall. Will set up a Reddit account for General ADA Holders.
+* No blockers.
 
 **Rhys (52:07)**
 
@@ -119,3 +120,87 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 **Harris (58:26)** Are the reactions in the community towards Catalyst positive?
 
 **Rhys (58:44)** Definitely improving; there is more interest. Until now, many SPOs expect to do things for free; but actually it does cost them money; so I am trying to encourage them to change that mentality and see Catalyst as a funding mechanism because their work supports the community.
+
+## **3. Consent Agenda (1:02:06)**
+
+### **Funding cycles (Joey) - (1:02:25)**
+
+* &#x20;Dropped till next meeting, as the meeting is 25 minutes over time.
+* In brief, Kriss Baird already mentioned the issue at Town Hall – we are all overburdened, and want to consider expanding the length of a funding cycle.
+
+&#x20;****&#x20;
+
+### **Sub-circles  (Joey, 1:03:10)**
+
+* &#x20; Circle members cannot be everywhere at once, so I plan to pay 5 subcommittee members to attend Town Halls around the word, and discuss on social media, to help problem sense. Will pay then $500 at first and another $500 at the end of the 6 month term.
+* They will not just be for Toolmakers, but will report issues relevant to any Circle role, and will collaborate directly with each Circle member.
+* June Akra is already covering Eastern Town Hall, but looking for input on who to select for other areas.
+
+<mark style="color:red;">**ACTION POINT**</mark>: once selected, this group will be invited to join Circle’s Slack
+
+<mark style="color:red;">**ACTION POINT**</mark>**:** Admin team to investigate paid-for Slack add-ons that will enable distribution lists etc
+
+### **Fireside chats, handshakes - Joey (1:09:53)**
+
+* [Voltaire roadmap](https://roadmap.cardano.org/en/voltaire/) says _“When both voting and Treasury systems are in place, Cardano will be truly decentralised and no longer under IOHK’s management. Instead Cardano’s future will be in the hands of the community, who will have everything they need to grow and evolve Cardano from the secure decentralised basis established by IOHK.”_
+* This is not going to happen right away, although some in the community think it is. My opinion is, we are not ready.
+* Joey suggests Harris and others do Fireside Chats – you guys collect information from us on what we're thinking, but we need information back on what IOG are thinking and what are your plans are.
+* Also “handshakes” – the chance for us to get to know key players in IOHK, and for us all to find out who in the community has what skills
+* **(Harris, 1:15:40)** – I like the idea of Fireside Chats; IOG will have information to share soon; particularly working on open APIs to support toolmaking. We want to frame Circle’s activities around Catalyst.
+* **Mercy (1:18:16)** – Inasmuch as we want to focus on Catalyst, we also need to become more global in our outlook.
+
+<mark style="color:red;">**ACTION ITEM**</mark>**:** Admin team to ask IOG if Circle can get the full funding for the Catalyst Circle Funding Mechanism proposal, rather than in tranches.
+
+<mark style="color:red;">**ACTION ITEM:**</mark> Admin team to add this to the Board as a Prioritised Problem
+
+### **Community Treasury  (Joey, 1:18:39)**
+
+* The heartbeat of Catalyst is the Treasury. Can we start some discussions with the Treasury, aiming to replicate their procedures on operations and security and the skill sets that are required to operate a treasury, to work towards handover?
+* And could we put in place a comparatively small Treasury, maybe $1M in a permanent fund and $0.6M in an operating fund, and put in place all the all the functionality that is exists right now in the main Treasury, so that we can learn how to operate a treasury so that we can build confidence?
+
+<mark style="color:red;">**ACTION POINT**</mark>: to be discussed further in future meetings and on Slack.
+
+### **Circle as a VCA arbitration body  (Nadia, 1:22:23)**
+
+* **Nadia (1:22:23**) vCAs are refining how they determine assessment quality. If someone is assessing in a questionable way, could Circle be an arbitration body, to give greater transparency and integrity to the process?
+* **Harris (1:25:21)** IOG can help address identifying problems, via scripting etc; but we could also have a task force composed of Circle members, IOG and technical people to address it, because there are technical issues involved. But many of the decisions on this are with IOG now, and probably need to be wider.
+* **Nadia (1:27:26)** To clarify, the body I’m suggesting would not do the analysis of the data, but would see the result of that analysis.
+* **Dimitri (1:27:42)** If Circle members are themselves CAs and VCAs, would this be a conflict of interest? Also – to arbitrate, I would need to understand how the evidence was arrived at. And, if action is to be taken against as CA or VCA, that person should have the right to speak for themselves too.
+* **Mercy (1:29:17)** Agree – vCAs know where the problems are, but they should not be judge and executioner; having Circle as another layer of arbitration is better.
+* **Nadia, (1:30:59)** – additionally, related to a current proposal that aims to map or visualise the workings of Catalyst overall; the community would vote on the different versions, but then it needs a layer of observing whether or not they were correct. So it’s related to Circle as a kind of arbitration; in general, could Circle provide this for some of the outcomes of projects? Just to be aware of it.
+
+### **Collaborating to recruit CAs (Nadia, 1:32:23)**
+
+* Nadia and Rhys have discussed how to collaborate to encourage SPOs to become CAs. In general, how do we all collaborate to attract CAs form different parts of the ecosystem? Suggest a working group in Slack to address it.
+* **Nori (1:34:19)** Similar issue arose in Circle v1 with a shortage of CAs; Victor and Felix brought in hundreds of new CAs, so maybe collaborate with them also.
+
+<mark style="color:red;">**ACTION ITEM:**</mark>** ** Nadia and Rhys to co-ordinate planning on Slack; anyone else interested can join.
+
+### **Sustainability for core services in Catalyst (Mercy, 1:35:03)**
+
+* On the discussion we had last meeting around this – let’s be mindful not to think that certain people are more qualified than others. Whoever is willing and interested can come in, and then it’s up to the community to make it inclusive and accessible via training.
+* **Nori (1:36:10**) There are several proposals and Fund 9 challenge settings on this – it’s worth looking at the different ideas on how to address the sustainability of Circle.
+
+### **Compensation for Circle members (Dimitri, 1:37:09)**
+
+* Outcome of Dimitri's [survey](https://forms.gle/KTwxc7eLB7KtGTYK6) – Only about 20 respondents; but it supported compensation between $3,000 to $5,000 a month for Circle; and supported retroactive funding.
+* Dimitri submitted a Fund 8 proposal for $3,000 per month per Circle member, with Mercy as co-proposer.
+* **Joey (1:40:37)** Did the survey ask about yearly compensation instead of monthly?
+* **Dimitri (1:41:17)** No.
+* **Harris (1:42:40)** Interesting tool for surveys that includes some AI [https://pol.is/](https://pol.is)
+* **Nori (1:43:16)** On pay – it’s supposed to be 10 hours a week, but most people are doing more – how many?
+* **Rhys (1:45:07)** Be wary of calling it a full-time role, or people might think they need to leave their job to stand for election to Circle.
+
+### **D-Reps letter from the community (Harris, 1:45:57)**
+
+* IOG is really grateful for the community’s initiative, and will be responding by letter in turn, followed by workshops and sharing information.
+
+### **Changes to meeting feedback form ( Nori 1:46:34)**
+
+End-of-meeting feedback form has been updated, and is no longer anonymous. And, as Circle is now funded, it includes a section for you to give information to help Admin write our monthly funded proposer report to IOG. Also include information on your work with your mentors so we can track that.
+
+## **4. Checkout and close (1:49:10)**
+
+Checkout **(1:49:10)** – each member in turn briefly says how they are feeling
+
+Meeting ends **1:53:37**
