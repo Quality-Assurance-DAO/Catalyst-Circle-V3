@@ -107,7 +107,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
   * governance work should not be reliant on proposals; Circle members should receive enough money to do the job in a professional manner;
   * information silos;
   * dReps.
-  * (46:12) A second [survey](https://forms.gle/KTwxc7eLB7KtGTYK6) was in favour of a retrospective funding bid to pay Circle reps more than what was previously allocated; so Dimitri submitted [a proposal](https://cardano.ideascale.com/c/idea/397306)
+  * (46:12) A second [survey](https://forms.gle/KTwxc7eLB7KtGTYK6) was in favour of a retrospective funding bid to pay Circle reps more than what was previously allocated (survey results [here](https://imgur.com/a/pxH471C)); so Dimitri submitted [a proposal](https://cardano.ideascale.com/c/idea/397306)
 * Planning to attend Africa Town Hall and Pacific Town Hall. Will set up a Reddit account for General ADA Holders.
 * No blockers.
 
