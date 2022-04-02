@@ -4,7 +4,7 @@
 
 coming soon
 
-## Minutes of Catalyst Circle v3 Meeting #2
+## Minutes of Catalyst Circle v3 Meeting #3
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
@@ -18,4 +18,24 @@ coming soon
 ### Abbreviations used/Glossary
 
 coming soon
+
+## 1. Opening, agenda (0:00)
+
+## 2. Circle stand-up (11:14)
+
+## 3. Consent agenda (1:17:44)
+
+## Checkout and close (1:55:53)
+
+## Key words from this meeting
+
+## Appendix
+
+### Intelligent-verbatim transcript of this meeting
+
+### Agenda for this meeting
+
+##
+
+
 
