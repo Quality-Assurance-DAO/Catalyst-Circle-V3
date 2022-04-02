@@ -49,6 +49,8 @@ QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://qual
 
 SPO – stakepool operator
 
+T\&Cs - Terms and Conditions
+
 VCA – Veteran Community Advisor, a role open to those who have been a CA in previous rounds, to assess the CAs’ reviews
 
 Voltaire – the next phase on the [Cardano roadmap to decentralisation](https://roadmap.cardano.org/en/voltaire/)
@@ -165,13 +167,13 @@ Dumpling is not present, as she is hosting a Twitter Space with [Frederik Gregaa
 * Recent events have called into question what we do as Circle members; we should all be working for the betterment of the community and setting an example of behaviour.
 * Creating a code of conduct should be shared among this group; it does not need to come from IOG Legal. But we need to find a legal resource to brainstorm.
 * &#x20;I am happy to set up the meeting and the structure and invite all of you to it.
-* We do have the nomination criteria, which was the original intent of what our roles should be; but we did not start with a charter or any formal laws. So we need guidelines on what’s right and wrong, without adding bureaucracy. I think we need a code of conduct for the Circle, and one for Project Catalyst as a whole. Then there are also IdeaScale T\&Cs.
-* There have been some very specific violations of IdeaScale T\&Cs with some of Dimitri’s proposals, so I would like to have a breakout room with him on that, and I want to inform him first; there are specific proposals and user profiles that we believe are in violation and will likely be removed
+* We do have the [nomination criteria](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/governance-day-ccv3-12th-feb-2022/nomination-criteria-for-circle-v3), which was the original intent of what our roles should be; but we did not start with a charter or any formal laws. So we need guidelines on what’s right and wrong, without adding bureaucracy. I think we need a code of conduct for the Circle, and one for Project Catalyst as a whole.&#x20;
+* There are also the IdeaScale T\&Cs - there have been some very specific violations of these with some of Dimitri’s proposals, so I would like to have a breakout room with him on that, and I want to inform him first; there are specific proposals and user profiles that we believe are in violation and will likely be removed.
 * I propose we start with a brainstorm on what Circle members should and should not do; ditto Sub Circle members; and how should Circle members handle proposals. Any other items, people can add to the card on GitHub.
-* **Nadia (1:26:00)** For transparency, as a listening body, we should also include a process for raising issues from the community.
+* **Nadia (1:26:00)** For transparency, as a listening body, we should also include a process for raising issues on this from the community.
 * **Harris (1:27:20)** I think it's part of the the code of conduct; there has to be something clearer that says how this will would get worked out, maybe based on the model that that the CAs group has developed; but yes I do think it's appropriate. We are a listening body; that is our primary function.
 * **Dimitri (1:28:09)** My kids submitted proposals, then later we realised you have to be over 18. So could I submit those proposals myself in a later fund? And can the kids be co-proposers?  (Discussion of the details of this)
-* **Harris (1:30:47)** Terms and conditions is what's driving us. Who is eligible to propose may be outside the scope of this discussion, but IOG can raise it as a concern, and find the right body who could have decision making power. And we need to address the concerns of the community. I will establish a follow up meeting for Circle to discuss, then we will make a summary of that public, give the community the opportunity to comment, and then bring it to an After Town Hall. And Dimitri, we will have a more detailed discussion on legalities, and there will be some specific actions we will take.
+* **Harris (1:30:47)** Terms and conditions is what's driving us. Who is eligible to propose may be outside the scope of this meeting's discussion, but IOG can raise it as a concern, and find the right body who could have decision making power. And we need to address the concerns of the community. I will establish a follow up meeting for Circle to discuss, then we will make a summary of that public, give the community the opportunity to comment, and then bring it to an After Town Hall. And Dimitri, we will have a more detailed discussion on legalities, and there will be some specific actions we will take.
 * **Nori (1:33:40)** The discussion of Circle roles should also include clarifying the roles of the Admin team, and getting clarity for the community that we are not a governance body but merely secretaries and administrators.
 
 <mark style="color:red;">**ACTION POINT:**</mark> Harris to arrange a follow-up Circle meeting on what Circle's roles are, and then discussions with the community.
@@ -183,10 +185,10 @@ Already covered in Stand-up section of the meeting. Removed from agenda.
 ### **“Funded proposers” or “Proposers”? - Mercy (1:34:58)**
 
 * On Weds, an After Townhall between Mercy and Nadia discussed the whole process of fund 8 from perspective of both CAs and funded proposers and whether it can be improved or streamlined.
-* It identified that a lot of the issues are on the proposers’ side; submission of proposals, what is appropriate, perhaps a code of conduct, which ties in with Harris’s idea of a code of conduct for Catalyst.
-* I am being tagged in a lot of discussions on difficulties with proposal process; but I know my role is specifically _**funded**_ proposers. So am I overreaching, to get involved in this initiative? And if I am, do we have a responsibility collectively as Circle?
-* **Harris (1:40:10**) There is a lot of work to do for \*funded\* proposers. Potential proposers  may need support and representation; maybe that is a new Circle seat eventually, but now, it’s your call.
-* **Nadia (1:42:16)** True; but it’s a lot of work for both of us if things go awry. If things go right upstream, it improves things later in the process. There is also a lot of community contribution – Mercy and I will just be facilitating the conversation around system updates, and letting solutions emerge.
+* It identified that a lot of the issues are on the proposers’ side; submission of proposals, what is appropriate? Perhaps a code of conduct is needed, which ties in with Harris’s idea of a code of conduct for Catalyst.
+* I am being tagged in a lot on discussions about difficulties with the proposal process; but I know my role is specifically _**funded**_ proposers. So am I overreaching, to get involved in this? And if I am, do we have a responsibility collectively as Circle?
+* **Harris (1:40:10**) There is a lot of work to do for \*funded\* proposers. Potential proposers  may need support and representation too; maybe that is a new Circle seat eventually, but now, it’s your call whether you want to take it on.
+* **Nadia (1:42:16)** True; but it’s a lot of work for both Mercy and I if things go awry. If things go right upstream, it improves things later in the process. There is also a lot of community contribution – Mercy and I will just be facilitating the conversation around system updates, and letting solutions emerge.
 * **Mercy (1:43:26)** Does Circle hold a collective responsibility here, in the sense that the core we align around is the Cardano treasury and the administration of proposals?
 * **Nori (1:44:40)** A good topic for the Code of Conduct meeting where we establish the boundaries of what Circle does.
 * **Rhys (1:47:11)**  I’d like to get permission to livestream our discussion about the code of conduct and our roles, for transparency. And on this issue, there’s a need for better education on the process of proposing.
@@ -196,18 +198,18 @@ Already covered in Stand-up section of the meeting. Removed from agenda.
 
 ### **Admin issues  (Nori, 1:48:23)**
 
-* We are using a new view for the Prioritised Problem board
+* We are now using a new view for the Prioritised Problem board.
 * I hear Dumpling’s message that GitHub is not super-easy – Stephen \[_Whitenstall_] Is funded to offer training on open-source tools, he has been doing some recorded sessions so Dumpling, we will get you the help you need.
 * **Harris (1:49:19)** Catalyst Circle.io website is down.
 * **Nori (1:49:25)** We will fix that; but also there has been no content to put in it. Admin cannot create the content, but we can technically make it happen – we need a discussion as Circle about what should be on it.
 
-<mark style="color:red;">**ACTION ITEM:**</mark> Admin to facilitate arranging GitHub training as a group with Stephen
+<mark style="color:red;">**ACTION ITEM:**</mark> Circle Admin team to facilitate arranging GitHub training as a group with Stephen
 
 ### **Asynchronous work  (Nori, 1:51:00)**
 
 * It’s good that people are working asynchronously on Slack more and more.
-* [Loom](https://www.loom.com) : useful tool to record short video messages, while sharing your screen, and it’s playable inline in a chat.
-* **(1:52:11)** explanation of how Circle Slack channels are organised
+* [Loom](https://www.loom.com) : useful tool to record short video messages, while sharing your screen, and it’s playable inline in a chat. Might help avoid the issues that can arise text-only.
+* **(1:52:11)** explanation of how Circle Slack channels are organised.
 * **Mercy (1:53:02)** Last meeting we said we would include the sub-circle members in Slack, what’s the next steps for that?
 * **Nori (1:53:19)** We can do that; but if we move to a professional Slack account to give additional features; the cost is per user, so as we invite more people it will cost more. Discuss in Slack how far we should open it up.
 
@@ -219,14 +221,14 @@ Already covered in Stand-up section of the meeting. Removed from agenda.
 
 **Rhys (1:54:31)**  How can people access the Circle Admin team meetings?
 
-**Nori (1:54:56)** They are recorded, but currently  not shared anywhere because they are not very interesting; but we can do so if there is interest. We are also talking about opening the meeting up so anyone interested can sit in.
+**Nori (1:54:56)** They are recorded, but currently  not shared anywhere because we felt they are not very interesting; but we can do so if there is interest. We are also talking about opening the meetings up, so anyone interested can sit in and listen.
 
 ## 4. Checkout and close (1:55:53)
 
 * Meeting feedback form **(1:55:53)**
-* **Checkout (1:56:33)** – each member in turn briefly says how they are feeling
+* **Checkout (1:56:33)** – each member in turn briefly says how they are feeling.
 * **Dumpling (1:58:00)** – Feedback on Twitter Space with Frederik Gregaard of CF – he said CF will be more involved in Catalyst, and will set Challenges, but do not see themselves voting on proposals. More detail in next meeting, meanwhile [listen on Twitter](https://twitter.com/CardanoStiftung/status/1509623423567237120)
-* **Rhys (2:04:14)** Can we share the agenda as a PDF immediately after the meeting? People are becoming more interested in understanding our working process. (Agreed)
+* **Rhys (2:04:14)** Can we share the agenda of these Circle meetings as a PDF immediately after the meeting? People are becoming more interested in understanding our working process. (Agreed)
 
 ## Key words from this meeting
 
