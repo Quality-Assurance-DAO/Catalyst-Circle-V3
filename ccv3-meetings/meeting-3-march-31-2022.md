@@ -101,7 +101,8 @@ Circle Stand-up has been slightly reformulated: each Circle member in turn will 
 <mark style="color:red;">**ACTION POINT**</mark> [anti-scammers initiative on social media](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/45) assigned to Dimitri and moved back to Researching, as we have lost some context on it
 
 * No blockers.
-* I worked with a Spanish speaking CA and saw the difficulties he faced; in future I want to raise problem of how we enable non-English speakers. **Nadia (40:06)** The language issue was also raised very thoughtfully by many in the CA community; it will be a positive thing for us to consider  **Harris (41:06)** As a global platform we do need to accommodate multiple languages
+* I worked with a Spanish speaking CA and saw the difficulties he faced; in future I want to raise problem of how we enable non-English speakers.&#x20;
+* **Nadia (40:06)** The language issue was also raised very thoughtfully by many in the CA community; it will be a positive thing for us to consider.  **Harris (41:06)** As a global platform we do need to accommodate multiple languages.
 
 <mark style="color:red;">**ACTION POINT:**</mark> Nadia to add the languages issue to the Board as a problem when she adds her other new problems. TBC who to assign it to.
 
@@ -121,25 +122,25 @@ Circle Stand-up has been slightly reformulated: each Circle member in turn will 
 
 ### **Joey (53:04)**
 
-* I worked with Felix, Tevo and Stephen on my tickets. [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) is a whole community issue, so it should be moved to “Community issues” for long term monitoring. Mentors felt they’d made progress on this via establishing Discord channels, which provided a safe place for listening. (Transcriber note: this refers to the Listeners, a community created group which was not actually established by Circle.) Tevo stated there is an attempt to revitalise the execution of first ideated deliverables like forms and training sessions after the proposal submitting stage and time will tell if the focus has shifted. You just have to monitor it.
+* I worked with Felix, Tevo and Stephen on my tickets. [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) is a whole community issue, so it should be moved to “Community issues” for long term monitoring. Mentors felt they’d made progress on this via establishing Discord channels, which provided a safe place for listening. (_Transcriber note: this refers to the Listeners, a community created group which was not actually established by Circle._) Tevo stated there is an attempt to revitalise the execution of first ideated deliverables after the proposal submitting stage is over, and time will tell if the focus has shifted.
 
-<mark style="color:red;">**ACTION POINT:**</mark> [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) assigned to Joey and moved into “prototyping in progress”.
+<mark style="color:red;">**ACTION POINT:**</mark> [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) assigned to Joey and moved to “prototyping”.
 
-* [Circle relationship with Catalyst proposals](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61) was originally about fund 7 proposals; but it can also be part of the conversation on Circle code of conduct. . Ticket moved to “Prototyping in progress”.
+* [Circle relationship with Catalyst proposals](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61) was originally about fund 7 proposals; but it can also be part of the conversation on Circle code of conduct. . Ticket moved to “Prototyping”.
 
-<mark style="color:red;">**ACTION POINT:**</mark> Joey to add the relevant Fund 7 proposals to the ticket
+<mark style="color:red;">**ACTION POINT:**</mark> Joey to add the relevant Fund 7 proposals to the card for [Circle relationship with Catalyst proposals](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/61) .
 
-* [Funded cohorts: almost non existing “collaborative layer” to welcome newcomers](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48) is in progress. This is specifically about welcoming new funded proposers, and there is still some work to be done, although some progress has been made via Challenge Teams. Moved to “Prototyping in progress”.
-* [T\&M need for community reward systems](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/54) is “In progress” – Gimbalabs is working on a token incentive project, and PACE is working on a community crediting process and creating a community landing page. **Dimitri  (59:36)** is planning a proposal to give incentives for introducing new people to Catalyst.
+* [Funded cohorts: almost non existing “collaborative layer” to welcome newcomers](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/48) is in progress. This is specifically about welcoming new funded proposers, and there is still some work to be done, although some progress has been made via Challenge Teams. Moved to “Prototyping”.
+* [T\&M need for community reward systems](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/54) is in progress – Gimbalabs is working on a token incentive project, and [PACE](https://twitter.com/cardanopace) is working on a community crediting process and creating a community landing page. **Dimitri  (59:36)** is planning a proposal to give incentives for introducing new people to Catalyst. They will all collaborate.
 * [Lack of onboarding structures](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/56) – In progress. ADAGov is working on a Catalyst Ecosystem Mapping tool. Fluid 7 Swarm Labs are working on a Media and Marketing Lab. Stephen \[_Whitenstall_] recommend making the problem more specific and oriented towards a deliverable, i.e. to choose an onboarding system and for CCv3 to support it through to completion. Ticket assigned to Joey, who will get more clarity on these initiatives.
 * [Faster funding for Catalyst projects](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/52) – moved to “sign off” - Completed via the successful Fund 7 proposal to give $7k in rapid funding to Circle v3 projects, and the rapid funding challenge setting and other mechanisms introduced by Circle v2.
 
-**Nadia  (1:04:18)** On [Lack of onboarding structures](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/56) there is a group of  newer people from the CA side who are working on this role-specifically, But I think it'd be interesting to bring them together and think about it from a system-wide perspective. So I will help with that.\
-**Harris (1:05:22**) – there is also a lot of thinking on this from IOG and some new things that are going to be forthcoming, so I want to be involved too
+**Nadia  (1:04:18)** On [Lack of onboarding structures](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/56), there is a group of  newer people from the CA side who are working on this in a role-specific way, but I think it'd be interesting to bring them together and think about it from a system-wide perspective. So I will help with that.\
+**Harris (1:05:22**) – there is also a lot of thinking on this from IOG and some new things that are going to be forthcoming, so I want to be involved too.
 
 ### **Dumpling (1:06:13)**
 
-Dumpling is not present, as she is hosting a Twitter Space with Frederik Gregaard, the CEO of Cardano Foundation; so she has sent a video update.
+Dumpling is not present, as she is hosting a Twitter Space with [Frederik Gregaard](https://cardanofoundation.org/en/news/cardano-foundation-appoints-frederik-gregaard-as-ceo-and-strengthens-its-executive-leadership/), the CEO of Cardano Foundation; so she has sent a video update.
 
 * Have been getting community feedback via Twitter Spaces, and gathering questions, on recent events re: the potential removal of Dimitri. Many people I spoke to are concerned about how it is being handled. Some want a public vote. Also many people incorrectly think CCv3 are trying to remove Dimitri.
 * Blockers – I do not like GitHub. I prefer not to spend time on it, I only want to work on the things I want to work on. Perhaps a video tutorial would help.
@@ -147,10 +148,10 @@ Dumpling is not present, as she is hosting a Twitter Space with Frederik Gregaar
 
 ### **Rhys (1:12:11)**
 
-* Have been promoting Catalyst and encouraging discussion of the funding timeline. [Involve SPOs in Catalyst projects](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/50) - I focused on this for 4 weeks via encouraging SPOs to submit proposals, did well, and have now moved to next phase.&#x20;
-* With Andre (Treasury)’s help I figured out how to access the rapid funding for Circle reps and am co-ordinating payments to people who have promoted Catalyst in their Spaces; formal spreadsheet for this is on the card.&#x20;
-* Have also had a lot of questions on what’s been going on, confusion from people about Circle’s role; some people believe we are a governing body.
-* In future happy to get involved with [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) , and  [Systems to track trust and participation](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37) – I’m an Atala PRISM pioneer, and I spoke to someone today about figuring out a DID  implementation for this, which should be possible in time for Fund 9. )
+* Have been promoting Catalyst and encouraging discussion of the funding timeline. [Involve SPOs in Catalyst projects](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/50) - I focused on this for 4 weeks via encouraging SPOs to submit proposals, we did well, and have now moved to next phase.&#x20;
+* With Andre (Treasury)’s help I figured out how to access the rapid funding for Circle reps and am co-ordinating payments to people who have promoted Catalyst in their Spaces; a formal spreadsheet for this is on the card.&#x20;
+* Have also had a lot of questions on what’s been going on; confusion from people about Circle’s role; some people believe we are a governing body.
+* In future happy to get involved with [Nurturing a listening culture](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/69) , and [Systems to track trust and participation](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/37) – I’m an Atala PRISM pioneer, and I spoke to someone today about figuring out a DID implementation for this, which should be possible in time for Fund 9.&#x20;
 * On [anti-scammers initiative on social media](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/45)  it’s an ongoing issue but all we can do as Circle is  encourage education about it. &#x20;
 * [Lack of onboarding structures](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/56)  I agree with this being an issue; I didn't understand the processes behind Catalyst until I was actually submitting proposals; info is very disparate in many different places  so a central hub would be useful.
 * No blockers (except a problem with permissions getting into the GitHub board.
@@ -163,7 +164,7 @@ Dumpling is not present, as she is hosting a Twitter Space with Frederik Gregaar
 
 * Recent events have called into question what we do as Circle members; we should all be working for the betterment of the community and setting an example of behaviour.
 * Creating a code of conduct should be shared among this group; it does not need to come from IOG Legal. But we need to find a legal resource to brainstorm.
-* &#x20;I am happy to set up the meeting and the structure and invite all of you to brainstorm.
+* &#x20;I am happy to set up the meeting and the structure and invite all of you to it.
 * We do have the nomination criteria, which was the original intent of what our roles should be; but we did not start with a charter or any formal laws. So we need guidelines on what’s right and wrong, without adding bureaucracy. I think we need a code of conduct for the Circle, and one for Project Catalyst as a whole. Then there are also IdeaScale T\&Cs.
 * There have been some very specific violations of IdeaScale T\&Cs with some of Dimitri’s proposals, so I would like to have a breakout room with him on that, and I want to inform him first; there are specific proposals and user profiles that we believe are in violation and will likely be removed
 * I propose we start with a brainstorm on what Circle members should and should not do; ditto Sub Circle members; and how should Circle members handle proposals. Any other items, people can add to the card on GitHub.
