@@ -167,16 +167,17 @@ Dumpling is not present, as she is hosting a Twitter Space with Frederik Gregaar
 * We do have the nomination criteria, which was the original intent of what our roles should be; but we did not start with a charter or any formal laws. So we need guidelines on what’s right and wrong, without adding bureaucracy. I think we need a code of conduct for the Circle, and one for Project Catalyst as a whole. Then there are also IdeaScale T\&Cs.
 * There have been some very specific violations of IdeaScale T\&Cs with some of Dimitri’s proposals, so I would like to have a breakout room with him on that, and I want to inform him first; there are specific proposals and user profiles that we believe are in violation and will likely be removed
 * I propose we start with a brainstorm on what Circle members should and should not do; ditto Sub Circle members; and how should Circle members handle proposals. Any other items, people can add to the card on GitHub.
-* **Nadia (1:26:00)** For transparency, we should also include a process for raising issues from the community
+* **Nadia (1:26:00)** For transparency, as a listening body, we should also include a process for raising issues from the community.
+* **Harris (1:27:20)** I think it's part of the the code of conduct; there has to be something clearer that says how this will would get worked out, maybe based on the model that that the CAs group has developed; but yes I do think it's appropriate. We are a listening body; that is our primary function.
 * **Dimitri (1:28:09)** My kids submitted proposals, then later we realised you have to be over 18. So could I submit those proposals myself in a later fund? And can the kids be co-proposers?  (Discussion of the details of this)
-* **Harris (1:30:47)** IOG can raise it as a concern and find the right body who could have decision making power. And we need to address the concerns of the community. I will establish a follow up meeting for Circle to discuss, then we will bring a summary to an After Town Hall for the community to comment. And Dimitri, we will have a more detailed discussion of specific legalities and there will be some specific actions taken
-* **Nori (1:33:40)** It should also include clarifying the roles of the Admin team, and getting clarity for the community that we are not a governance body but merely secretaries and administrators.)
+* **Harris (1:30:47)** Terms and conditions is what's driving us. Who is eligible to propose may be outside the scope of this discussion, but IOG can raise it as a concern, and find the right body who could have decision making power. And we need to address the concerns of the community. I will establish a follow up meeting for Circle to discuss, then we will make a summary of that public, give the community the opportunity to comment, and then bring it to an After Town Hall. And Dimitri, we will have a more detailed discussion on legalities, and there will be some specific actions we will take.
+* **Nori (1:33:40)** The discussion of Circle roles should also include clarifying the roles of the Admin team, and getting clarity for the community that we are not a governance body but merely secretaries and administrators.
 
-<mark style="color:red;">**ACTION POINT:**</mark> Harris to arrange breakouts, and then discussions with the community.
+<mark style="color:red;">**ACTION POINT:**</mark> Harris to arrange a follow-up Circle meeting on what Circle's roles are, and then discussions with the community.
 
 ### **Update prioritised problem board  (Joey, 1:34:28)**
 
-Already covered in Stand-up section of the meeting
+Already covered in Stand-up section of the meeting. Removed from agenda.
 
 ### **“Funded proposers” or “Proposers”? - Mercy (1:34:58)**
 
@@ -204,16 +205,14 @@ Already covered in Stand-up section of the meeting
 ### **Asynchronous work  (Nori, 1:51:00)**
 
 * It’s good that people are working asynchronously on Slack more and more.
-* [Loom](https://www.loom.com) is a useful tool that allows you to record short video messages, while sharing your screen, and it’s playable inline in a chat.
+* [Loom](https://www.loom.com) : useful tool to record short video messages, while sharing your screen, and it’s playable inline in a chat.
 * **(1:52:11)** explanation of how Circle Slack channels are organised
 * **Mercy (1:53:02)** Last meeting we said we would include the sub-circle members in Slack, what’s the next steps for that?
 * **Nori (1:53:19)** We can do that; but if we move to a professional Slack account to give additional features; the cost is per user, so as we invite more people it will cost more. Discuss in Slack how far we should open it up.
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Mercy to start discussion on Slack about inviting SubCircle members
 
-<mark style="color:red;">**ACTION ITEM:**</mark> Nori to post relevant costs there, for all to review.
-
-
+<mark style="color:red;">**ACTION ITEM:**</mark> Nori to post costs of Professional Slack account there, for all to review.
 
 ### **Circle admin meetings (Rhys 1:54:31)**
 
@@ -229,6 +228,12 @@ Already covered in Stand-up section of the meeting
 * **Rhys (2:04:14)** Can we share the agenda as a PDF immediately after the meeting? People are becoming more interested in understanding our working process. (Agreed)
 
 ## Key words from this meeting
+
+some of the most frquesntly used words in this meeting were:
+
+![](<../.gitbook/assets/frequentword ccv3#3.JPG>)
+
+
 
 ## Appendix
 
