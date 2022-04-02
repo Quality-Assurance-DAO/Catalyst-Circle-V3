@@ -25,7 +25,7 @@ coming soon
 
 ## 3. Consent agenda (1:17:44)
 
-## Checkout and close (1:55:53)
+## 4. Checkout and close (1:55:53)
 
 ## Key words from this meeting
 
