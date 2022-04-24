@@ -151,6 +151,64 @@ Relate your comments to the cards on the [Prioritised Problems GitHub board](htt
 
 ## 3. Consent agenda (56:13)
 
+### **Clarification on Budget for fund 9 being in ADA (Mercy) (56:57)**
+
+* &#x20;Last week a Kriss Baird gave a Town Hall presentation on what Fund 9 will look like; it said the total budget will be $16m or 16m ADA, whichever is smaller. There is some confusion in the community on what that means in practice.
+* **Harris (58:14)** The concept is that the budget will be 16m ADA. So because ADA fluctuates, this could impact the community. If ADA value goes up, then the fund budget could be more than $16m. So the idea is that we cap the amount that would be budgeted towards Fund 9 at $16m dollars. If the value of ADA falls, then there could be less than $16m dollars available. We are asking that proposals are still submitted in USD. The potential impact is that is the value of ADA falls dramatically, then fewer proposals would receive funding; but if the value goes up, we will still retain the cap of $16m USD, and there would be an additional amount as a “slush fund” that would be used for future adjustments, to compensate. If there is a dramatic swing, the intention is that we would investigate whether it was possible to make additional Treasury requests to get additional funds. The intention is that proposers will submit budgets in USD, and will receive funding in the ADA equivalent at the time of a translation.&#x20;
+* So (1:01:11) ultimately the aim is to create some sort of stablecoin or stable environment; but we want to increase our responsibility in the Treasury by placing a cap, to allow us to slow down a little and not double in size. We are also aiming to build in a little more time in starting the next Fund, to ensure our systems and processes are in place. So we want to make sure that proposers can still plan effectively and submit proposals in US dollars; but at the time of fund allocation, depending on the votes, we have a process in place to address how much funds are left and how many proposals are funded.
+* **Joey (1:02:52)** Say I am a funded proposer, and I have $1,000 in my budget for marketing, and 1 ADA was $1 when I submitted my proposal.  If ADA goes up to $1.25, then I still get $1,000. But if ADA falls to 50 cents, do I still get $1,000 worth of ADA for my marketing, or do I get less?
+* **Harris (1:03:25)** You would still get the $1,000 as a funded proposer. There are a couple of points of conversion. We will start with ADA as the original denomination; we still want to honour your $1,000 request. So at the time of funding, there is a conversion that says “At this time, $1,000 equals this much ADA” – and that’s the amount you would receive. It can be confusing, because it is in ADA when we send it to you, and you can convert it into dollars if you choose, or you can leave it in ADA. We would like us all to be thinking in ADA at some point soon – but we know there is a dependency, and proposers are budgeting in dollars, so we want to ensure proposers gat the amount they budgeted for; so it’s important that we are not throwing that wild adjustment in your lap.
+* **Mercy (1:05:21)** I think the issue is when the points of conversion are, and how many there are – can we get more clarity on that? At the moment, what I am hearing is that one major point of conversion is when the voting is done for Fund 9 and monies need to be disbursed. So if at that point, if the value of ADA is low then what happens is that fewer projects will be funded?
+* **Harris (1:06:30)** Correct. And since we are receiving from the Treasury in ADA now, there is no point of conversion there, and that makes it dependable and understandable how much of the Treasury is being allocated for the purpose of Catalyst.
+* **Nori (1:10:39)** I understand the desire still to make the proposers whole in the US budget amounts, even when they are paid in tranches. However, if that is the case, and the price of ADA goes down versus the US dollar over time, then the amount of total ADA that needs to be paid out at each of those transfers will go up, which could exceed the 16 million cap - so how is that situation handled? Because it would require more ADA than the 16 million ADA cap if the value of ADA keeps going down.
+* **Harris (1:11:24)** That’s true. There will be some fluctuation. But if it goes up (and we hope it will) the value will be higher but we’ll still cap at 16m, and that will provide a buffer to cover any shortfall if it falls again. We are open to making adjustments if things swing dramatically – we are just trying to cap the amount of ADA that’s distributed for this. We know it’s not a perfect situation, but we want to bring more predictability and responsibility in use of Treasury funds, because dramatic changes can swing the other way and make it so there’s a lot more need in the Treasury.
+* **Nori (1:12:46)** For clarity – is the risk on the Treasury, and not on the proposers, if prices go the wrong way?
+* **Harris (1:12:56)** Mostly on the Treasury. The main impact on proposers is that it may reduce the number of proposals that get through.
+* **Joey (1:13:20)** Is there a way to stabilise the price of ADA over a whole fund? The response I’ve had is we hope the price is going to go up; but we can’t count on that.
+* **Harris (1:13:56)** In the future we’re optimistic about stablecoins being part of the equation, because that would eliminate a lot of the risk; but we are not sure of the timing.
+
+### **Cardano Foundation update (Dumpling, 1:17:37)**
+
+Twitter Space with Frederik Gregaard last week covered his views on Voltaire and CF’s involvement in Circle. 3 salient points:
+
+* Voltaire is more than democracy, it's a chance to have a vote. I think this is well said and we need to cherish this opportunity, because it is a privilege and a responsibility.
+* CF’s future plans on involvement in Catalyst – they plan to get more involved in voting on Challenge Settings, but no plans for CF to vote on proposals
+* Why we need a CF rep in Circle – we have it because we are still exploring what this rep can do; but we may not need to continue to have one in future.
+
+How we can help CF in CCv3 – In my calls with them, it’s clear CF are not clear how they could be involved with Circle; so it’s up to us to brainstorm. DM me your ideas.
+
+My idea is about the CF Ambassadors’ programme. I hear many people are unhappy because the selection criteria to become an Ambassador are strange. There are people who would like recognition for their work – it’s not about the money for them - but are rejected as Ambassadors. So as CF rep, I can design another way to recognise such people, without trying to change CF’s existing standards on who can be an Ambassador.
+
+My future Twitter Spaces – on 21st April, with funded proposers sharing their experience of writing proposals that were funded. On 26th April, 3pm UTC, an important space for CCv3 to tell the community what we do, and to se the record straight.
+
+### **Code of Conduct - Harris (1:26:25)**
+
+We tried unsuccessfully to coordinate a time to discuss it. Nadia put together a document. What are the next steps?
+
+We need to seed some of the concepts of what we want to see in a Code of Conduct, based on the issues we have seen.
+
+We need to set clear rules for how Circle members, subcircle members, and Admin team should behave, and then get buy-in from the community on it. Meet asynchronously, contribute to a shared doc, then bring that to a Town Hall discussion.
+
+* **Rhys (1:29:21)** Let's use the [card on the Problems board](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/83), and create a document where we collate ideas.\
+  (Discussion of whether the document should be viewable by the community)
+* **Harris (1:31:13)** Joey has already contributed an initial document
+* **Nadia (1:31:50)** We discussed having a Catalyst code of conduct \*and\* a Circle one, which would include everything that is in the Catalyst one, and more. I feel strongly that this should be a community-designed document that we help to frame. Key questions are, where are the boundaries, what is considered a conduct transgression, and how do people raise issues? And how do we prevent it becoming a set of rules; it needs to be broad enough that people can contribute, but it should prevent people coming to harm.
+* **Harris (1:34:34)** Agree, we need to frame what is right and what is wrong, and give clear definitions for the community. And I think the Catalyst community code is parallel, but we need to decide if we want to tackle that bigger piece first, or the Circle code? I think we need to get it done quickly.
+* **Joey (1:35:29)** We should see it as a living document, but if you comment, date the comment so we have version control.
+* **Dimitri (1:36:32)** Nadia and I also made a separate start on a document that can be used as a starting point. I think the Catalyst code of conduct and the Circle one should evolve at the same time; and all members of the community should be able to comment. And not only in Wednesday Town Hall, but in other Town Halls over several weeks. Nadia and I also discussed that it should not be done in a rush.
+* **Harris (1:37:45)** Sounds like we all want to move swiftly and asynchronously.
+
+<mark style="color:red;">**ACTION ITEM:**</mark> All contribute asynchronously to a framing document , and have a meeting on Thursday 21st; then bring something to After Town Hall when we are ready..
+
+### **Overview of Communication/Subcircle Formation Framework  (Nadia, 1:43:19)**
+
+* CA/VCA group has an extensive list of issues to be solved, and are going to try out a framework for communication we have developed over 2 months which I want to share
+* We have a Discord server, and are using tools including [DeWork](https://dework.xyz) which sync together so we can populate our GitHub repo. We are going to launch it (see slides). And we will form a subcircle to look at and prioritise this list of issues to be solved, and also take those priorities to the community so they can form other subcircles. So if any of you have people in your groups who is interested in being involved in solving these issues, please direct them to our group.
+
+### **Circle Involvement in F8 Process Improvement (Nadia, 1:45:49)**
+
+* Mercy and I held an After Town Hall on Fund 8 process improvement and strategic planning, and next week will hold a “Part 2”. We want the community to add comments to [this document](https://docs.google.com/document/d/1THoAIl9aJC1hKTMNYHKEv6erfRaIuk4FfsH1W2U7xx8/edit?usp=sharing). It would be helpful if any of you want to help in working on the issues, or make it a way for people in your representative groups to get involved. And please use the CAs' communications model.
+
 ## 4. Checkout and close (1:48:11)
 
 Meeting feedback form **(1:48:23)**\
