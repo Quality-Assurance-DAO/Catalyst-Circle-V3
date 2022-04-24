@@ -81,7 +81,7 @@ Relate your comments to the cards on the [Prioritised Problems GitHub board](htt
 **Nadia (16:29)** We could reject this card, but create a new card and discuss the issue of Circle members’ future pay, independently of this proposal and independently of retroactive funding.\
 **Nori (17:52)** Formal vote – unanimous to move this card to Rejected.
 
-### **Mercy (14:33)**
+### **Mercy (18:52)**
 
 * Had a good meeting with IOG, facilitated by Harris, about [exact timing of release of funds](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75), gave a better understanding of how it works. Status now is, waiting on Danny and Marek to work out details and get back to us. On [Treasury to support admin, governance and community projects to become sustainable](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/77), will circle this back to Harris during his update.
 * Future - on [exact timing of release of funds](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/75), once Danny and Marek finalise the details, the Funded Proposers sub-circle will communicate it to the community via a one-pager.
