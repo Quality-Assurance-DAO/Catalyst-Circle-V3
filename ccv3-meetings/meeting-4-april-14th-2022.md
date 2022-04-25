@@ -217,7 +217,7 @@ Meeting ends **1:55:51**
 
 ## Key words from this meeting
 
-coming soon
+![](<../.gitbook/assets/frequentword meeting 4.JPG>)
 
 ## Appendix
 
