@@ -17,3 +17,4 @@
 * [Meeting #2 March 17 2022](ccv3-meetings/meeting-2-march-17-2022.md)
 * [Meeting #3 March 31 2022](ccv3-meetings/meeting-3-march-31-2022.md)
 * [Meeting #4 April 14th 2022](ccv3-meetings/meeting-4-april-14th-2022.md)
+* [Meeting #5 April 28th 2022](ccv3-meetings/meeting-5-april-28th-2022.md)
