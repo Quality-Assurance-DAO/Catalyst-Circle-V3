@@ -207,6 +207,8 @@ Meeting ends **1:58:46**
 
 ## Key words from this meeting
 
+![Frequently-used words in this meeting](../.gitbook/assets/frequentword#5.JPG)
+
 ## Appendix
 
 ### Intelligent-verbatim transcript of this meeting
