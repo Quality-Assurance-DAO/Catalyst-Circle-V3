@@ -134,7 +134,8 @@ _**Oversight note**: In the last meeting, Dimitri, Joey and Rhys were to form a 
 
 ### **Dumpling (47:22)**
 
-* I only have one card, the [communications gap](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/78). Held a Twitter Space about Circle last week – Rhys, Mercy, Nadia, Dimitri, JP were present. Suggestions from it included a cross-platform outreach plan to improve awareness of Circle.
+* I only have one card, the [communications gap](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/78). (_**Oversight note:** Dumpling actually also owns_ [_How can Cardano foundation better recognise community contributors?_](https://github.com/Catalyst-Circle/Catalyst-Prioritized-Problems/issues/90))
+* Held a Twitter Space about Circle last week – Rhys, Mercy, Nadia, Dimitri, JP were present. Suggestions from it included a cross-platform outreach plan to improve awareness of Circle.
 * Another issue raised was – is Circle useful if it is only able to sense problems, and has no authority to change things?
 * Future: I want to explore doing Twitter spaces with the community regularly; an open platform for people to raise problems with their respective reps. &#x20;
 * No blockers.                                                                                                     &#x20;
