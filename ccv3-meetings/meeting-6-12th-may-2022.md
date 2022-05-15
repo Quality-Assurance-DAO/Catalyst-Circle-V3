@@ -20,6 +20,8 @@ At the time of writing, it is unclear what the future of Circle will be.
 
 ### Speaker percentages
 
+**Harris** (26%), **Nori** (19%), **Mercy** (12%), **Nadia** (11%), **Dimitri** (11%), **Joey** (9%), **Rhys** (9%), **JP** (3%)
+
 ### Abbreviations used/Glossary
 
 ## 1. Opening, agenda (0:00)
