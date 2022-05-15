@@ -15,7 +15,8 @@ At the time of writing, it is unclear what the future of Circle will be.
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-**Nori Nishigaya** (facilitator); **Joey Chessher** (representing Toolmakers and Maintainers); **Rhys Morgan** (SPOs); **Mercy A** (Funded Proposers); **Harris Warren** (IOG); **Nadia Hopkins** (CAs); **Dimitri Fernando** (General Voters); **JP** (secretary).\
+**Nori Nishigaya** (facilitator); **Joey Chessher** (representing Toolmakers and Maintainers); **Rhys Morgan** (SPOs); **Mercy A** (Funded Proposers); **Harris Warren** (IOG); **Nadia Hopkins** (CAs); **Dimitri Fernando** (General Voters); **JP** (secretary).
+
 Apologies: **Bullish Dumpling** (Cardano Foundation).
 
 ### Speaker percentages
