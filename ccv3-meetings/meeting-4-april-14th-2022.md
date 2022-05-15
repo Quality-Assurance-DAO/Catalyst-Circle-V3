@@ -1,4 +1,4 @@
-# Meeting #4, 14th April 2022
+# Meeting #4 April 14th 2022
 
 ## Meeting recording&#x20;
 
@@ -24,11 +24,11 @@ CA – Community Advisor, a role open to anyone in Catalyst, to assess proposals
 
 CC – Catalyst Circle
 
-CF – [Cardano Foundation](https://cardanofoundation.org/)
+CF – [Cardano Foundation](https://cardanofoundation.org)
 
 CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school)
 
 d-Rep – delegation representative, a proposed new role; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -38,11 +38,11 @@ ETH – [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX
 
 Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
-IOG – [Input/Output Global](https://iohk.io/)
+IOG – [Input/Output Global](https://iohk.io)
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io)
 
 SPO – stakepool operator
 
@@ -202,7 +202,7 @@ We need to set clear rules for how Circle members, sub-circle members, and Admin
 ### **Overview of Communication/Subcircle Formation Framework  (Nadia, 1:43:19)**
 
 * CA/VCA group has an extensive list of issues to be solved, and are going to try out a framework for communication which we have developed over 2 months which I want to share.
-* We have a Discord server, and are using tools including [DeWork](https://dework.xyz/) which sync together so we can populate our GitHub repo. We are going to launch it (see slides). And we will form a subcircle to look at and prioritise this list of issues to be solved, and also take those priorities to the community so they can form other subcircles. So if any of you have people in your groups who is interested in being involved in solving these issues, please direct them to our group.
+* We have a Discord server, and are using tools including [DeWork](https://dework.xyz) which sync together so we can populate our GitHub repo. We are going to launch it (see slides). And we will form a subcircle to look at and prioritise this list of issues to be solved, and also take those priorities to the community so they can form other subcircles. So if any of you have people in your groups who is interested in being involved in solving these issues, please direct them to our group.
 
 ### **Circle Involvement in F8 Process Improvement (Nadia, 1:45:49)**
 

@@ -1,4 +1,4 @@
-# Meeting #1, 3rd March 2022, 05:00 UTC
+# Meeting #1, March 3rd 2022, 05:00 UTC
 
 ## Meeting recording
 
@@ -26,11 +26,11 @@ CA – Community Advisor, a role open to anyone in Catalyst, to assess proposals
 
 CC – Catalyst Circle
 
-CF – [Cardano Foundation](https://cardanofoundation.org/)
+CF – [Cardano Foundation](https://cardanofoundation.org)
 
 CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school)
 
 d-Rep – delegation representative, a proposed new role; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -42,11 +42,11 @@ Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
 IO – the overall organisation that comprises IOG and IOHK
 
-IOG – [Input/Output Global](https://iohk.io/)
+IOG – [Input/Output Global](https://iohk.io)
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io)
 
 SPO – stakepool operator
 
@@ -140,7 +140,7 @@ NOTE: The Stand-up is a go-round using the [Prioritised Problems GitHub board](h
 * IOG welcomes this type of feedback
 * The letter has been shared widely internally at IOG
 * I welcome the idea, requested in the letter, of workshops to clarify the specifics of d-Reps, tho I cannot commit to a timescale.
-* IOG likes the concept of “one vote, one heartbeat”, and are looking at solutions, including using [Atala Prism](https://atalaprism.io/), but currently we are working with wallets, and how d-Reps will work with wallets.
+* IOG likes the concept of “one vote, one heartbeat”, and are looking at solutions, including using [Atala Prism](https://atalaprism.io), but currently we are working with wallets, and how d-Reps will work with wallets.
 * D-reps are to address the problem that voting is time consuming with 1,000 proposals; many wallets don’t vote; and those which do, only vote for 7 or 8 proposals on average.
 * IOG’s goal is also to be more transparent about the Treasury
 * But we need to do that with care, to ensure the Treasuries are not compromised.

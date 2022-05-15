@@ -1,4 +1,4 @@
-# Onboarding session, 17th Feb 2022
+# Onboarding session - 17th Feb 2022
 
 ## Meeting recording
 
@@ -59,7 +59,7 @@ Presentation on the Prioritised Problems board
 
 1:21:43                  Mentoring with your counterpart from CCv2 and CCv1
 
-1:25:12                  Catalyst Circle website  [https://www.catalystcircle.io/](https://www.catalystcircle.io/)
+1:25:12                  Catalyst Circle website  [https://www.catalystcircle.io/](https://www.catalystcircle.io)
 
 1:27:42                  The Catalyst Circle Funding Mechanism, an additional treasury for community engagement for each seat on Circle [https://cardano.ideascale.com/c/idea/384249](https://cardano.ideascale.com/c/idea/384249)
 

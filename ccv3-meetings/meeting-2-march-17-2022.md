@@ -1,4 +1,4 @@
-# Meeting #2, 17th March 2022
+# Meeting #2 March 17 2022
 
 ## Meeting recording
 
@@ -24,11 +24,11 @@ CA – Community Advisor, a role open to anyone in Catalyst, to assess proposals
 
 CC – Catalyst Circle
 
-CF – [Cardano Foundation](https://cardanofoundation.org/)
+CF – [Cardano Foundation](https://cardanofoundation.org)
 
 CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school)
 
 d-Rep – delegation representative, a proposed new role; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -40,11 +40,11 @@ Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
 IO – the overall organisation that comprises IOG and IOHK
 
-IOG – [Input/Output Global](https://iohk.io/)
+IOG – [Input/Output Global](https://iohk.io)
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io)
 
 SPO – stakepool operator
 
@@ -181,7 +181,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 * Dimitri submitted a Fund 8 proposal for $3,000 per month per Circle member, with Mercy as co-proposer.
 * **Joey (1:40:37)** Did the survey ask about yearly compensation instead of monthly?
 * **Dimitri (1:41:17)** No.
-* **Harris (1:42:40)** Interesting tool for surveys that includes some AI [https://pol.is/](https://pol.is/)
+* **Harris (1:42:40)** Interesting tool for surveys that includes some AI [https://pol.is/](https://pol.is)
 * **Nori (1:43:16)** On pay – it’s supposed to be 10 hours a week, but most people are doing more – how many?
 * **Rhys (1:45:07)** Be wary of calling it a full-time role, or people might think they need to leave their job to stand for election to Circle.
 

@@ -1,4 +1,4 @@
-# Meeting #5, 28th April 2022
+# Meeting #5 April 28th 2022
 
 ## Meeting recording
 
@@ -24,11 +24,11 @@ CA – Community Advisor, a role open to anyone in Catalyst, to assess proposals
 
 CC – Catalyst Circle
 
-CF – [Cardano Foundation](https://cardanofoundation.org/)
+CF – [Cardano Foundation](https://cardanofoundation.org)
 
 CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school)
 
 d-Rep – delegation representative, a proposed new role; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -38,11 +38,11 @@ ETH – [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX
 
 Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
-IOG – [Input/Output Global](https://iohk.io/)
+IOG – [Input/Output Global](https://iohk.io)
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io)
 
 SPO – stakepool operator
 
@@ -174,7 +174,7 @@ _**Oversight note**: In the last meeting, Dimitri, Joey and Rhys were to form a 
 
 ### **CAs’ Issue-Sensing Process in Dework and cross-group collaboration (Nadia, 1:21:02)**
 
-* CAs are using a workflow that integrates GitHub with their Discord server using [Dework](https://dework.xyz/), as outlined in last Circle meeting. They have collated issues about Fund 8 from all over, and want to centralise it all on their GitHub and Discord.
+* CAs are using a workflow that integrates GitHub with their Discord server using [Dework](https://dework.xyz), as outlined in last Circle meeting. They have collated issues about Fund 8 from all over, and want to centralise it all on their GitHub and Discord.
 * They have included issues that are not about CAs, and plan for these to be worked on by sub-groups of CAs.
 * There is a sentiment from the community that CAs should work on things that are specific to them, and hand over issues that have different primary stakeholders.
 * CAs want to invite other stakeholder groups to join in with their process, in the CA environment, so others can see how it works; and want to invite others to use and adapt the methodology themselves.

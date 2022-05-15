@@ -1,4 +1,4 @@
-# Meeting #3, 31st March 2022
+# Meeting #3 March 31 2022
 
 ## Meeting recording
 
@@ -25,11 +25,11 @@ CA – Community Advisor, a role open to anyone in Catalyst, to assess proposals
 
 CC – Catalyst Circle
 
-CF – [Cardano Foundation](https://cardanofoundation.org/)
+CF – [Cardano Foundation](https://cardanofoundation.org)
 
 CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school)
 
 d-Rep – delegation representative, a proposed new role; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
@@ -41,11 +41,11 @@ Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
 IO – the overall organisation that comprises IOG and IOHK
 
-IOG – [Input/Output Global](https://iohk.io/)
+IOG – [Input/Output Global](https://iohk.io)
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io)
 
 SPO – stakepool operator
 
@@ -208,7 +208,7 @@ Already covered in Stand-up section of the meeting. Removed from agenda.
 ### **Asynchronous work  (Nori, 1:51:00)**
 
 * It’s good that people are working asynchronously on Slack more and more.
-* [Loom](https://www.loom.com/) : useful tool to record short video messages, while sharing your screen, and it’s playable inline in a chat. Might help avoid the issues that can arise text-only.
+* [Loom](https://www.loom.com) : useful tool to record short video messages, while sharing your screen, and it’s playable inline in a chat. Might help avoid the issues that can arise text-only.
 * **(1:52:11)** explanation of how Circle Slack channels are organised.
 * **Mercy (1:53:02)** Last meeting we said we would include the sub-circle members in Slack, what’s the next steps for that?
 * **Nori (1:53:19)** We can do that; but if we move to a professional Slack account to give additional features; the cost is per user, so as we invite more people it will cost more. Discuss in Slack how far we should open it up.
