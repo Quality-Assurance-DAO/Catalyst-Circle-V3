@@ -13,10 +13,10 @@
 ## ccv3 meetings
 
 * [Onboarding session, 17th Feb 2022](ccv3-meetings/onboarding-session-17th-feb-2022.md)
-* [Meeting #1, 3rd March 2022, 05:00 UTC](ccv3-meetings/meeting-1-3rd-march-2022-05-00-utc.md)
-* [Meeting #2, 17th March 2022](ccv3-meetings/meeting-2-17th-march-2022.md)
-* [Meeting #3, 31st March 2022](ccv3-meetings/meeting-3-31st-march-2022.md)
-* [Meeting #4, 14th April 2022](ccv3-meetings/meeting-4-14th-april-2022.md)
-* [Meeting #5, 28th April 2022](ccv3-meetings/meeting-5-28th-april-2022.md)
+* [Meeting #1, 3rd March 2022, 05:00 UTC](ccv3-meetings/meeting-1-march-3rd-2022-05-00-utc.md)
+* [Meeting #2, 17th March 2022](ccv3-meetings/meeting-2-march-17-2022.md)
+* [Meeting #3, 31st March 2022](ccv3-meetings/meeting-3-march-31-2022.md)
+* [Meeting #4, 14th April 2022](ccv3-meetings/meeting-4-april-14th-2022.md)
+* [Meeting #5, 28th April 2022](ccv3-meetings/meeting-5-april-28th-2022.md)
 * [Circle Code of Conduct discussion, 5th May 2022](ccv3-meetings/circle-code-of-conduct-discussion-5th-may-2022.md)
 * [Meeting #6, 12th May 2022](ccv3-meetings/meeting-6-12th-may-2022.md)
