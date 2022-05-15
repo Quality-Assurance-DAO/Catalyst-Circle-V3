@@ -6,14 +6,11 @@ coming soon
 
 ## Minutes of Catalyst Circle v3 Meeting #6
 
-### NOTE:  <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
+### <mark style="color:red;">NOTE:</mark>  <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-This meeting took place 1 day before the voting results for fund 8 were released. \
+This meeting took place just before the voting results for fund 8 were released. \
 \
-In fund 8, [this proposal](https://cardano.ideascale.com/c/idea/403551) aimed to secure the funding for Circle's operations: Circle members, Circle Admin, Treasurers, and Mentors.\
-\
-The proposal was not successful.\
-\
+In fund 8, [this proposal](https://cardano.ideascale.com/c/idea/403551) aimed to secure the funding for Circle's operations. The proposal was not successful.\
 At the time of writing, it is unclear what the future of Circle will be.
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
