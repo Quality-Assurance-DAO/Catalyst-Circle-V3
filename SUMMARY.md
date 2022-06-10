@@ -20,4 +20,5 @@
 * [Meeting #5, 28th April 2022](ccv3-meetings/meeting-5-april-28th-2022.md)
 * [Circle Code of Conduct discussion, 5th May 2022](ccv3-meetings/circle-code-of-conduct-discussion-5th-may-2022.md)
 * [Meeting #6, 12th May 2022](ccv3-meetings/meeting-6-12th-may-2022.md)
+* [Working meeting, 19th May 2022](ccv3-meetings/working-meeting-19th-may-2022.md)
 * [Meeting #7, 9th June 2022](ccv3-meetings/meeting-7-9th-june-2022.md)
