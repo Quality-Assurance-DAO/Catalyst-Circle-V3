@@ -67,9 +67,11 @@ Due to the length of the Consent Agenda discussion, there was no Circle Stand-up
 
 ## 3. Consent agenda (21:28) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-### What is the status and future of the Circle?
+### What is the status and future of the Circle? (22:10)&#x20;
 
 ### What is the agenda and output of the Circle for the remainder of the term?&#x20;
+
+Full questions: How often should we meet and what should be the format of the meetings? Should we keep reporting to TH? If yes, what should be the format? Should it be modified from previous
 
 ### Election for CCv4
 
