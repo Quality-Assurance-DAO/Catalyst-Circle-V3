@@ -56,6 +56,11 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
+Check-in **(0:25)**\
+****Announcements and introducing new members Felix and Kriss **(3:02)**\
+Discussion on presence of Quasar in the meeting **(6:59)**\
+Agenda and align expectations **(17:31)** – decision to focus on Consent Agenda and forego looking at Prioritised Problems.
+
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
 
 Due to the length of the Consent Agenda discussion, there was no Circle Stand-up in this meeting.
