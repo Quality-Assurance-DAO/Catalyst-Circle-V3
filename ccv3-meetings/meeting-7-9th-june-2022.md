@@ -30,7 +30,7 @@ Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
 
 CGO - [Community Governance Oversight](https://quality-assurance-dao.gitbook.io/community-governance-oversight/), a F7 and F8 funded proposal that has created a team to discuss and provide oversight of key Catalyst governance processes
 
-dRep – delegation representative, a new role that will be introduced for Fund 10; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
+dRep – delegation representative, a new role that will be introduced for Fund 10; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform) and [documentation](https://bit.ly/dRep1)
 
 DID – [Decentralised identifiers](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
 
