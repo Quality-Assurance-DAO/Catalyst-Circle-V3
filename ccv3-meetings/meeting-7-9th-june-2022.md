@@ -8,9 +8,11 @@
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
+**Nori Nishigaya** (facilitator); **Joey Chessher** (Toolmakers and Maintainers); **Felix Weber** (CF); **Rhys Morgan** (stakepool operators); **Nadia Hopkins** (Community Advisors**); Harris Warren** (IOG); **Mercy A** (Funded Proposers**); Dimitri Fernando** (General ADA Holders); **Kriss Baird** (IOG); **JP** (secretary); **Quasar** (ADA Holders subcircle member).
+
 ### Speaker percentages
 
-**Nori** (19%), **Felix** (15%), **Nadia** (14%), **Harris** (12%), **Mercy** (10%), **Dimitri** (8%), **Rhys** (7%), **Kriss** (7%), **Joey** (6%), **JP** (2%)
+**Nori** (19%), **Felix** (15%), **Nadia** (14%), **Harris** (12%), **Mercy** (10%), **Dimitri** (8%), **Rhys** (7%), **Kriss** (6%), **Joey** (6%), **JP** (2%), **Quasar** (<1%)
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
