@@ -68,7 +68,7 @@ not applicable: there was no Circle Stand-up in this meeting.
 
 ### Discuss changes to the prioritised problem board process
 
-## 4. Checkout and close (1::) <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
+## 4. Checkout and close (1:53:01) <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
