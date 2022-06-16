@@ -58,7 +58,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
 
-Due to the length of the Consent Agenda, there was no Circle Stand-up in this meeting.
+Due to the length of the Consent Agenda discussion, there was no Circle Stand-up in this meeting.
 
 ## 3. Consent agenda (21:28) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
