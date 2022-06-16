@@ -16,7 +16,9 @@
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
-## 2. Circle stand-up (:) <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
+## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
+
+not applicable: there was no Circle Stand-up in this meeting.
 
 ## 3. Consent agenda (**1::**) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
@@ -28,7 +30,7 @@
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/Meeting #7, June 9th 2022 QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
