@@ -58,7 +58,15 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 not applicable: there was no Circle Stand-up in this meeting.
 
-## 3. Consent agenda (**1::**) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+## 3. Consent agenda (21:28) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+
+### What is the status and future of the Circle?
+
+### What is the agenda and output of the Circle for the remainder of the term?&#x20;
+
+### Election for CCv4
+
+### Discuss changes to the prioritised problem board process
 
 ## 4. Checkout and close (1::) <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
 
