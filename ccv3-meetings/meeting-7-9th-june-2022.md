@@ -79,6 +79,8 @@ Due to the length of the Consent Agenda discussion, there was no Circle Stand-up
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
+![Some of the words used most frequently in this meeting](<../.gitbook/assets/frequentword ccv3#7.JPG>)
+
 ## Appendix
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
@@ -87,4 +89,4 @@ Due to the length of the Consent Agenda discussion, there was no Circle Stand-up
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/CCv3 meeting #7 Agenda.doc" %}
