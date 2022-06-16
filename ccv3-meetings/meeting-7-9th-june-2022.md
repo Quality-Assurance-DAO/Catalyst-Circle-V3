@@ -14,6 +14,44 @@
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
+ATH – After Townhall, breakout rooms after the regular Wednesday [TownHall meeting](https://bit.ly/3rCicSR)
+
+CA – Community Advisor, the old name for a role open to anyone in Catalyst, to assess proposals in each funding round - now renamed PA
+
+CC – Catalyst Circle
+
+CF – [Cardano Foundation](https://cardanofoundation.org/)
+
+CTC, Catalyst Technical Council,  a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
+
+Catalyst School – [https://thecatalyst.school](https://thecatalyst.school/)
+
+CGO - [Community Governance Oversight](https://quality-assurance-dao.gitbook.io/community-governance-oversight/), a F7 and F8 funded proposal that has created a team to discuss and provide oversight of key Catalyst governance processes
+
+dRep – delegation representative, a new role that will be introduced for Fund 10; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
+
+DID – [Decentralised identifiers](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
+
+ETH – [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg)
+
+Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
+
+IOG – [Input/Output Global](https://iohk.io/)
+
+NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
+
+PA - Proposal Assessor, the new name for the role that used to be called CA
+
+QA-DAO –  [Quality Assurance Distributed Autonomous Organisation](https://quality-assurance-dao.github.io/)
+
+SPO – stakepool operator
+
+VCA – Veteran Community Advisor, the old name for a Catalyst role open to those who have been a CA in previous rounds, to assess the CAs’ reviews
+
+VPA - Veteran Proposal Assessor; the new name for the role that used to be called VCA.
+
+Voltaire – the next phase on the [Cardano roadmap to decentralisation](https://roadmap.cardano.org/en/voltaire/)
+
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
