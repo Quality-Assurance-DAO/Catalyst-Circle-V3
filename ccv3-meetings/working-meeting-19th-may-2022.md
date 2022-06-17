@@ -152,7 +152,7 @@ Nori
 
 * Just another factor to consider - the F8 was $12.8M not, $16M.&#x20;
 * This does not mean we would have been funded but the funds were smaller given the price of ADA.&#x20;
-* The CAs and FPs are creating cool mechanisms through DeWork to raise issues and vote on them. \[Document_er's note: this is inaccurate: the FP subcircle is not using Dework, as they find it is not currently appropriate for their community and their approach._]This is a great mechanism that we can use to collect ideas from the community and the rep brings it to the Circle.&#x20;
+* The CAs and FPs are creating cool mechanisms through DeWork to raise issues and vote on them. \[Document_er's note: this is inaccurate: the FP subcircle is not currently using Dework, as they do not find it useful/suitable for their work and their community._] This is a great mechanism that we can use to collect ideas from the community and the rep brings it to the Circle.&#x20;
 * I’d love it if the CA group does their own election and they send their rep to represent the community.&#x20;
 
 Dimitri
