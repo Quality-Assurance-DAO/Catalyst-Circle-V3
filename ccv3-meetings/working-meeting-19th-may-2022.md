@@ -17,6 +17,7 @@ These notes were prepared by JP (Admin team) during the meeting itself.
 
 {% file src="../.gitbook/assets/Catalyst Circle Working Session 19th May 2022 JP meeting notes.doc" %}
 
+**Current situation with funding:**\
 Proposal for rapid funding - $7k for each Circle seat - was funded [https://cardano.ideascale.com/c/idea/403562](https://cardano.ideascale.com/c/idea/403562). But the Circle itself and the admin team were not funded. \
 We need to do a better job at relaying the purpose of the Circle.&#x20;
 
