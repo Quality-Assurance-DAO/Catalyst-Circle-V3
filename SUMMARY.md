@@ -22,3 +22,4 @@
 * [Meeting #6, 12th May 2022](ccv3-meetings/meeting-6-12th-may-2022.md)
 * [Working meeting, 19th May 2022](ccv3-meetings/working-meeting-19th-may-2022.md)
 * [Meeting #7, 9th June 2022](ccv3-meetings/meeting-7-9th-june-2022.md)
+* [Working meeting, 16th June 2022](ccv3-meetings/working-meeting-16th-june-2022.md)
