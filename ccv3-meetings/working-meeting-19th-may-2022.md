@@ -9,6 +9,8 @@ description: >-
 
 ### Present
 
+**Nori Nishigaya** (facilitator); **Joey Chessher** (representing Toolmakers and Maintainers); **Rhys Morgan** (SPOs); **Mercy A** (Funded Proposers); **Harris Warren** (IOG); **Nadia Hopkins** (CAs); **Dimitri Fernando** (General Voters); **JP** (secretary).
+
 ### Meeting notes
 
 These notes were prepared by JP (Admin team) during the meeting itself.
