@@ -56,7 +56,8 @@ We need to do a better job at relaying the purpose of the Circle.&#x20;
 
 **Joey**&#x20;
 
-* Can we go around the room to confirm how people feel continuing without funding? Is everyone in agreement?
+Can we go around the room to confirm how people feel continuing without funding? Is everyone in agreement?
+
 * Nori - Yes
 * Dimitri - Not if we aren't getting paid. The community has provided their view that they do not want the Circle. If the community does not want the Circle we should not force it on them. If they aren’t going to pay the funds then we shouldn't do it for free. I do not want to do it voluntarily.  In my opinion the entire Circle should not continue as the community did not agree.&#x20;
 * Joey - Yes
@@ -73,11 +74,12 @@ Given this light, would you continue even if not paid?
 * Nadia - I came into this role because I was nominated and there was work to be done, which we have done. I also  wasn’t aware that it was 6 months until the beginning of the process, other than the community may have also had confusion. We put a lot of emphasis on proposals for what the community wants/doesn’t want, but it could also not be that and something else. I take to heart the relationships and interactions with everyone. How we respond to the lack of funding reflects on our capacity to make decisions and the expectations of the community.  I think it’s a consideration that this didn’t get funded. If we are going to continue anyways, what is the response to the community? I think people may perceive it as overreach and non legitimate decision making.&#x20;
 * Nori - We definitely want to avoid the perception that the Circle is creating its own rules even when not funded. For the admin team, Swarm has gotten together to submit the admin team. They are responding as a community - we think that this needs to continue and are throwing a bit in. We need to be clear that the mandate is not totally clear that it was not desired. It was that the funding got out before it got to it, since it did pass the process. If it was a no vote and went red (e.g. not wanted) that would be different.
 * Nadia - I’m also sensitive to some people saying yes and others saying no. But it is to a point, we all need money and to make decisions.&#x20;
-* Harris
-*
-  * The reason we shifted to 6 months is because the other Circles were just getting going and then being done.&#x20;
-  * The entire reason to extend it was to have a continuation of efforts. We are doing good work and making good processes.&#x20;
-  * It came from me (IOG) - it was my fault that we didn’t have the funding. The proposal was good and got a 4/ 5, a good score, but the challenge ran out of funding.&#x20;
+
+Harris
+
+* The reason we shifted to 6 months is because the other Circles were just getting going and then being done.&#x20;
+* The entire reason to extend it was to have a continuation of efforts. We are doing good work and making good processes.&#x20;
+* It came from me (IOG) - it was my fault that we didn’t have the funding. The proposal was good and got a 4/ 5, a good score, but the challenge ran out of funding.&#x20;
 * Nadia
 *
   * There is agreement on that totally. But I didn’t know that until I had the role, which was the case for a few other reps.&#x20;
