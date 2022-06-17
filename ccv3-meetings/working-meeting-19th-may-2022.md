@@ -65,7 +65,7 @@ We need to do a better job at relaying the purpose of the Circle.&#x20;
 * Mercy - Goes back to a mandate thing. What JP was saying in terms of what could have been done, I know that’s a tempting way to go, but that’s not the main issue. If we look at Milkomeda, they got a low score but they were voted right to the top of the list, they got first. I side with Dimitri that we need to think seriously about what our mandate is. Is it from the community or IOG? It doesn’t need to be a big amount, it could be a token. FP subCircle is agreed to continue but I feel uncomfortable forcing myself and the Circle in this sense. But I am willing to continue as the funded proposer sub Circle. One last thing - under what conditions - it could be a yes/no, depending on the conditions.&#x20;
 * Harris - When each member was elected there was a predisposition that it would be in place for 6 months. This is our mandate. It’s a financial thing - If you need to step out due to finance that’s fine and we understand, however the mandate is 6 months as per the last proposal. I would hope that people would continue to the end of the 6 months.&#x20;
 
-Given this light, would you continue even if not paid? Merc
+Given this light, would you continue even if not paid?
 
 * Mercy - I’m willing to continue but does the Circle work anymore.  We will need to rethink how we are working based on how the voting went. The FP and CA sub Circles have some funding. I’m going to finish the work I started in a different way if we are not funded as a unified Circle.
 * Joey - Few quick things. I didn’t understand that it was 6 months when I committed to fill the seat. But if someone decides not to continue in the Circle, what happens to the sub Circle funds, and the pending sub Circle fends?
