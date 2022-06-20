@@ -10,8 +10,15 @@
 
 ### **Speaker percentages**
 
-**Harris** (22%), **Nori** (17%), **Rhys** (14%), **Nadia** (13%), **Felix** (10%), **Joey** (10%), **Kriss** (6%), **Quasar** (6%), **Mercy** (2%)
+**Harris** (22%), **Nori** (18%), **Rhys** (14%), **Nadia** (14%), **Felix** (10%), **Joey** (9%), **Kriss** (6%), **Quasar** (6%), **Mercy** (2%).
 
-## Summary
+## Meeting summary
 
-coming  soon
+## **1. Opening, welcome, agenda (0:00)**
+
+Agenda and align expectations (0:27) – agenda agreed
+
+## **2. Consent Agenda (1:40)**
+
+### **CCv4 election process discussion and brainstorming (1:49)**
+
