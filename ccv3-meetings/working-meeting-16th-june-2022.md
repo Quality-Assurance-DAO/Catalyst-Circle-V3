@@ -22,8 +22,6 @@ Agenda and align expectations (0:27) – agenda agreed
 
 The meeting discusses the 3 agenda items _CCv4 election process discussion and brainstorming_; _Sub-circles, reality check and expectation management_ and _Next steps align and coordinate_ all together.
 
-**Key points:**
-
 **Harris (1:41:19)** I propose we decide on the set of seats on Circle – they could be represented by sub-circles or individuals – and get challenges and proposals into the system so the voting for CCv4 can be via IdeaScale.
 
 ### **Harris, presentation**
@@ -88,7 +86,7 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Mercy (46:21)** We should factor in other Town Halls.
 
-### **Future plans: a Governance challenge; and parameter changes to pay Circle**
+### **Future plans - a Governance Challenge; and parameter changes to pay Circle**
 
 **Harris (47:38**) We need a specific Governance challenge in F10. Possibly Circle did not get funding because there was no “home” for the proposal. Maybe we should submit a proposal to see whether people want Circle to have decision-making powers.
 
@@ -106,11 +104,11 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Rhys (1:00:06)** This is a good opportunity to act fast and make quick test decisions; we can all run multiple tests within our specific communities. Someone might create something we can template across everyone.
 
-**Quasar(1:01:06)** [https://www.hazelnet.io/features/daos-voting](https://www.hazelnet.io/features/daos-voting) is amazing. But what about  people who don’t use whatever platform we choose – it would be good to have several options to iterate within the groups. On Challenge setting - I think people have trouble understanding that they have the authority, the ability and the right, to define what principles of governance are. None of us have ever been asked that question, and we don't know how to answer it.
+**Quasar(1:01:06)** [https://www.hazelnet.io/features/daos-voting](https://www.hazelnet.io/features/daos-voting) is amazing. But what about people who don’t use whatever platform we choose – it would be good to have several options to iterate within the groups. On Challenge setting - I think people have trouble understanding that they have the authority, the ability and the right, to define what principles of governance are. None of us have ever been asked that question, and we don't know how to answer it.
 
-**Nori (1:03:07)** What's the last CCv4 can be instated? We can work backwards from that.
+**Nori (1:03:07)** What's the latest CCv4 can be instated? We can work backwards from that.
 
-### **Filling vacant CCv3 seats, and Rapid Funding**
+### **Filling vacant CCv3 seats**
 
 **Nadia (1:06:21)** On filling the vacant seats on CCv3 – with  the Dimitri seat, is there a decision that Quasar has taken it, so we don’t need to hold an election? And should the PAs discuss it, which takes time; or should we fill it for now via an appointment?
 
@@ -125,6 +123,8 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 **Harris (1:11:41)** Nadia, I would support you appointing a person or group to be your interim replacement.
 
 **Nori (1:12:26**) Seconded.
+
+### **How Circle reps can use Rapid Funding**
 
 **Nadia (1:12:48)** Can we use the Rapid Funding to compensate whoever from the PA group takes that role? Because at present, it cannot be used to compensate the Circle rep.
 
@@ -156,15 +156,16 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Harris (1:26:59**) Start of F9 voting is 11th August
 
-**Kriss (1:27:08)** So the Town Hall will be 10th August. \[_Summariser’s note: earlier (39:40) the ATH was agreed to get community input on how to conduct the CCv4 election. But it will be too late to do this the day before voting opens; so  the plan appears to have changed without overt discussion to an ATH to encourage people to vote._]
+**Kriss (1:27:08)** So the Town Hall will be 10th August. \[_Summariser’s note: earlier (39:40) the ATH was agreed to get community input on how to conduct the CCv4 election. But it will be too late to do this the day before voting opens; so  the plan has changed without overt discussion to an ATH simply to encourage people to vote._]
 
-### **How to conduct the vote**
+### CCv4 vote unlikely to use Jörmungandr
 
 **Nori (1:27:43)** The options are IdeaScale; some other kind of tool; use Jörmungandr outside of the F9 vote; or for sub-circles that feel they are a strong enough community to gove legitimacy, they could hold their own selection process.
 
 **Rhys (1:29:36)** I could rally SPOs via IOG’s SPO meetup.
 
-**Nadia (1:30:00)** Could IOG contact everyone who has been a CA in the past and tell them about our process?\
+**Nadia (1:30:00)** Could IOG contact everyone who has been a CA in the past and tell them about our process?
+
 **Harris (1:30:41)** Potentially yes but we need to be careful how we use it \[_Summariser’s note: presumably for data privacy reasons_]
 
 **Quasar (1:30:50)** We could send everyone an NFT invitation to vote.
@@ -189,7 +190,7 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Nadia (1:39:35)** We should write the governance challenge in a simple clear way, to educate people. Avoid the word “governance” because it puts people off.
 
-<mark style="color:red;">**ACTION ITEMS**</mark>
+### <mark style="color:red;">**ACTION ITEMS**</mark>
 
 * All to contribute to a Governance challenge proposal
 * Hold an ATH on 11th August – Felix, Rhys, Joey
@@ -213,13 +214,13 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Nadia (1:47:05)** Adherence to the Code of Conduct should be an expectation of the meeting.
 
-### **Rapid funding, CF seat, and paying Circle**
+### **Rapid funding, paying Circle, and the CF seat**
 
 **Joey (1:48:24)** Further confirmation of how Rapid Funding can be used
 
 **Nori (1:50:37)** Detail on how sub-circles can make claims on Rapid Funding. In future funds, we encourage every sub-circle to create their own independent rapid funding mechanism, and deal with them however you see fit. Including paying your Circle rep, if you like.
 
-**Felix (1:52:33)** Alongside this – if you want serous commitment, you have to pay people. Te dRep role was publicised as offering a living wage, but it is only $9,000 a year. When setting budgets. IOHK could consult the community and see what their expectations are. I would push for a conversation about this with IOHK.
+**Felix (1:52:33)** Alongside this – if you want serous commitment, you have to pay people. The dRep role was publicised as offering a living wage, but it is only $9,000 a year. When setting budgets. IOHK could consult the community and see what their expectations are. I would push for a conversation about this with IOHK.
 
 **Harris (1:54:24)** What happened to Bullish Dumpling? Felix, is your appointment official? We should update Town Hall slides to reflect who is in the Circle roles.
 
@@ -229,19 +230,19 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Quasar (1:56:36)** I’ll confirm with him about the changes to the Rapid Funding. But it’s fine with me. The Catalyst Road Map \[i.e. the project that Dimitri asked to use the Rapid Funding for] was Dimitri’s idea from January.
 
-### **Return to opening up CC calls**
+### **Decision on opening up CC calls**
 
 **Nori (1:58:51)** There is general consensus that we should do it; maybe start with the experiment of opening the next meeting, on 23rd June, with all reps as co-hosts; guests on mute. Perhaps limit Chat at first.
 
-### Nadia
+### Vote of thanks to Nadia
 
 **Joey (1:59:34)** I want to go on record saying Nadia has been an exemplary Circle rep.
 
 **Harris, Rhys:** Agree
 
-### Roadmap
+### IOG already has a Roadmap
 
-**Harris (2:01:30)** There is a Catalyst roadmap already from IOG’s perspective; and there will be a handover to the community. Aligning a community driven roadmap with our roadmap is a tremendous approach, and is something we should talk more about. But just to put it out there: we do have a roadmap.
+**Harris (2:01:30)** There is a Catalyst roadmap already from IOG’s perspective; and it includes a handover to the community. Aligning a community-driven roadmap with our roadmap is a tremendous approach, and is something we should talk more about. But just to put it out there: we do have a roadmap.
 
 ## **3. Checkout and close (2:03:18)**
 
