@@ -24,7 +24,7 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Harris (1:41:19)** I propose we decide on the set of seats on Circle – they could be represented by sub-circles or individuals – and get challenges and proposals into the system so the voting for CCv4 can be via IdeaScale.
 
-### **Harris, presentation**
+### **Harris, presentation on voting for CCv4 with** Jörmungandr ****&#x20;
 
 **(2:04)** We have an opportunity to write the rules the way we think it needs to be.\
 **(2:40)** Suggested voting process from IOG colleague Mike McNulty, using  _Jörmungandr_ (the sidechain currently used to vote on proposals) to create a voting pilot. Not part of F9 vote, so we don’t have to rush.\
@@ -204,7 +204,7 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 
 **Felix (1:41:27)** I think we should experiment with opening up the calls, to see what happens; I don’t think more than 7 or 8 people would want to join. It’s not so much about transparency, but empowerment – allowing those interested to come closer to the topic, take part in Chat.
 
-**Rhys (1:43:17)** When I started livestreaming the CC meetings, I had some good participation, on one call – but it only happened once. Risk of derailing the conversation – it’s already hard enough to reach decisions. But it would be good to livestream the meetings from a Catalyst channel rather than my channel. Quasar, you suggested \[in Chat] a Twitter space – I don’t think it’s a good idea because you get confrontational people and not a very good conversation.
+**Rhys (1:43:17)** When I started livestreaming the CC meetings, I had some good participation, on one call – but it only happened once. Risk of derailing the conversation – it’s already hard enough to reach decisions. But it would be good to livestream the meetings from a Catalyst channel rather than my channel. Quasar, you suggested \[_in Chat_] a Twitter space – I don’t think it’s a good idea because you get confrontational people and not a very good conversation.
 
 **Nori (1:45:03**) We could use controls like at Town Hall, where people are muted and have cameras off.
 
@@ -249,4 +249,10 @@ The meeting discusses the 3 agenda items _CCv4 election process discussion and b
 **Checkout (2:03:28)** – each member in turn makes closing remarks.
 
 Meeting ends **2:08:19**
+
+## **Appendix**
+
+### **Full transcript (intelligent verbatim)**
+
+{% file src="../.gitbook/assets/CCv3 Working meeting, 16th June 2022 QA-DAO verbatim transcript.doc" %}
 
