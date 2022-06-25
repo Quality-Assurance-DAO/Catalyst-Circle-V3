@@ -2,7 +2,7 @@
 
 ## Meeting recording
 
-m
+{% embed url="https://youtu.be/bXyHVpCuPEA" %}
 
 ## Minutes of Catalyst Circle v3 Meeting #8 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
