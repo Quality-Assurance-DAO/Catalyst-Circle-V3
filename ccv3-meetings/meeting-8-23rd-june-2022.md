@@ -8,7 +8,7 @@
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-Nori Nishigaya (facilitator); Mercy A (epresenting Funded Proposers); Joey Chessher (Toolmakers and Maintainers); Quasar (General ADA Holders); Nadia (Proposal Assessors); Steve Lockhart (Funded Proposers Sub-Circle); Harris Warren (IOG); Felix Weber (Cardano Foundation); Kriss Baird (IOG); JP (secretary).
+**Nori Nishigaya** (facilitator); **Mercy A** (epresenting Funded Proposers); **Joey Chessher** (Toolmakers and Maintainers); **Quasar** (General ADA Holders); **Nadia Hopkins** (Proposal Assessors); **Steve Lockhart** (Funded Proposers Sub-Circle); **Harris Warren** (IOG); **Felix Weber** (Cardano Foundation); **Kriss Baird** (IOG); **JP** (secretary).
 
 ### Apologies
 
