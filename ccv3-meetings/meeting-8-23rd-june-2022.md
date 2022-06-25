@@ -16,7 +16,7 @@
 
 ### Speaker percentages
 
-**Nori** (22%), **Quasar** (17%), **Harris** (14%), **Felix** (12%), **Steve** (11%), **Mercy** (8%), **Kriss** (8%), **Nadia** (4%), **Joey** (3%), JP (2%)
+**Nori** (22%), **Quasar** (17%), **Harris** (14%), **Felix** (12%), **Steve** (11%), **Mercy** (8%), **Kriss** (8%), **Nadia** (4%), **Joey** (3%), **JP** (2%)
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
