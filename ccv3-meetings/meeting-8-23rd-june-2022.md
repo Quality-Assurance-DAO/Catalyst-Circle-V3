@@ -12,7 +12,7 @@
 
 ### Apologies
 
-Rhys Morgan (stake pool operators).
+**Rhys Morgan** (stake pool operators).
 
 ### Speaker percentages
 
