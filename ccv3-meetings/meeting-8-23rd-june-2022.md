@@ -24,6 +24,8 @@
 
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
 
+There was no Circle Stand-up in this meeting, and the Prioritised Problems Board was not addressed.
+
 ## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
 ## 4. Checkout and close <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
