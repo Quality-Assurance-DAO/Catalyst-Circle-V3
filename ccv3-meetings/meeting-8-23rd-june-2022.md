@@ -47,6 +47,8 @@ Happy to take any questions.
 
 **Quasar (22:37)** I don't have any questions for Mercy. The comments I made about Mercy in Slack and in GitHub were not intended to question how funds were used, and were not meant to be personal. Dimitri and I were trying to figure out how to request funds from Rapid Funding.
 
+**Nadia (26:19)** It's really easy for us to go to the source with each other and respectfully request information of someone if it's if it's needed. I think it's it's really challenging to have a team operate like a team, if we're not treating each other like we're all on the same team.&#x20;
+
 ## 4. Checkout and close <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
