@@ -57,6 +57,8 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 
 ### Circle structure and legitimacy (37:34)
 
+**Key points:**
+
 **Nori (37:34)** We began this at last week's working meeting: there is a [Miro board](https://miro.com/app/board/uXjVOtZ6my8=/) with notes\
 **Nori (38:05)** Although the CCv4 election is a priority because of the urgency of the timing, there is a lot of discussion around Circle's structure and legitimacy, so let's start there.\
 **Harris  (38:35)** On the election - we can use any method to collect candidates' names and platform information - IdeaScale, Google form, or any other way - and that information can be loaded on the back end \[_i.e. of the voting app]_, so it could still be part of the F9 vote even though we have missed the deadline for doing it in the same way as we submit proposals. We could even have separate ballots for different purposes. But I think the biggest discussion is, are we going to let each respective group run their own elections, in which case we don't need this more general election?\
@@ -69,7 +71,10 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 **Harris (55:56)** To reiterate, we don't have to stick to the deadline of the 30th. We could side-load the information for the Circle election, and have it appear in the app as part of the F9 vote; **or** we could wait until the end of the F9 vote, and then load the Circle voting information, via Ideascale or any other method, and have a separate voting event.\
 **Nori (57:41)** I've noticed, from facilitating several Circles, that some seats struggle to connect with their communities. So perhaps we are approaching things backwards to elect a seat and then expect them to go and find their community. If a community is strong enough to self-organise and select a representative, then that rep doesn't need to "problem-sense" - the group is already doing it, so they would be "problem-reporting". In a holocratic model, there's no "election" for who comes in - each group decides who the link person will be, and sends someone to the Circle.\
 **Felix (1:00:34)** We could do it the way that Catalyst GPS says. Instead of functional groups, use topics, such as "Community and outreach" or "Governance and identity". So Circle could copy what has already been pioneered with the PAs and VPAs, instead of trying to reach a decision ourselves. We should give it a try, because they have spent a lot of time working on it.\
-**Harris (1:02:52)** That was the idea of the Wiki survey - to hear ideas from the community, from the PAs and other groups.
+**Harris (1:02:52)** That was the idea of the Wiki survey - to hear ideas from the community, from the PAs and other groups.\
+Nori For concrete action items: there was the Pol.is survey, then an After Town Hall to get community input on the voting process; and then on voting, IdeaScale seems popular - I would love to see someone come up with a proposal on exactly how we would use it.
+
+<mark style="color:red;">**ACTION ITEM:**</mark> Felix, Rhys and Joey to coordinate an ATH next week to get community input on how to do the vote.
 
 ### CCv4 Election planning
 
