@@ -34,7 +34,7 @@ Agenda and align expectations **(7:52)** - added "Circle structure and legitimac
 
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
 
-There was no Circle Stand-up in this meeting, and the Prioritised Problems Board was not addressed.&#x20;
+There is no Circle Stand-up in this meeting's agenda, and the Prioritised Problems Board was not addressed.&#x20;
 
 ## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
@@ -55,12 +55,15 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 
 **Nadia (35:14)** As I suggested in last week's working meeting, I approached the other nominees for CCv3 to see if they were available to function as PA rep when I leave. Filip is not, but Tomi is. It makes sense because he's very involved in the PA community. He is on holiday this week, so I have come to this meeting to announce it; when he returns, he will pick things up. I will be available to hand over, and then I will be moving to other work in the PAs' working groups.
 
-### Circle structure and legitimacy (37:34)
+### Circle structure and legitimacy; and CCv4 Election planning (37:34)
 
 **Key points:**
 
 **Nori (37:34)** We began this at last week's working meeting: there is a [Miro board](https://miro.com/app/board/uXjVOtZ6my8=/) with notes\
 **Nori (38:05)** Although the CCv4 election is a priority because of the urgency of the timing, there is a lot of discussion around Circle's structure and legitimacy, so let's start there.\
+
+
+**Election methods/process**\
 **Harris  (38:35)** On the election - we can use any method to collect candidates' names and platform information - IdeaScale, Google form, or any other way - and that information can be loaded on the back end \[_i.e. of the voting app]_, so it could still be part of the F9 vote even though we have missed the deadline for doing it in the same way as we submit proposals. We could even have separate ballots for different purposes. But I think the biggest discussion is, are we going to let each respective group run their own elections, in which case we don't need this more general election?\
 **Steve (40:20)** For legitimacy and to satisfy criticism about how Circle is elected, we should ask anyone who wants to be on v4 to submit their name in the _DAOs Love Cardano_ challenge. It's easy, and would solve most of the criticisms.\
 **Joey (43:12)** I also like Ideascale, because people are familiar with it; but best to keep it separate from the Fund vote. Another idea - the software used by the Project Management Institute; it uses video where the candidates answer questions.\
@@ -68,31 +71,53 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 **Felix (44:39)** Let's avoid circling back over old ground - let's pick a solution and make it happen. It doesn't have to be be the best solution.\
 **Kriss (49:56)** Subcircles are all different; so maybe we don't need to define the size of a subcircle. I feel the Circle election is for these specific seats; but the subcircles can be more dynamic.\
 **Quasar (51:31)** Should we change the cadence of when Circles are elected?\
-**Harris (55:56)** To reiterate, we don't have to stick to the deadline of the 30th. We could side-load the information for the Circle election, and have it appear in the app as part of the F9 vote; **or** we could wait until the end of the F9 vote, and then load the Circle voting information, via Ideascale or any other method, and have a separate voting event.\
+**Harris (55:56)** To reiterate, we don't have to stick to the deadline of the 30th. We could side-load the information for the Circle election, and have it appear in the app as part of the F9 vote; **or** we could wait until the end of the F9 vote, and then load the Circle voting information, via Ideascale or any other method, and have a separate voting event.
+
+**Circle seats, and whether they should change to be based on categories defined by GPS**\
 **Nori (57:41)** I've noticed, from facilitating several Circles, that some seats struggle to connect with their communities. So perhaps we are approaching things backwards to elect a seat and then expect them to go and find their community. If a community is strong enough to self-organise and select a representative, then that rep doesn't need to "problem-sense" - the group is already doing it, so they would be "problem-reporting". In a holocratic model, there's no "election" for who comes in - each group decides who the link person will be, and sends someone to the Circle.\
 **Felix (1:00:34)** We could do it the way that Catalyst GPS says. Instead of functional groups, use topics, such as "Community and outreach" or "Governance and identity". So Circle could copy what has already been pioneered with the PAs and VPAs, instead of trying to reach a decision ourselves. We should give it a try, because they have spent a lot of time working on it.\
 **Harris (1:02:52)** That was the idea of the Wiki survey - to hear ideas from the community, from the PAs and other groups.\
-**Nori (1:08:03)** In terms of concrete action items: we have the Pol.is survey, then an After Town Hall to get community input on the voting process; and then on voting, IdeaScale seems popular - I would love to see someone come up with a proposal on exactly how we would use it.\
 **Harris (1:11:17)** The original Circle roles were meant to identify pain points in what people do in Catalyst, e.g. being a proposer, being a PA - and fix the human element. Moving to categories / topics means we are focusing on things - like "how do we make better NFT libraries?" - and maybe this is already being done by Challenge Teams. Yes, we should include Challenge Teams in Circle - but by using categories, do we lose that focus? Also - Circle's original intent was to focus on Catalyst, so let's not lose that focus. And bear in mind, there are some experiments coming, on Voltaire-related things - IOG will announce more details soon.\
 **Felix (1:13:41)** If we do as GPS says, and organise Catalyst by categories, it is easier to track who is working on a particular topic.\
 **Kriss (1:18:00)** But trying to incorporate categories now, at this late stage, is a misstep, when there is a pressing need to create a sensible CCv4 process soon.\
 **Felix  (1:18:56)**  I expressed myself wrong. The idea is not to apply the category system to the whole of Catalyst now, but only to use the categories to define the seats people nominate themselves for. Because in IdeaScale, the categories are defined by existing challenges; so the categories are able to represent every challenge which has been submitted so far.
 
-<mark style="color:red;">**ACTION ITEM:**</mark> Felix, Rhys and Joey to coordinate an ATH next week to get community input on how to do the vote.
+<mark style="color:red;">**ACTION ITEM:**</mark> Felix, Rhys and Joey to coordinate an ATH on 29th June to get community input on how to do the vote. Main Town Hall to be truncated to half an hour.\
+<mark style="color:red;">**ACTION ITEM:**</mark> All to suggest questions to seed into a Pol.is poll; Nori to create the poll next week; everyone to share it.\
+<mark style="color:red;">**ACTION ITEM:**</mark> Quasar to how Twitter spaces to raise awareness of Circle andx collect community input, and feed it back to the Circle.\
+<mark style="color:red;">**ACTION ITEM:**</mark> Circle to discuss CCv4 election in future meetings - no longer aiming for this to take place in Fund 9.
 
-### CCv4 Election planning
+### Fund 9 proposals (1:36:53)
+
+**Nori (1:36:59)** Until now, the Admin team has submitted proposals for Circle, but we will not be doing so from now on. If Circle needs funding, we want Circle reps to propose, and manage it; and if Rapid Funding for each seat is needed, each seat should put in its own proposal for that. So we're raising it so that you all have time to put in proposals if needed.\
+**Nori (1:39:29)** The Admin Team is rebranding to Governance Services Guild. We are submitting our own F9 proposal, which covers us offering our services to any Governance group in Catalyst that wants them, and also creating a [PBL](https://en.wikipedia.org/wiki/Project-based\_learning) to enable anyone from the community to learn how to do these admin tasks and join the Guild.\
+**JP (1:42:33)** Within that proposal, we are including that the Circle can commission the Governance Services Guild to continue to provide services such as agendas, facilitating, and recordings, assuming that you want them.\
+**Quasar  (1:43:27)** I think Circle can take care of itself.\
+**Harris  (1:44:58)** I think your services are very valued and important, so we should find a way to do that as a Circle.
+
+### Opening up Circle meetings (1:45:11)
+
+**Nori (1:45:11)** As discussed last week, is there still agreement that the next Circle meeting will be open to the public as observers, with participation limited to the Chat?
 
 
 
-## 4. Checkout and close <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
+
+
+## 4. Checkout and close (1:5:33) <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
+
+Recap action items **(1:52:16)**\
+Closing go-round **(1:52:28)**\
+**Meeting ends   2:02:59**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
+
+![](<../.gitbook/assets/frequentword meeting #8 23 june.JPG>)
 
 ## Appendix
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/CCv3 meeting #8, June 23rd 2022 QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
