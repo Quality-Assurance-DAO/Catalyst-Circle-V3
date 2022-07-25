@@ -97,7 +97,11 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 
 ### Opening up Circle meetings (1:45:11)
 
-**Nori (1:45:11)** As discussed last week, is there still agreement that the next Circle meeting will be open to the public as observers, with participation limited to the Chat?
+**Nori (1:45:11)** As discussed last week, is there still agreement that the next Circle meeting will be open to the public as observers, with participation limited to the Chat?\
+**Steve (1:45:57)** Participation in Chat can be distracting. People should be allowed; but it needs another Admin member to manage the Chat. Even though we are all co-hosts, we should concentrate on the meeting itself.\
+**Quasar (1:47:43)** Nobody wants to come to Zoom. We should stream it to Discord or Twitter.\
+**Nori (1:48:00)** Rhys already streams it to Youtube; if others want to stream to Twitter that's OK as long as everyone agrees - but this experiment is about inviting the community in to the Zoom.\
+**Felix (1:48:27)** Only those who are really interested in governance will come, so not many people. And we have a beautiful community, so there won't be a problem.
 
 
 
