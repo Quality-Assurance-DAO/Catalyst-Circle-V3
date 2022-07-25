@@ -80,7 +80,9 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 **Harris (1:11:17)** The original Circle roles were meant to identify pain points in what people do in Catalyst, e.g. being a proposer, being a PA - and fix the human element. Moving to categories / topics means we are focusing on things - like "how do we make better NFT libraries?" - and maybe this is already being done by Challenge Teams. Yes, we should include Challenge Teams in Circle - but by using categories, do we lose that focus? Also - Circle's original intent was to focus on Catalyst, so let's not lose that focus. And bear in mind, there are some experiments coming, on Voltaire-related things - IOG will announce more details soon.\
 **Felix (1:13:41)** If we do as GPS says, and organise Catalyst by categories, it is easier to track who is working on a particular topic.\
 **Kriss (1:18:00)** But trying to incorporate categories now, at this late stage, is a misstep, when there is a pressing need to create a sensible CCv4 process soon.\
-**Felix  (1:18:56)**  I expressed myself wrong. The idea is not to apply the category system to the whole of Catalyst now, but only to use the categories to define the seats people nominate themselves for. Because in IdeaScale, the categories are defined by existing challenges; so the categories are able to represent every challenge which has been submitted so far.
+**(1:18:56 - 1:24:30)**  Felix and Harris discuss the relative merits of categories vs roles\
+**Nori (1:24:48)** We are still quite divergent on next steps for the election. Do we need more discussion? Are we saying that we will not rush to do anything in Fund 9, but will take however long it takes, so it could be December, when the next vote happens? Or will we make a decision, quickly and try something? \
+**Harris (1:27:28)** It's my understanding that we've decided we don't have any urgency to do it in Fund 9. And I agree with Felix that we want to experiment, try something. But on categories versus roles – we would not have had such an improvement in the CA /PA process if we hadn't had Kenric then Nadia in that seat; and the same with Funded Proposers. Improvements were driven because those seats existed. So do we want to continue with that, or try something else? I liked the idea of reaching out to the community, because maybe we're not the ones to decide this, to achieve legitimacy. Twitter Spaces and Pol.is are good ways to do this.
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Felix, Rhys and Joey to coordinate an ATH on 29th June to get community input on how to do the vote. Main Town Hall to be truncated to half an hour.\
 <mark style="color:red;">**ACTION ITEM:**</mark> All to suggest questions to seed into a Pol.is poll; Nori to create the poll next week; everyone to share it.\
@@ -101,15 +103,11 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 **Steve (1:45:57)** Participation in Chat can be distracting. People should be allowed; but it needs another Admin member to manage the Chat. Even though we are all co-hosts, we should concentrate on the meeting itself.\
 **Quasar (1:47:43)** Nobody wants to come to Zoom. We should stream it to Discord or Twitter.\
 **Nori (1:48:00)** Rhys already streams it to Youtube; if others want to stream to Twitter that's OK as long as everyone agrees - but this experiment is about inviting the community in to the Zoom.\
-**Felix (1:48:27)** Only those who are really interested in governance will come, so not many people. And we have a beautiful community, so there won't be a problem.
-
-
-
-
+**Felix (1:48:27)** We have a beautiful community, so it won't be too wild. Only those who are really interested in governance will come, so not many people.&#x20;
 
 ## 4. Checkout and close (1:5:33) <a href="#4.-checkout-and-close-1-57-15" id="4.-checkout-and-close-1-57-15"></a>
 
-Recap action items **(1:52:16)**\
+Recap of action items **(1:52:16)**\
 Closing go-round **(1:52:28)**\
 **Meeting ends   2:02:59**
 
