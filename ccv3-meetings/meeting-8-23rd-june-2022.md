@@ -24,6 +24,8 @@ ATH – After Townhall, breakout rooms after the regular Wednesday [TownHall mee
 
 CA – Community Advisor, the old name for a role open to anyone in Catalyst, to assess proposals in each funding round - now renamed PA
 
+CATH - Catalyst Africa Town Hall
+
 CC – Catalyst Circle
 
 CF – [Cardano Foundation](https://cardanofoundation.org/)
@@ -42,9 +44,11 @@ ETH – [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX
 
 Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
-GPS or Catalyst GPS - an F8 funded proposal, run by the previous and current PA Circle reps, Nadia and Tomi
+GPS or Catalyst GPS - an F8 funded proposal, run by previous and current Circle attendees, Nadia and Tomi
 
 IOG – [Input/Output Global](https://iohk.io/)
+
+LatAm – the Catalyst community in Latin America. Comprises a regular Town Hall and several other community initiatives.
 
 NFT – [non-fungible token](https://en.wikipedia.org/wiki/Non-fungible\_token)
 

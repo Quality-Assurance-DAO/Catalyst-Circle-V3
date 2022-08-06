@@ -8,9 +8,11 @@ coming soon
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-### Apologies
+**JP** (facilitator); **Felix Weber** (representing CF); **Tomi Astikainen** (representing PAs); **Harris Warren** (IOG); **Quasar** (ADA Holders subcircle member); **Steve Lockhart** (Funded Proposers Subcircle, standing in for Mercy); **Joey Chessher** (Toolmakers and Maintainers); **Rhys Morgan** (stakepool operators)
 
 ### Speaker percentages
+
+**JP** (34%), **Harris** (21%), **Felix** (13%), **Joey** (11%), **Tomi** (7%), **Steve** (6%), **Quasar** (5%), **Rhys** (2%)
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
