@@ -14,7 +14,31 @@ coming soon
 
 **JP** (34%), **Harris** (21%), **Felix** (13%), **Joey** (11%), **Tomi** (7%), **Steve** (6%), **Quasar** (5%), **Rhys** (2%)
 
-### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
+### Abbreviations used/Glossary
+
+please scroll down
+
+## 1. Opening, agenda <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
+
+Check-in – conducted off-camera
+
+Announcements – conducted off-camera. Felix announced special Circle Town Halls in CATH (Friday 8th July) & LatAm (w/c 11th July)
+
+Agenda and align expectations – conducted off camera. JP asked for consent of the meeting to discuss Catalyst GPS.
+
+## **2. Circle Stand-Up**
+
+Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board.
+
+## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+
+## 4. Checkout and close
+
+## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
+
+![](<../.gitbook/assets/frequentword mtg9.JPG>)
+
+## Abbreviations used/Glossary
 
 ATH – After Townhall, the breakout rooms after the regular Wednesday [TownHall meeting](https://bit.ly/3rCicSR)
 
@@ -66,26 +90,6 @@ VPA - Veteran Proposal Assessor; the new name for the role that used to be calle
 
 Voltaire – the next phase on the [Cardano roadmap to decentralisation](https://roadmap.cardano.org/en/voltaire/)
 
-## 1. Opening, agenda <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
-
-Check-in – conducted off-camera
-
-Announcements – conducted off-camera. Felix announced special Circle Town Halls in Africa TH (Friday 8th July) & LATAM TH (w/c 11th July)
-
-Agenda and align expectations – conducted off camera. JP asked for consent of the meeting to discuss Catalyst GPS.
-
-## **2. Circle Stand-Up**
-
-Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board.
-
-## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
-
-## 4. Checkout and close
-
-## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
-
-![](<../.gitbook/assets/frequentword mtg9.JPG>)
-
 ## Appendix
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
@@ -95,6 +99,3 @@ coming soon
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
 coming soon
-
-
-
