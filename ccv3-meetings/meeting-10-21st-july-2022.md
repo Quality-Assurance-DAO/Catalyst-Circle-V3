@@ -20,9 +20,22 @@ please scroll down
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
-## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+Check-in – **1:38**\
+Announcements – **5:44** None\
+Agenda and align expectations – **6:21** Minor changes to the order of items on the agenda.
 
-## 3. Checkout and close
+## 2. **Circle Stand-Up** <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+
+Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board.
+
+## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+
+## 4. Checkout and close **(1:53:05)**
+
+**1:53:26** Checkout  and closing remarks\
+**1:57:20** Meeting feedback form
+
+Meeting ends **1:57:49**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
@@ -78,11 +91,11 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/CCv3 meeting 10, 21 July 2022 QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/Agenda CCv3 meeting 10, 21 July 2022.doc" %}
 
 
 
