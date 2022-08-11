@@ -1,18 +1,16 @@
-# Meeting #10, 21st July 2022
+# Meeting #12, 18th August 2022
 
 ## Meeting recording
 
 coming soon
 
-## Minutes of Catalyst Circle v3 Meeting #10 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
+## Minutes of Catalyst Circle v3 Meeting #11 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-**JP** (facilitator); **Quasar** (ADA Holders subcircle member); **Kriss Baird** (IOG); ); **Joey Chessher** (Toolmakers and Maintainers); **Felix Weber** (representing CF); **Ondřej Hálek** (Catalyst GPS); **Steve Lockhart** (Funded Proposers Subcircle; **Rhys Morgan** (stakepool operators); **Tomi Astikainen** (representing PAs); **Peter Wolcott** (secretary, present for part of the meeting).
+### Apologies
 
 ### Speaker percentages
-
-**JP** (26%), **Ondřej** (15%), **Kenric** (13%), **Kriss** (12%), **Rhys** (11%), **Tomi** (6%), **Felix** (5%), **Steve** (5%), **Quasar** (4%), **Joey** (3%), **Peter** (<1%)
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
@@ -35,6 +33,3 @@ coming soon
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
 coming soon
-
-
-
