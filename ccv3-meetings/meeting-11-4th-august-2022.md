@@ -8,9 +8,11 @@ coming soon
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-### Apologies
+**Nori Nishigaya** (facilitator); **Joey Chessher** (Toolmakers and Maintainers); **Felix Weber** (representing CF); **Tomi Astikainen** (PAs); **Steve Lockhart** (standing in for Mercy; Funded Proposers); **Harris Warren** (IOG); **Rhys Morgan** (stakepool operators); **Quasar** (ADA Holders subcircle member); **JP** (secretary); **Zoe Kleist** (PAs subcircle).
 
 ### Speaker percentages
+
+**Harris** (20%), **Nori** (18%), **Rhys** (16%), **Steve** (11%), **Quasar** (10%), **Joey** (8%), **Felix** (6%), **Zoe** (5%), **Tomi** (5%), **JP** (1%)
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
