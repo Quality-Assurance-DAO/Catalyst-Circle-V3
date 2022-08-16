@@ -75,7 +75,7 @@ For example: “**Circles role is 'sensor' (not synthesiser, decision-maker)**�
 _By contrast, the statement “_**The Catalyst Circle should be a decision-making body acting as the representative body for all the different groups participating in Project Catalyst**” _28%/44%/26%, showed one of the highest levels of disagreement in the survey._
 {% endhint %}
 
-**Rhys (23:11)**  On funding and operational costs, people thought
+**Rhys (22:10)**  On funding and operational costs, people thought
 
 * Circle should be funded outside of the proposal process
 * Circle Reps should have a set budget to create and facilitate working sub-circles.
