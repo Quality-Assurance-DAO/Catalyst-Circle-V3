@@ -53,7 +53,7 @@ Many bot PA assessments in this Fund. Proof of life is a big issue for the whole
 **Steve (32:47**) No, our sub-circle has not talked about it.
 
 {% hint style="info" %}
-<mark style="color:red;">**Point of information**</mark>: _Steve is incorrect. The FP Subcircle discussed the proposal submission form at length, several times, in several forums including ETH and CATH._&#x20;
+<mark style="color:red;">**Point of information**</mark>: _Steve is incorrect. The FP Subcircle discussed the proposal submission form at length, several times, at several forums including ETH and CATH._&#x20;
 
 _Steve was present for at least one of those discussions; and the main new question that came from the FP Subcircle (“_Will you return for further funding?_”) was added at his suggestion, which he made in a Subcircle meeting on 26th April 2022. The other change suggested by the FP Subcircle was the addition of a tick box, “_Has your proposal been translated from another language?_” All these proposed changes were shared with the community for commentary_ [_here_](https://docs.google.com/document/d/10HzWiQsXA9E2R7QFxK6qZBM4Bd5ztHiY-UU2rHWTS1Q/edit?usp=sharing) _._&#x20;
 
