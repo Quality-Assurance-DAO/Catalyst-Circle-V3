@@ -144,7 +144,7 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 {% hint style="danger" %}
 <mark style="color:red;">**Summariser’s note**</mark>: it is not clear at this point whether the meeting considers that this decision to restructure Circle around categories is a final, definite decision, or whether it needs to be ratified e.g. by the community in some way.&#x20;
 
-Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that it is clear that Circle has yet to agree exactly what the categories will consist of.
+Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that Circle has yet to agree exactly what the categories will consist of.
 {% endhint %}
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Tomi to lead discussion on defining the categories.
@@ -220,7 +220,8 @@ _So the majority vote is for using both/several – and note that the Pol.is sur
 <mark style="color:red;">**ACTION ITEM:**</mark> Change of meeting time to be discussed in Slack, and JP to re-send Doodle poll as not everyone answered it.
 
 {% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note:**</mark> it is still unclear at this point in the meeting whether these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether the Swarm session planned for Sat 6th will be the only community consultation that is done._
+_<mark style="color:red;">**Summariser’s note:**</mark> it is still unclear at this point in the meeting whether these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether the Swarm session planned for Sat 6th will be the only community consultation that is done._\
+_Note that at 56:02, Rhys suggests that the "Circle roles/categories" issue could be put to the community in a new Pol.is poll._
 
 _Note that at the time of writing, the Swarm discussion is not yet uploaded – the link will be added as soon as it is available_.
 {% endhint %}
