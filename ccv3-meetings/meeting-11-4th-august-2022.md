@@ -157,79 +157,70 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 
 **Rhys (1:28:51)** The Pol.is survey said Circle should be funded via a parameter change – I think we should implement that as soon as possible.
 
-**Rhys (1:30:02)** With voting, my main concern is participation. Catalyst App would be better than what we’ve had for Circle before, but DripDropz is better because there’s no 500 ADA limit on who can vote.
+### **Catalyst Voting App, or DripDropz?**
 
-**Nori (1:31:21)** Can someone make a proposal that we can vote on?
-
-**Joey (1:32:13)** OK – I like IdeaScale, because people are more familiar with it.; and the snapshot could be of anything, it doesn’t have to be how much ADA is in your wallet.
-
-**Felix  (1:34:45)**  I advocate for DripDropz, because it is important to use community-built solutions, and because it is on chain, so we have full insight on it.
-
-**Rhys (1:36:08)** An on-chain vote would incentivise people just for the novelty. We could use multiple voting systems – but that would be overworking ourselves.
-
+**Rhys (1:30:02)** With voting, my main concern is participation. Catalyst App would be better than what we’ve had for Circle before, but DripDropz is better because there’s no 500 ADA limit on who can vote.\
+**Nori (1:31:21)** Can someone make a proposal that we can vote on?\
+**Joey (1:32:13)** OK – I like IdeaScale, because people are more familiar with it.; and the snapshot could be of anything, it doesn’t have to be how much ADA is in your wallet.\
+**Felix  (1:34:45)**  I advocate for DripDropz, because it is important to use community-built solutions, and because it is on chain, so we have full insight on it.\
+**Rhys (1:36:08)** An on-chain vote would incentivise people just for the novelty. We could use multiple voting systems – but that would be overworking ourselves.\
 **Nori (1:37:01)** Running both as an experiment, to see which works best,  would be interesting.
 
-**Harris (1:37:44)** The Catalyst voting app is on a side chain, so offers privacy. I propose we choose one or the other but not both.
+### Does privacy matter?
 
-**Nori (1:38:49)** Privacy and anonymity have been mentioned very strongly by the community as core democratic principles that we can’t let go of. Can DripDropz provide that?
+**Harris (1:37:44)** The Catalyst voting app is on a side chain, so offers privacy. I propose we choose one or the other but not both.\
+**Nori (1:38:49)** Privacy and anonymity have been mentioned very strongly by the community as core democratic principles that we can’t let go of. Can DripDropz provide that?\
+**Felix (1:39:24)** No. Privacy is important, but we want insights into the vote. We should try both and identify best practices.\
+**Rhys (1:40:50)** The only real privacy issue is the ADA handles. Does it matter who votes for who? We are all allowed to voice an opinion, so what’s the issue with being identified? For me, it’s not much of an issue.\
+**Nori (1:42:26)** Gamechanger has burner wallets which could allow people to anonymise themselves. But I do think privacy is an important democratic principle that we can’t just throw out because we don’t think it’s important. Some people do think it’s important, and have voiced that opinion very strongly in the community.\
+**Joey (1:42:58)** The vote for CCv3 wasn’t anonymous, so anonymity is not a big deal for me.\
+**Harris (1:43:19)** One of our tenets is valuing privacy. And it depends what we are voting for – if there is a possibility of collusion, bribery to get certain people elected for specific reasons, then it is an issue; especially if CCv4 has decision-making powers.\
+**Felix  (1:45:18) – proposes using DripDropz as the voting mechanism for CCv4.**\
+**Tomi (1:45:55)** Cost of voting with DripDropz? \
+**Rhys (1:46:24)**: only the cost of the transaction
 
-**Felix (1:39:24)** No. Privacy is important, but we want insights into the vote. We should try both and identify best practices.
+### The Vote:
 
-**Rhys (1:40:50)** The only real privacy issue is the ADA handles. Does it matter who votes for who? We are all allowed to voice an opinion, so what’s the issue with being identified? For me, it’s not much of an issue.
-
-**Nori (1:42:26)** Gamechanger has burner wallets which could allow people to anonymise themselves. But I do think privacy is an important democratic principle that we can’t just throw out because we don’t think it’s important. Some people do think it’s important, and have voiced that opinion very strongly in the community.
-
-**Joey (1:42:58)** The vote for CCv3 wasn’t anonymous, so anonymity is not a big deal for me.
-
-Harris (1:43:19) One of our tenets is valuing privacy. And it depends what we are voting for – if there is a possibility of collusion, bribery to get certain people elected for specific reasons, then it is an issue; especially if CCv4 has decision-making powers.
-
-**Felix  (1:45:18) – proposes using DripDropz as the voting mechanism for CCv4.**
-
-**Tomi (1:45:55)** Cost of voting with DripDropz? (only the cost of the transaction)
-
-&#x20;
-
-Vote:
-
-&#x20;               **Joey (1:46:53)** Prefer IdeaScale.
-
-&#x20;               **Felix (1:47:15)** DripDropz.
-
-&#x20;               **Steve (1:47:23)** Prefer to use both, but willing to try DripDropz.
-
-&#x20;               **Harris (1:47:35)** Abstain.
-
-&#x20;               **Quasar (1:47:45)** I vote for DripDropz as an option, but I vote for using all of them
-
-&#x20;               **Rhys (1:48:07)** Happy to vote for DripDropz as a test.
-
-**Tomi (1:48:23)** I will proxy Zoe to vote for me as I missed the discussion.
-
-**Zoe (1:48:43)** I vote for using several-  the voting app because of privacy, DripDropz for the chance to try it.
-
-&#x20;
+&#x20;      **Joey (1:46:53)** Prefer IdeaScale.\
+&#x20;     **Felix (1:47:15)** DripDropz.\
+&#x20;     **Steve (1:47:23)** Prefer to use both, but willing to try DripDropz.\
+&#x20;     **Harris (1:47:35)** Abstain.\
+&#x20;     **Quasar (1:47:45)** I vote for DripDropz as an option, but I vote for using all of them\
+&#x20;     **Rhys (1:48:07)** Happy to vote for DripDropz as a test.\
+&#x20;     **Tomi (1:48:23)** I will proxy Zoe to vote for me as I missed the discussion.\
+&#x20;     **Zoe (1:48:43)** I vote for using several-  the voting app because of privacy, DripDropz for the chance to try it.
 
 **Nori (1:49:08)** so no strong objections across the board, general consensus that nobody is strongly against DripDropz.
 
-(_**Summariser’s note:** there was  1 vote for Ideascale, 2 votes for DripDropz, 1 abstention, and 3 votes for using both/several. So the majority vote is for using both/several – and note that the Pol.is survey showed the community support majority vote for Circle decisions.)_
+{% hint style="danger" %}
+_<mark style="color:red;">**Summariser’s note:**</mark> there was:_\
+_1 vote for Ideascale,_ \
+_2 votes for DripDropz,_ \
+_1 abstention,_\
+_3 votes for using both/several._&#x20;
 
-&#x20;
+_So the majority vote is for using both/several – and note that the Pol.is survey showed the community support majority vote for Circle decisions._
+{% endhint %}
 
 **Nori (1:49:57)** Our two takeaways are: to talk about the categories and the seats, and the voting tool. These are two directions to develop further with the community.
 
-**ACTION ITEM:** Felix and Rhys to progress it and liaise with DripDropz.
+<mark style="color:red;">**ACTION ITEM:**</mark> Felix and Rhys to progress it and liaise with DripDropz.\
+<mark style="color:red;">**ACTION ITEM:**</mark> All to meet Fri 5th to discuss categories, and then discuss with the community in Swarm on Saturday 6th.\
+<mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">:</mark> all to add comments to Quasar and Rhys’s document on the Pol.is poll.\
+<mark style="color:red;">**ACTION ITEM:**</mark> Change of meeting time to be discussed in Slack, and JP to re-send Doodle poll as not everyone answered it.
 
-**ACTION ITEM:** All to meet Fri 5th to discuss categories, and then discuss with the community in Swarm on Saturday 6th.
+{% hint style="danger" %}
+_<mark style="color:red;">**Summariser’s note:**</mark> it is still unclear at this point in the meeting whether these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether the Swarm session planned for Sat 6th will be the only community consultation that is done._
 
-**ACTION ITEM**: all to add comments to Quasar and Rhys’s document on the Pol.is poll.
+_Note that at the time of writing, the Swarm discussion is not yet uploaded – the link will be added as soon as it is available_.
+{% endhint %}
 
-**ACTION ITEM:** Change of meeting time to be discussed in Slack, and JP to re-send Doodle poll as not everyone answered it.
+### **Code of Conduct (Harris, 1:50:26)**
 
-&#x20;
+Draft Code of Conduct is ready – shared in Slack, all can comment.\
+Need to decide whether to then send it back to IOG’s legal team, or to the community for comment.
 
-(_**Summariser’s note:** it is still unclear if these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether Swarm on Sat 6th will be the only community consultation that is done._
-
-_Note that at the time of writing, the Swarm discussion is not yet uploaded – the link will be added as soon as it is available_.)
+<mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">:</mark> all to review Code of Conduct draft, give feedback, decide next steps.
 
 ## 3. Checkout and close (1:53:09)
 
