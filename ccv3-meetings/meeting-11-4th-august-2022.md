@@ -31,7 +31,7 @@
 **Results of Pol.is poll:** [https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/)\
 **Rhys and Quasar's analysis:** [https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing](https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing)
 
-<mark style="color:red;">**Note:**</mark> This was also presented at ATH by Quasar on 3rd August. Link to video will be added when available.
+<mark style="background-color:green;">**Note:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> This was also presented at ATH by Quasar on 3rd August. Link to video will be added when available.
 
 ### &#x20;**Summary of Pol.is survey results by Rhys and Quasar (17:25)**
 
@@ -41,8 +41,8 @@
 
 * should represent functions and categories of work rather than different stakeholder groups
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note**</mark> – in fact, this statement ("_**The Circle seats should represent functions/categories of work rather than different stakeholder groups**"), _was one of the more divisive statements in the poll overall (i.e. the community was divided on what they think about it, and the “minority” position on it was fairly strong). There was a clear grouping, “Group B”,  that did substantially agree with it – 54% yes, 20% no, 25% don’t know – but there was another only slightly smaller group, “Group A”, where it was evenly split, 33% yes, 33% no, 33% don’t know; and the overall percentages were 45% yes, 25% no, and 28% don’t know. Of the 3 main options presented in the poll about how to structure Circle seats – that is, a) functions and categories of work, b) stakeholder groups, and c) self-defined groups – this was the least popular overall._
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note**</mark> – in fact, this statement ("_**The Circle seats should represent functions/categories of work rather than different stakeholder groups**"), _was one of the more divisive statements in the poll overall (i.e. the community was divided on what they think about it, and the “minority” position on it was fairly strong). There was a clear grouping, “Group B”,  that did substantially agree with it – 54% yes, 20% no, 25% don’t know – but there was another only slightly smaller group, “Group A”, where it was evenly split, 33% yes, 33% no, 33% don’t know; and the overall percentages were 45% yes, 25% no, and 28% don’t know. Of the 3 main options presented in the poll about how to structure Circle seats – that is, a) functions and categories of work, b) stakeholder groups, and c) self-defined groups – this was the least popular overall._
 
 _The statement_ “**The Circle seats should represent particular roles from different stakeholder groups (e.g. Proposers, Proposal Assessors, dReps etc) rather than categories of Catalyst challenges (e.g. Community Hubs, Developer Ecosystem etc)**” _was less divisive, and slightly more popular – overall 48% for, 21% against, and 30% don’t know, with Group A voting 36%/26%/36%; and Group B voting 57%/17%/25%._
 
@@ -54,8 +54,8 @@ _Based on the above, what was presented in this meeting was not accurate – the
 * should be open to anyone who wants to participate in governance of Catalyst
 * should be a human sensor array acting as a representative body for all the different groups participating in Project Catalyst&#x20;
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note**</mark> – this statement did not define the “groups participating in Catalyst”, so we cannot know if voters meant the current functional groups, or some other grouping._
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note**</mark> – this statement did not define the “groups participating in Catalyst”, so we cannot know if voters meant the current functional groups, or some other grouping._
 {% endhint %}
 
 * should monitor the current state and future plans regarding governance, and overseeing the strategic direction of Project Catalyst
@@ -67,8 +67,8 @@ _<mark style="color:red;">**Summariser’s note**</mark> – this statement did 
 * should work by majority vote
 * should not make Circle reps responsible for delivering solutions on the problems they sense.
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note**</mark>: there was also a strong suggestion, expressed in several statements but not mentioned in this meeting, that the community is not convinced Circle should be a decision-making body at all._&#x20;
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note**</mark>: there was also a strong suggestion, expressed in several statements but not mentioned in this meeting, that the community is not convinced Circle should be a decision-making body at all._&#x20;
 
 For example: “**Circles role is 'sensor' (not synthesiser, decision-maker)**” - _65%/15%/20%; “_**The Circle should never become a decision-making body**” _- 40%/28%/30%; “**T**_**he Circle should not (not now, nor ever) be/-come a decision-making body**” _41%/35%/23% “_**The Circle has two functions: Being a communication streamline, and sensing problems. Those need to be done good**.” _58%/23%/17%; **“**_**Functional community-led Sub-Circles should have the decision making power and Circle should just coordinate their efforts.**” 43%/24%/31%. __&#x20;
 
@@ -86,8 +86,8 @@ _By contrast, the statement “_**The Catalyst Circle should be a decision-makin
 * Circle funding should not come from proposals/voting
 * We need better and broader representation.
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note:**</mark> those interested should read the Pol.is results here_ [_https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/_ ](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/) _to determine if these really are the 3 main takeaways from the community  according to this survey._&#x20;
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note:**</mark> those interested should read the Pol.is results here_ [_https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/_ ](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/) _to determine if these really are the 3 main takeaways from the community  according to this survey._&#x20;
 
 _Note that one statement that rated highly by several metrics (popularity, consensus, number of votes), was "_**Adding increasingly complex layers of bureaucracy, while intending to improve decision making, can discourage new users from participating.**" _Although of course it is hard to be sure that all the respondents agreed on what counts as "bureaucracy", perhaps Circle should check whether the community feels any proposed solution is overly bureaucratic, as this appears to be something the community cares about._
 
@@ -127,7 +127,9 @@ If we can just finally decide that these are the functions of Catalyst, then the
 
 ### **Vote(?) on using GPS categories as Circle seats**
 
-**Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view? \[_<mark style="color:red;">**Summariser's note**</mark>**:** this appears not to be an actual vote, but a "taking the temperature"._]
+**Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view?&#x20;
+
+\[_<mark style="color:purple;">**Summariser's note:**</mark> this appears not to be an actual vote, but a "taking the temperature"._]
 
 * **Joey (1:06:38):** Agree.
 * **Felix (1:07:35):** Agree.
@@ -143,10 +145,10 @@ If we can just finally decide that these are the functions of Catalyst, then the
 &#x20;**Nori  (1:13:27) -**  So there is general consensus to use this “categories” structure to define Circle v4 seats. Next steps are to define in detail what the categories are.\
 **Joey (1:14:27)** We also need to seek nominees to stand for election.
 
-{% hint style="danger" %}
-<mark style="color:red;">**Summariser’s note**</mark>: it is not clear at this point whether the meeting considers that this decision to restructure Circle around categories is a final, definite decision, or whether it needs to be ratified e.g. by the community in some way.&#x20;
+{% hint style="warning" %}
+<mark style="color:purple;">**Summariser’s note**</mark>: it is not clear at this point whether the meeting considers that this decision to restructure Circle around categories is a final, definite decision, or whether it needs to be ratified e.g. by the community in some way.&#x20;
 
-Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that Circle has yet to agree exactly what the categories will consist of.
+Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that Circle has agreed to discuss further exactly what the categories will consist of.
 {% endhint %}
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Tomi to lead discussion on defining the categories.
@@ -204,8 +206,8 @@ Note that there is a decision later in the meeting to discuss it in Swarm on 6th
 
 **Nori (1:49:08)** so no strong objections across the board, general consensus that nobody is strongly against DripDropz.
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note:**</mark> there was:_\
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note:**</mark> there was:_\
 _1 vote for Ideascale,_ \
 _2 votes for DripDropz,_ \
 _1 abstention,_\
@@ -221,11 +223,11 @@ _So the majority vote is for using both/several – and note that the Pol.is sur
 <mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">:</mark> all to add comments to Quasar and Rhys’s document on the Pol.is poll.\
 <mark style="color:red;">**ACTION ITEM:**</mark> Change of meeting time to be discussed in Slack, and JP to re-send Doodle poll as not everyone answered it.
 
-{% hint style="danger" %}
-_<mark style="color:red;">**Summariser’s note:**</mark> it is still unclear at this point in the meeting whether these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether the Swarm session planned for Sat 6th will be the only community consultation that is done._\
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser’s note:**</mark> it is still unclear at this point in the meeting whether these decisions – the 5 categories as seats, and DripDropz as the voting tool – are now made, or if they need to be formally ratified by the community in some way; and whether the Swarm session planned for Sat 6th will be the only community consultation that is done._\
 _Note that at 56:02, Rhys suggests that the "Circle roles/categories" issue could be put to the community in a new Pol.is poll._
 
-_Note that at the time of writing, the Swarm discussion is not yet uploaded – the link will be added as soon as it is available_.
+_(NB at the time of writing, the Swarm session is not yet available – the link will be added as soon as possible_.)
 {% endhint %}
 
 ### **Code of Conduct (Harris, 1:50:26)**
