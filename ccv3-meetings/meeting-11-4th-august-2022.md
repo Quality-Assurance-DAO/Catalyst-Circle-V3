@@ -33,7 +33,7 @@ please scroll down
 
 <mark style="color:red;">**Note:**</mark> This was also presented at ATH by Quasar on 3rd August. Link to video will be added when available.
 
-### **Rhys (17:25) - summary of results document created by Rhys and Quasar**
+### &#x20;**Summary of Pol.is survey results by Rhys and Quasar (17:25)**
 
 **Rhys (18:29)** People wanted Circle to be bigger, with not just a single person on each role; and to include people from all over the world, especially Eastern hemisphere
 
