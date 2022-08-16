@@ -96,39 +96,41 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 
 ### Representation
 
-* **Steve Lockhart (26:33)** I was disturbed by Felix's report that CATH do not want to step up and represent the African community. Mercy has pointed out Africa is very big, so someone from one part of the continent might not be able to represent someone from another part. I am prepared to [go to the African Town Hall tomorrow](https://youtu.be/zu\_7aFJtulY?t=916) and really address this issue. I feel the same about Latin America and Asia too.
-* **Zoe (31:04)** One seat in Circle can’t represent all of a community like CATH or LatAm. I feel if the current Circle defines the next Circle’s structure, it won’t fit, because it did not evolve from the communities, from the bottom up.
+**Steve Lockhart (26:33)** I was disturbed by Felix's report that CATH do not want to step up and represent the African community. Mercy has pointed out Africa is very big, so someone from one part of the continent might not be able to represent someone from another part. I am prepared to [go to the African Town Hall tomorrow](https://youtu.be/zu\_7aFJtulY?t=916) and really address this issue. I feel the same about Latin America and Asia too.\
+**Zoe (31:04)** One seat in Circle can’t represent all of a community like CATH or LatAm. I feel if the current Circle defines the next Circle’s structure, it won’t fit, because it did not evolve from the communities, from the bottom up.
 
 ### **Circle as treasury managers**
 
-* **Harris (35:31)** The purpose of Circle is to further the process of treasury management – to support distributing funding to the right people. That’s why we have functional seats like PAs etc. We need to decide on the seats – and if we can’t choose between categories or geographical, we should stick with the functional roles that keep Catalyst running. If we define the seats, there can be sub-circles that can work in a holocratic way – and it would be reasonable to fund those from Treasury, but we should ask the community to ratify that via a vote.
-* **Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify – it’s a narrower scope, not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
+**Harris (35:31)** The purpose of Circle is to further the process of treasury management – to support distributing funding to the right people. That’s why we have functional seats like PAs etc. We need to decide on the seats – and if we can’t choose between categories or geographical, we should stick with the functional roles that keep Catalyst running. If we define the seats, there can be sub-circles that can work in a holocratic way – and it would be reasonable to fund those from Treasury, but we should ask the community to ratify that via a vote.\
+**Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify – it’s a narrower scope, not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
 
 ### **Categories and functions**
 
-* **Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:red;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs and VPAs, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
-  \- people and culture\
-  \- structure and processes\
-  \- network and ecosystem, including SPOs, developers\
-  \- products and services, the whole innovation process\
-  \- the growth and impact of the whole thing.\
-  If we can just finally decide that these are the functions of Catalyst, then these can be the Circle seats.  But I agree there should be more than one person per seat. I suggest 2 – one more hands-on and one more about strategic long-term development of Catalyst. I think we need to decide this now, because we are running out of time.
-* **Steve (48:09)** We should be self-correcting, and it should be easy to shift and change a decision. I don’t know if Funded Proposers and Toolmakers are valid roles.
-* **Zoe (51:38)**  Some people don’t want to take a big part in governance. We often try to drag them into decision-making, when they just want to submit a proposal and get funded.
-* **Joey (52:46)** Perhaps we should group some of the seats together. And perhaps we need a charity/philanthropic role added.
+**Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:red;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs and VPAs, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
+\- people and culture\
+\- structure and processes\
+\- network and ecosystem, including SPOs, developers\
+\- products and services, the whole innovation process\
+\- the growth and impact of the whole thing.\
+If we can just finally decide that these are the functions of Catalyst, then these can be the Circle seats.  But I agree there should be more than one person per seat. I suggest 2 – one more hands-on and one more about strategic long-term development of Catalyst. I think we need to decide this now, because we are running out of time.
 
-**Nori (54:43)** Several new ideas; we are not nearing a decision. Do we feel it is time-sensitive, or do we want to go into more depth on some of these?
+**Steve (48:09)** We should be self-correcting, and it should be easy to shift and change a decision. I don’t know if Funded Proposers and Toolmakers are valid roles.\
+**Zoe (51:38)**  Some people don’t want to take a big part in governance. We often try to drag them into decision-making, when they just want to submit a proposal and get funded.\
+**Joey (52:46)** Perhaps we should group some of the seats together. And perhaps we need a charity/philanthropic role added.
 
-* **Steve Lockhart (55:28**) If we can side-load votes about governance into the voting app, and we start doing that now, then I think we can take our time.
-* **Rhys (56:02)** I don’t think deciding the roles is so urgent that we have to solve it now – it should be left up to the community. We could get community feedback about these issues in the next Pol.is. But there is urgency to vote in a new Circle.
-* **Harris (59:23)** We need to make a call – ideally as a group, and ideally, ratified by the community. Tomi’s functional categories are a good place to start.
+### **Decide now, or discuss further?**
+
+**Nori (54:43)** Several new ideas; we are not nearing a decision. Do we feel it is time-sensitive, or do we want to go into more depth on some of these?\
+**Steve Lockhart (55:28**) If we can side-load votes about governance into the voting app, and we start doing that now, then I think we can take our time.\
+**Rhys (56:02)** I don’t think deciding the roles is so urgent that we have to solve it now – it should be left up to the community. We could get community feedback about these issues in the next Pol.is. But there is urgency to vote in a new Circle.\
+**Harris (59:23)** We need to make a call – ideally as a group, and ideally, ratified by the community. Tomi’s functional categories are a good place to start.
 
 ### **Vote(?) on using GPS categories as Circle seats**
 
 **Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view? \[_<mark style="color:red;">**Summariser's note**</mark>**:** this appears not to be an actual vote, but a "taking the temperature"._]
 
-* **Joey (1:06:38):** Agree
-* **Felix (1:07:35):** Agree
+* **Joey (1:06:38):** Agree.
+* **Felix (1:07:35):** Agree.
 * **Quasar (1:07:11)** Come back to me; I want to review the categories and be sure they match the intent of Circle.
 * **Steve (1:08:19):** I would like to see a category for "community-building and education", specifically. Tomi’s categories are nebulous. **Tomi (1:08:53**) On the slides where the categories are derived from, there is more than enough detail. And we can rename them if you want.
 
@@ -189,7 +191,7 @@ Note that there is a decision later in the meeting to discuss it in Swarm on 6th
 **Tomi (1:45:55)** Cost of voting with DripDropz? \
 **Rhys (1:46:24)**: only the cost of the transaction
 
-### The Vote:
+### The vote (1:45:49)
 
 &#x20;      **Joey (1:46:53)** Prefer IdeaScale.\
 &#x20;     **Felix (1:47:15)** DripDropz.\
