@@ -24,9 +24,9 @@ please scroll down
 **Announcements (3:47)** Large number of malicious actors in the PA process for F9 (Tomi).\
 **Agenda (5:06)** Items added on Code of Conduct, Quasar’s proposed new Pol.is survey, change of meeting time for Circle, and Circle composition and function. Agreed to start with Circle composition and function.
 
-## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
+## 2. Consent agenda (15:44) <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-### Circle composition and function
+### Circle composition and function (15:44)
 
 **Results of Pol.is poll:** [https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/)\
 **Rhys and Quasar's analysis:** [https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing](https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing)
