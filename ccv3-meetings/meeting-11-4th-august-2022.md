@@ -94,13 +94,19 @@ _Note that one statement that rated highly by several metrics (popularity, conse
 _Also, one of the least-divisive statements in the poll (i.e. statements about which there was a high degree of alignment across all the respondents) was “**We should try out some alternatives to the Circle model”.** This did have a low number of total votes, because it was added to the poll late - but if the poll had been open longer, it would have attracted more votes both for and against, and we could have gained a clearer sense of whether the community fundamentally rejects the Circle model per se._
 {% endhint %}
 
-**Key discussion points:**
+### Representation
 
 * **Steve Lockhart (26:33)** I was disturbed by Felix's report that CATH do not want to step up and represent the African community. Mercy has pointed out Africa is very big, so someone from one part of the continent might not be able to represent someone from another part. I am prepared to [go to the African Town Hall tomorrow](https://youtu.be/zu\_7aFJtulY?t=916) and really address this issue. I feel the same about Latin America and Asia too.
 * **Zoe (31:04)** One seat in Circle can’t represent all of a community like CATH or LatAm. I feel if the current Circle defines the next Circle’s structure, it won’t fit, because it did not evolve from the communities, from the bottom up.
+
+### **Circle as treasury managers**
+
 * **Harris (35:31)** The purpose of Circle is to further the process of treasury management – to support distributing funding to the right people. That’s why we have functional seats like PAs etc. We need to decide on the seats – and if we can’t choose between categories or geographical, we should stick with the functional roles that keep Catalyst running. If we define the seats, there can be sub-circles that can work in a holocratic way – and it would be reasonable to fund those from Treasury, but we should ask the community to ratify that via a vote.
 * **Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify – it’s a narrower scope, not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
-* **Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:red;">Summariser's note:</mark> it's unclear if "we" refers to  the PAs and VPAs, the group Tomi represents on Circle; or Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
+
+### **Categories and functions**
+
+* **Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:red;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs and VPAs, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
   \- people and culture\
   \- structure and processes\
   \- network and ecosystem, including SPOs, developers\
@@ -117,24 +123,28 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 * **Rhys (56:02)** I don’t think deciding the roles is so urgent that we have to solve it now – it should be left up to the community. We could get community feedback about these issues in the next Pol.is. But there is urgency to vote in a new Circle.
 * **Harris (59:23)** We need to make a call – ideally as a group, and ideally, ratified by the community. Tomi’s functional categories are a good place to start.
 
-**Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view? \[_<mark style="color:red;">Summariser's note</mark>: this appears not to be an actual vote, but a "taking the temperature"._]
+### **Vote(?) on using GPS categories as Circle seats**
+
+**Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view? \[_<mark style="color:red;">**Summariser's note**</mark>**:** this appears not to be an actual vote, but a "taking the temperature"._]
 
 * **Joey (1:06:38):** Agree
 * **Felix (1:07:35):** Agree
-* **Quasar (1:07:11)** I want to review the categories and be sure they match the intent of Circle; please come back to me.
+* **Quasar (1:07:11)** Come back to me; I want to review the categories and be sure they match the intent of Circle.
 * **Steve (1:08:19):** I would like to see a category for "community-building and education", specifically. Tomi’s categories are nebulous. **Tomi (1:08:53**) On the slides where the categories are derived from, there is more than enough detail. And we can rename them if you want.
 
 **Nori (1:09:08)** The exact wording can be changed; so just say if you agree in general. It seems that so far everyone is either strongly in favour, or not strongly opposed. Returning to Quasar?
 
-* **Quasar:** I’m neither here nor there. Unclear why “People and Culture” is labelled with IOG, and “Growth and impact” is labelled CF. **Tomi (1:09:58) –** It’s not labelled; it’s just fitting the current seats into the categories, but it’s not limited to those. **Harris (1:10:11)** These are high-level – we need to define the descriptions in enough detail that we are all content, because that will determine what these roles will do. **Quasar (1:10:32)** With that said, I agree with it.
-* **Rhys (1:10:44)** I am indifferent. I don’t mind the groups particularly but I feel it’s a side-track, we’re creating arbitrary random groups. I don’t think this is the issue we need to solve now. **Tomi  (1:11:20)** Sorry, Rhys, if you look a few meetings back, you agreed to these, like two months ago? **Rhys (1:11:51)** If this is what people want to do, and we want to go in that direction, it makes no difference to me
+* **Quasar:** I’m neither here nor there. I'm unclear why “People and Culture” is labelled with IOG, and “Growth and impact” is labelled CF. **Tomi (1:09:58) –** It’s not labelled; it’s just fitting the current seats into the categories, but it’s not limited to those. **Harris (1:10:11)** These are high-level – we need to define the descriptions in enough detail that we are all content, because that will determine what these roles will do. **Quasar (1:10:32)** With that said, I agree with it.
+* **Rhys (1:10:44)** I am indifferent. I don’t mind the groups particularly but I feel it’s a side-track, we’re creating arbitrary random groups. **Tomi  (1:11:20)** Sorry, Rhys, if you look a few meetings back, you agreed to these, like two months ago? **Rhys (1:11:51)** If this is what people want to do, it makes no difference to me, I have no strong objections.
 * **Zoe (1:12:48)** I agree with implementing them, I think it is fundamental.
 
 &#x20;**Nori  (1:13:27) -**  So there is general consensus to use this “categories” structure to define Circle v4 seats. Next steps are to define in detail what the categories are.\
 **Joey (1:14:27)** We also need to seek nominees to stand for election.
 
 {% hint style="danger" %}
-<mark style="color:red;">**Summariser’s note**</mark>: it’s unclear at this point whether the above decision to restructure Circle around GPS categories is deemed to be a vote, and a definite decision; and whether Circle feels that this needs to be formally ratified by the community, or not. Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug.
+<mark style="color:red;">**Summariser’s note**</mark>: it is not clear at this point whether the meeting considers that this decision to restructure Circle around categories is a final, definite decision, or whether it needs to be ratified e.g. by the community in some way.&#x20;
+
+Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that it is clear that Circle has yet to agree exactly what the categories will consist of.
 {% endhint %}
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Tomi to lead discussion on defining the categories.
