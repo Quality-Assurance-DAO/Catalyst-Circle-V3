@@ -31,7 +31,7 @@
 **Results of Pol.is poll:** [https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/)\
 **Rhys and Quasar's analysis:** [https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing](https://docs.google.com/document/d/1CWv1Z-HcgbsbHWdsRaaOuvl7lzLLELq4ngxz\_4vJr-0/edit?usp=sharing)
 
-<mark style="background-color:green;">**Note:**</mark> <mark style="background-color:green;"></mark><mark style="background-color:green;"></mark> This was also presented at ATH by Quasar on 3rd August. Link to video will be added when available.
+<mark style="color:purple;">**Summariser's note:**</mark> <mark style="color:purple;"></mark><mark style="color:purple;"></mark> This was also presented at ATH by Quasar on 3rd August. Link to video will be added when available.
 
 ### &#x20;**Summary of Pol.is survey results by Rhys and Quasar (17:25)**
 
