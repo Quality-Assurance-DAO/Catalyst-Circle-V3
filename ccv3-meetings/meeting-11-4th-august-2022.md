@@ -48,17 +48,17 @@ _The statement_ “**The Circle seats should represent particular roles from dif
 
 _A third statement said “_**The Circle seats should be open to any community in Catalyst that self-organizes and wants to participate in governance. ie. no one person or group decides who participates, the community does - through action**.” _The overall vote on this was 68%/17%/14%; Group A voted 57% /24%/18%, and Group B 76%/11%/11%._
 
-_Based on the above, what was presented in this meeting was not accurate – the presentation said Circle seats based on functions and categories of work rather than stakeholder groups was something people had definitely voted for. (**Rhys, 20:31:** "_But for roles and functions, we got Catalyst Circle should represent functions and categories of work within the ecosystem...") _It is not clear whether this influenced the meeting to decide in favour of categories, or not; but even if not, it still means that Circle’s decision to use categories is not in line with the wishes of the community as expressed in this poll._
+_Based on the above, what was presented in this meeting was not accurate – the presentation said that Circle seats based on functions and categories of work rather than stakeholder groups was something people had definitely voted for. (**Rhys, 20:31:** "_But for roles and functions, we got Catalyst Circle should represent functions and categories of work within the ecosystem...") _It is not clear whether this influenced the meeting to decide in favour of categories, or not; but even if not, it still means that Circle’s decision to use categories is not in line with the wishes of the community as expressed in this poll._
 {% endhint %}
 
 * should be open to anyone who wants to participate in governance of Catalyst
 * should be a human sensor array acting as a representative body for all the different groups participating in Project Catalyst&#x20;
 
 {% hint style="warning" %}
-_<mark style="color:purple;">**Summariser’s note**</mark> – this statement did not define the “groups participating in Catalyst”, so we cannot know if voters meant the current functional groups, or some other grouping._
+_<mark style="color:purple;">**Summariser’s note**</mark> – this Pol.is statement did not define the “groups participating in Catalyst”, so we cannot know if voters meant the current functional groups, or some other grouping._
 {% endhint %}
 
-* should monitor the current state and future plans regarding governance, and overseeing the strategic direction of Project Catalyst
+* should monitor the current state and future plans regarding governance, and oversee the strategic direction of Project Catalyst
 * should detect and discuss concerns or objections and opportunities arising within the Catalyst ecosystem
 * should set clear objectives and estimate the time and resources required to deliver on those issues. Circle should record meetings and capture actions in a backlog accessible to all, and reps should be provided with resources, tools and incentives to collect and make data available to the community.
 
@@ -68,7 +68,7 @@ _<mark style="color:purple;">**Summariser’s note**</mark> – this statement d
 * should not make Circle reps responsible for delivering solutions on the problems they sense.
 
 {% hint style="warning" %}
-_<mark style="color:purple;">**Summariser’s note**</mark>: there was also a strong suggestion, expressed in several statements but not mentioned in this meeting, that the community is not convinced Circle should be a decision-making body at all._&#x20;
+_<mark style="color:purple;">**Summariser’s note**</mark>: there was also a strong suggestion, expressed in several Pol.is statements but not mentioned in this meeting, that the community is not convinced Circle should be a decision-making body at all._&#x20;
 
 For example: “**Circles role is 'sensor' (not synthesiser, decision-maker)**” - _65%/15%/20%; “_**The Circle should never become a decision-making body**” _- 40%/28%/30%; “**T**_**he Circle should not (not now, nor ever) be/-come a decision-making body**” _41%/35%/23% “_**The Circle has two functions: Being a communication streamline, and sensing problems. Those need to be done good**.” _58%/23%/17%; **“**_**Functional community-led Sub-Circles should have the decision making power and Circle should just coordinate their efforts.**” 43%/24%/31%. __&#x20;
 
@@ -89,9 +89,9 @@ _By contrast, the statement “_**The Catalyst Circle should be a decision-makin
 {% hint style="warning" %}
 _<mark style="color:purple;">**Summariser’s note:**</mark> those interested should read the Pol.is results here_ [_https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/_ ](https://pol.is/report/r8sw3pmdn7kmvjffwxnvm/) _to determine if these really are the 3 main takeaways from the community  according to this survey._&#x20;
 
-_Note that one statement that rated highly by several metrics (popularity, consensus, number of votes), was "_**Adding increasingly complex layers of bureaucracy, while intending to improve decision making, can discourage new users from participating.**" _Although of course it is hard to be sure that all the respondents agreed on what counts as "bureaucracy", perhaps Circle should check whether the community feels any proposed solution is overly bureaucratic, as this appears to be something the community cares about._
+_Note that one statement that rated highly by several metrics (popularity, degree of consensus, number of votes), was "_**Adding increasingly complex layers of bureaucracy, while intending to improve decision making, can discourage new users from participating.**" _Although of course it is hard to be sure that all the respondents agreed on what counts as "bureaucracy", it suggests Circle should check whether the community feels that any proposed solution is overly bureaucratic, as this appears to be something the community cares about._
 
-_Also, one of the least-divisive statements in the poll (i.e. statements about which there was a high degree of alignment across all the respondents) was “**We should try out some alternatives to the Circle model”.** This did have a low number of total votes, because it was added to the poll late - but if the poll had been open longer, it would have attracted more votes both for and against, and we could have gained a clearer sense of whether the community fundamentally rejects the Circle model per se._
+_Also, one of the least-divisive statements in the poll (i.e. statements about which there was a high degree of alignment, and even when voters fell into two separate camps these were not widely divergent) was “**We should try out some alternatives to the Circle model”.** This did have a low number of total votes, because it was added to the poll late - but if the poll had been open longer, it would have attracted more votes both for and against, and we could have gained a clearer sense of whether the community does fundamentally reject the Circle model per se._
 {% endhint %}
 
 ### Representation
@@ -102,21 +102,21 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 ### **Circle as treasury managers**
 
 **Harris (35:31)** The purpose of Circle is to further the process of treasury management – to support distributing funding to the right people. That’s why we have functional seats like PAs etc. We need to decide on the seats – and if we can’t choose between categories or geographical, we should stick with the functional roles that keep Catalyst running. If we define the seats, there can be sub-circles that can work in a holocratic way – and it would be reasonable to fund those from Treasury, but we should ask the community to ratify that via a vote.\
-**Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify – it’s a narrower scope, not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
+**Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify its scope - not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
 
 ### **Categories and functions**
 
-**Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:red;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs and VPAs, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
+**Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:purple;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs group, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
 \- people and culture\
 \- structure and processes\
 \- network and ecosystem, including SPOs, developers\
 \- products and services, the whole innovation process\
 \- the growth and impact of the whole thing.\
-If we can just finally decide that these are the functions of Catalyst, then these can be the Circle seats.  But I agree there should be more than one person per seat. I suggest 2 – one more hands-on and one more about strategic long-term development of Catalyst. I think we need to decide this now, because we are running out of time.
+If we can just finally decide that these are the functions of Catalyst, then these can be the Circle seats.  But I agree there should be more than one person per seat. I suggest 2 – one more hands-on, and one more about strategic long-term development of Catalyst. I think we need to decide this now, because we are running out of time.
 
 **Steve (48:09)** We should be self-correcting, and it should be easy to shift and change a decision. I don’t know if Funded Proposers and Toolmakers are valid roles.\
 **Zoe (51:38)**  Some people don’t want to take a big part in governance. We often try to drag them into decision-making, when they just want to submit a proposal and get funded.\
-**Joey (52:46)** Perhaps we should group some of the seats together. And perhaps we need a charity/philanthropic role added.
+**Joey (52:46)** Perhaps group some of the seats together? And perhaps we need a charity/philanthropic role added.
 
 ### **Decide now, or discuss further?**
 
@@ -125,11 +125,15 @@ If we can just finally decide that these are the functions of Catalyst, then the
 **Rhys (56:02)** I don’t think deciding the roles is so urgent that we have to solve it now – it should be left up to the community. We could get community feedback about these issues in the next Pol.is. But there is urgency to vote in a new Circle.\
 **Harris (59:23)** We need to make a call – ideally as a group, and ideally, ratified by the community. Tomi’s functional categories are a good place to start.
 
-### **Vote(?) on using GPS categories as Circle seats**
+### **The vote(?)**
 
 **Nori  (1:04:59)**  There is a proposal that the next Circle will be broken into Tomi’s five categories. Note that we can change it again in the future. Number of seats per category still to be decided. What is everyone’s view?&#x20;
 
-\[_<mark style="color:purple;">**Summariser's note:**</mark> this appears not to be an actual vote, but a "taking the temperature"._]
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser's note:**</mark> At this point, this is framed as a "taking the temperature" rather than a vote; but practically, in effect, it **is** a vote, since it is based on a proposal, leads to a decision, and the meeting agrees to take action because of it._&#x20;
+
+_Also, note that Nori (facilitator) reminds the group that Circle should move forward "based on ... feedback from the community" -_ but the discussion of the Pol.is poll earlier in the meeting suggests that the group may have misinterpreted what that feedback actually was.
+{% endhint %}
 
 * **Joey (1:06:38):** Agree.
 * **Felix (1:07:35):** Agree.
@@ -139,16 +143,16 @@ If we can just finally decide that these are the functions of Catalyst, then the
 **Nori (1:09:08)** The exact wording can be changed; so just say if you agree in general. It seems that so far everyone is either strongly in favour, or not strongly opposed. Returning to Quasar?
 
 * **Quasar:** I’m neither here nor there. I'm unclear why “People and Culture” is labelled with IOG, and “Growth and impact” is labelled CF. **Tomi (1:09:58) –** It’s not labelled; it’s just fitting the current seats into the categories, but it’s not limited to those. **Harris (1:10:11)** These are high-level – we need to define the descriptions in enough detail that we are all content, because that will determine what these roles will do. **Quasar (1:10:32)** With that said, I agree with it.
-* **Rhys (1:10:44)** I am indifferent. I don’t mind the groups particularly but I feel it’s a side-track, we’re creating arbitrary random groups. **Tomi  (1:11:20)** Sorry, Rhys, if you look a few meetings back, you agreed to these, like two months ago? **Rhys (1:11:51)** If this is what people want to do, it makes no difference to me, I have no strong objections.
+* **Rhys (1:10:44)** I am indifferent. I don’t mind the groups particularly, but I feel it’s a side-track, we’re creating arbitrary random groups. **Tomi  (1:11:20)** Sorry, Rhys, if you look a few meetings back, you agreed to these, like two months ago? **Rhys (1:11:51)** If this is what people want to do, it makes no difference to me, I have no strong objections.
 * **Zoe (1:12:48)** I agree with implementing them, I think it is fundamental.
 
 &#x20;**Nori  (1:13:27) -**  So there is general consensus to use this “categories” structure to define Circle v4 seats. Next steps are to define in detail what the categories are.\
 **Joey (1:14:27)** We also need to seek nominees to stand for election.
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser’s note**</mark>: it is not clear at this point whether the meeting considers that this decision to restructure Circle around categories is a final, definite decision, or whether it needs to be ratified e.g. by the community in some way.&#x20;
+<mark style="color:purple;">**Summariser’s note**</mark>: It seems clear, at this point, that the meeting views this agreement to restructure Circle seats for CCv4 in line with GPS categories as a definite decision.
 
-Note that there is a decision later in the meeting to discuss it in Swarm on 6th Aug; and note that Circle has agreed to discuss further exactly what the categories will consist of.
+Note that there is a decision later in the meeting to share this decision in Swarm on 6th Aug; and note that the meeting has agreed to discuss further exactly what the categories will consist of.
 {% endhint %}
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Tomi to lead discussion on defining the categories.
