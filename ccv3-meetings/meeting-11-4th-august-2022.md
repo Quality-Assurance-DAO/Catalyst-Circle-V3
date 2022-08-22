@@ -104,7 +104,7 @@ _Also, one of the least-divisive statements in the poll (i.e. statements about w
 **Harris (35:31)** The purpose of Circle is to further the process of treasury management – to support distributing funding to the right people. That’s why we have functional seats like PAs etc. We need to decide on the seats – and if we can’t choose between categories or geographical, we should stick with the functional roles that keep Catalyst running. If we define the seats, there can be sub-circles that can work in a holocratic way – and it would be reasonable to fund those from Treasury, but we should ask the community to ratify that via a vote.\
 **Nori (42:57)** Harris, if the purpose of Circle is treasury management – that is very different from the usually-stated “human sensor array” purpose. This could help clarify its scope - not just sensing \*any\* problems, but focusing on treasury management and the processes related to that – PAs, VPAs, proposers.
 
-### **Categories and functions**
+### **Categories or functions?**
 
 **Tomi (45:51)** We should focus on the functions – but what are they? We _\[<mark style="color:purple;">**Summariser's note:**</mark> it's unclear if "we" here refers to  the PAs group, i.e. the group Tomi represents on Circle; or to Catalyst GPS, the proposal that suggested these categories; or both_] have identified 5 functions:\
 \- people and culture\
