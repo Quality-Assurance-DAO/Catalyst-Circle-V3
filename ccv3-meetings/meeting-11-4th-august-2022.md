@@ -173,6 +173,8 @@ Note that there is a decision later in the meeting to share this decision in Swa
 **Steve Lockhart (1:25:34)** If there is a group sharing a role, what happens if they fall out?\
 **Felix (1:26:29)** There is a precedent with CC Admin – they are a group.
 
+### **Funding Circle v4**
+
 **Rhys (1:28:51)** The Pol.is survey said Circle should be funded via a parameter change – I think we should implement that as soon as possible.
 
 ### **Catalyst Voting App, or DripDropz?**
