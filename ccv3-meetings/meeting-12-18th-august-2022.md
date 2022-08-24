@@ -112,7 +112,7 @@ The responsibilities listed are:
 14. attend training sessions focused on inclusive and lean startup leadership techniques
 15. provide feedback on the effectiveness of the Circle.
 
-**(1:02:46)** decision to remove point 14, “attend training sessions”.\
+**(1:02:46)** Decision to remove point 14, “attend training sessions”.\
 **Kriss (1:02:53)** What is the user journey? Are all the reps engaging the same people, or are they each going to a subset of the community?\
 **Nori (1:05:46)** The dynamic has changed – Circle reps will appoint a secretary and facilitator for their sub-circle, and the community will then come to the sub-circle rather than the rep doing outreach.\
 **Tomi (1:06:28)** We can use the Catalyst Discord, or the Catalyst United Discord, for all the subcircles to come together; each subcircle could have its own channel there.
