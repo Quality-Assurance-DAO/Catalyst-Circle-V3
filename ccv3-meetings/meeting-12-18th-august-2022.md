@@ -25,7 +25,7 @@ Check-in  **(0:03)**\
 ****Announcements **(5:53)** IdeaFest videos are uploaded on Swarm channel **(Felix)**
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser’s note**</mark>: _the IdeaFest videos have been grouped according to the GPS categories._
+<mark style="color:purple;">**Summariser’s note**</mark>: _the IdeaFest videos have been grouped according to the GPS categories, rather than the Challenges under which proposers submitted their proposals._
 
 __\
 _Also of note is that the booking form for ATH now requires people to select which of the GPS categories their ATH relates to. There is no option for "none"._&#x20;
@@ -86,15 +86,13 @@ __[Catalyst GPS Trustee Guide](https://docs.google.com/document/d/1oVRto5fI7gKnh
 <mark style="color:red;">**ACTION ITEM**</mark>**:** Kriss to take proposal of $1,000 per seat per month back to IOG, and report back next week.\
 <mark style="color:red;">**ACTION ITEM:**</mark>** ** Kriss to find out if Challenge Team funding for F10 is agreed, , and report back next week.
 
-&#x20;
-
 ### **Nomination criteria**
 
 **Nori (57:19**) We need to finalise nomination criteria by next week.\
 **Joey, Rhys (57:45)** Agreement to do this in this meeting \
 See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180)&#x20;
 
-The responsibilities listed are:
+### The responsibilities listed are:
 
 1. represent the Catalyst community, its needs, divisions and all its beautiful frictions
 2. represent the interests of the functional role they're selected for, and provide a unique perspective to the others
