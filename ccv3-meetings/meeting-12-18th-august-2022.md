@@ -136,7 +136,7 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 {% endhint %}
 
 **Tomi (1:13:40)** The Catalyst GPS Trustee Guide says that the community all need to have one common dream; but I don’t see this in the nomination criteria document. This is the issue Quasar alluded to – that the functional groups have been unable to pull in the same direction.\
-**Tomi (1:15:21)** This is for CCv4  If they're successful, then the CCv5 will maintain it, not create it. So I think the Circle role naturally changes over time.
+**Tomi (1:15:21)** Remember, this is for CCv4.  If they're successful, then the CCv5 will maintain it, not create it. So I think the Circle role naturally changes over time.
 
 {% hint style="warning" %}
 <mark style="color:blue;">**Summariser’s note:**</mark> Note that others on Circle have previously stated their belief that CCv5 and later are free to change and iterate, rather than maintain what is being set up here; and Nori at 1:12:13 points out that Circle voted on 4th August to adopt the GPS categories **as an experiment.**
