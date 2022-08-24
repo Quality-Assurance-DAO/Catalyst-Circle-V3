@@ -71,7 +71,7 @@ Voltaire – the next phase on the [Cardano roadmap to decentralisation](https:/
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
 Welcome and check-in **(0:02)**\
-****Announcements **(4:09) -** Felix announced that Catalyst GPS had held an ATH yesterday, 22nd June.\
+****Announcements **(4:09)** \
 Agenda and align expectations **(7:52)** - added "Circle structure and legitimacy".
 
 **Nori (9:46)** Circle agreed in the last meeting \[_summariser's note: it's unclear where this agreement happened; it wasn't in the last meeting_] to refocus around the CCv4 election planning, and not to use the GitHub board until CCv4. Is that still the consensus?\
@@ -99,8 +99,6 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 
 **Felix (28:03)** As well as having an agenda of topics we will talk about, we should consider _how_ we want to address those topics and what we want to achieve. Being unclear about that, to ourselves and to the community, makes us ineffective.
 
-**Kriss (33:20)** If we want clarity, maybe we should follow the GPS approach as presented in the ATH last night; or have SMART goals.
-
 ### PA updates (Nadia, 34:59)
 
 **Nadia (35:14)** As I suggested in last week's working meeting, I approached the other nominees for CCv3 to see if they were available to function as PA rep when I leave. Filip is not, but Tomi is. It makes sense because he's very involved in the PA community. He is on holiday this week, so I have come to this meeting to announce it; when he returns, he will pick things up. I will be available to hand over, and then I will be moving to other work in the PAs' working groups.
@@ -127,8 +125,6 @@ Happy to take any questions; and there have been some comments on GitHub that ar
 **Nori (57:41)** I've noticed, from facilitating several Circles, that some seats struggle to connect with their communities. So perhaps we are approaching things backwards to elect a seat and then expect them to go and find their community. If a community is strong enough to self-organise and select a representative, then that rep doesn't need to "problem-sense" - the group is already doing it, so they would be "problem-reporting". In a holocratic model, there's no "election" for who comes in - each group decides who the link person will be, and sends someone to the Circle.\
 **Felix (1:00:34)** We could do it the way that Catalyst GPS says. Instead of functional groups, use topics, such as "Community and outreach" or "Governance and identity". So Circle could copy what has already been pioneered with the PAs and VPAs, instead of trying to reach a decision ourselves. We should give it a try, because they have spent a lot of time working on it.\
 **Harris (1:02:52)** That was the idea of the Wiki survey - to hear ideas from the community, from the PAs and other groups.\
-**Felix (1:03:18)** We should invite people to vote using the categories defined by GPS or George Lovegrove.\
-**Steve (1:04:23)** I like the GPS categories, but I will always want SPOs represented in Circle as such. Circle seems self-absorbed.\
 **Harris (1:11:17)** The original Circle roles were meant to identify pain points in what people do in Catalyst, e.g. being a proposer, being a PA - and fix the human element. Moving to categories / topics means we are focusing on things - like "how do we make better NFT libraries?" - and maybe this is already being done by Challenge Teams. Yes, we should include Challenge Teams in Circle - but by using categories, do we lose that focus? Also - Circle's original intent was to focus on Catalyst, so let's not lose that focus. And bear in mind, there are some experiments coming, on Voltaire-related things - IOG will announce more details soon.\
 **Felix (1:13:41)** If we do as GPS says, and organise Catalyst by categories, it is easier to track who is working on a particular topic.\
 **Kriss (1:18:00)** But trying to incorporate categories now, at this late stage, is a misstep, when there is a pressing need to create a sensible CCv4 process soon.\
