@@ -56,7 +56,7 @@ _Nori’s comment here suggests he was using a "consent" approach on 4th August 
 
 [CCv4 election checklist](https://docs.google.com/document/d/1gZ1HiGUMr2kKG-X3Pem1J3wfV3U-SmEbl\_\_YulSpu4M/edit?usp=sharing) created by Felix – tasks that need to be done\
 __[Catalyst GPS Trustee Guide](https://docs.google.com/document/d/1oVRto5fI7gKnhNlRrdfZ41fRwQXLCAHqiFaphweKONg/edit?usp=sharing) created by Tomi – a guidance document to tell CCv4 reps and subcircle members how to work\
-[Shared notes on Circle v4 composition](https://docs.google.com/document/d/13et1Ddrtfs8\_ytoJBray1EvMdU5r4z4JMp611Wuj8pU/edit#heading=h.umbsz2hm3qvm) – originally created by Tomi? – Copied by Zoe\
+[Shared notes on Circle v4 composition](https://docs.google.com/document/d/13et1Ddrtfs8\_ytoJBray1EvMdU5r4z4JMp611Wuj8pU/edit#heading=h.umbsz2hm3qvm) – originally created by Tomi? and deleted. Copied by Zoe\
 [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180) for candidates for election to CCv4
 
 **21:45** Date for CCv4 election, to allow sufficient time for informing the community before nominations open, the nomination process, and to allow DripDropz to carry out their work.\
@@ -142,6 +142,17 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 <mark style="color:blue;">**Summariser’s note:**</mark> Note that others on Circle have previously stated their belief that CCv5 and later are free to change and iterate, rather than maintain what is being set up here; and Nori at 1:12:13 points out that Circle voted on 4th August to adopt the GPS categories **as an experiment.**
 {% endhint %}
 
+### **Keeping track of Circle work**
+
+**Felix (1:17:19)** Who here keeps track of the work they do for Circle? The responsibility “maintain an agile backlog list to track issues between meetings" – this has always been hard to motivate Circle members to do.\
+**Steve (!:17:49)** The Funded Proposers sub-circle do.\
+**Nori (1:18:23**) Maybe easier with an entire sub-circle working on it. The Prioritised Problem board was a core mechanism of Circle for this. We stopped using it to focus on the election. Unsure if it was effective or not.\
+
+
+### **Vote to agree the "Responsibilities" for CCv4 members**
+
+**Joey 1:22:46**  I propose a vote on whether everyone is happy with the “Responsibilities” as they now stand.\
+<mark style="color:red;">**VOTE:**</mark> all vote**d** yes.\
 
 
 
@@ -151,9 +162,14 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 \
 
 
-## 3. Checkout and close
+## 3. Checkout and close (1:56:57)
+
+Meeting is out of time, so no checkout.\
+Meeting ends: **1:56:57**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
+
+Coming soon
 
 ## **Abbreviations / Glossary**
 
