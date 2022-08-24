@@ -28,7 +28,7 @@ Check-in  **(0:03)**\
 <mark style="color:purple;">**Summariser’s note**</mark>: _the IdeaFest videos have been grouped according to the GPS categories, rather than the Challenges under which proposers submitted their proposals._
 
 __\
-_Also of note is that the booking form for ATH now requires people to select which of the GPS categories their ATH relates to. There is no option for "none"._&#x20;
+_Also of note is that the booking form for ATH now requires people to select which GPS category their ATH relates to. There is no option for "none"._&#x20;
 {% endhint %}
 
 **Agenda (6:19): Items added:** titling of e.g. Google docs to  make it clear they originate from Circle**(Quasar)**; request for info from IOG re: who is on their Coordinator team **(Quasar)**; how to recruit candidates for the redesigned CCv4 seats, and how CCv3 can start building the sub-circles for CCv4 **(Tomi)**; deciding voting criteria for CCv4 vote **(Felix)**
@@ -134,6 +134,17 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 {% hint style="warning" %}
 <mark style="color:purple;">**Summariser's note:**</mark> as previously noted, this might not have been fully understood by everyone in the meeting.
 {% endhint %}
+
+**Tomi (1:13:40)** The Catalyst GPS Trustee Guide says that the community all need to have one common dream; but I don’t see this in the nomination criteria document. This is the issue Quasar alluded to – that the functional groups have been unable to pull in the same direction.\
+**Tomi (1:15:21)** This is for CCv4  If they're successful, then the CCv5 will maintain it, not create it. So I think the Circle role naturally changes over time.
+
+{% hint style="warning" %}
+<mark style="color:blue;">**Summariser’s note:**</mark> Note that others on Circle have previously stated their belief that CCv5 and later are free to change and iterate, rather than maintain what is being set up here; and Nori at 1:12:13 points out that Circle voted on 4th August to adopt the GPS categories **as an experiment.**
+{% endhint %}
+
+
+
+
 
 
 
