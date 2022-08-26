@@ -146,13 +146,12 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 
 **Felix (1:17:19)** Who here keeps track of the work they do for Circle? The responsibility “maintain an agile backlog list to track issues between meetings" – this has always been hard to motivate Circle members to do.\
 **Steve (!:17:49)** The Funded Proposers sub-circle do.\
-**Nori (1:18:23**) Maybe easier with an entire sub-circle working on it. The Prioritised Problem board was a core mechanism of Circle for this. We stopped using it to focus on the election. Unsure if it was effective or not.\
-
+**Nori (1:18:23**) Maybe easier with an entire sub-circle working on it. The Prioritised Problem board was a core mechanism of Circle for this. We stopped using it to focus on the election. Unsure if it was effective or not.
 
 ### **Vote to agree the "Responsibilities" for CCv4 members**
 
 **Joey 1:22:46**  I propose a vote on whether everyone is happy with the “Responsibilities” as they now stand.\
-<mark style="color:red;">**VOTE:**</mark> all vote**d** yes.\
+<mark style="color:red;">**VOTE:**</mark> all voted yes, but with some questions from Quasar (**1:24:12** and **1:25:34**)\
 
 
 
