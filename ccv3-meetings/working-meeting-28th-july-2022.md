@@ -1,7 +1,5 @@
 # Working meeting, 28th July 2022
 
-## [Reunión de trabajo del CCv3: Jueves 28 de Julio 2022](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/working-meeting-28th-july-2022/reunion-de-trabajo-del-ccv3-jueves-28-de-julio-2022) (español)
-
 ## Meeting recording
 
 {% embed url="https://youtu.be/mFA8Il1SNeo" %}
