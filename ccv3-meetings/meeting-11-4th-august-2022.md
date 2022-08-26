@@ -18,7 +18,7 @@
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
-[see below](./#undefined)
+[see below](meeting-11-4th-august-2022.md#undefined)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
@@ -254,7 +254,7 @@ Meeting ends **1:57:38**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-![some of the most frequently used words in this meeting](<../../.gitbook/assets/frequentword meeting 11.JPG>)
+![some of the most frequently used words in this meeting](<../.gitbook/assets/frequentword meeting 11.JPG>)
 
 ## Abbreviations used/glossary
 
@@ -304,7 +304,7 @@ IOG – [Input/Output Global](https://iohk.io/)
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-{% file src="../../.gitbook/assets/CCv3 meeting 11, 4th aug 2022, QA-DAO verbatim transcript.doc" %}
+{% file src="../.gitbook/assets/CCv3 meeting 11, 4th aug 2022, QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 

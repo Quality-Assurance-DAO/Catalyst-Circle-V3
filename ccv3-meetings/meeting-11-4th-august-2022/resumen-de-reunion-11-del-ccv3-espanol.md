@@ -1,5 +1,7 @@
 # Resumen de reunión #11 del CCv3 (español )
 
+{% embed url="https://youtu.be/uzf0Z2w2CnQ" %}
+
 ### Presentes (por orden de intervención)
 
 **Nori Nishigaya** (facilitador); **Joey Chessher** (Fabricantes de herramientas y Mantenimiento); **Felix Weber** (CF); **Tomi Astikainen** (PAs); **Steve Lockhart** (sustituyendo a Mercy; Proponentes Financiados); **Harris Warren** (IOG); **Rhys Morgan** (operadores de stakepool); **Quasar** (Miembro del subcírculo de ADA holders); **JP** (secretario); **Zoe Kleist** (subcírculo PAs).
