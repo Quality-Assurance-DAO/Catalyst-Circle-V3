@@ -1,10 +1,10 @@
 # Meeting #11, 4th August 2022
 
+## [Resumen de reunión #11 del CCv3](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-11-4th-august-2022/resumen-de-reunion-11-del-ccv3-espanol) (español) <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
+
 ## Meeting recording
 
 {% embed url="https://youtu.be/uzf0Z2w2CnQ" %}
-
-## Resumen de reunión #11 del CCv3 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
 ## Summary of Catalyst Circle v3 Meeting #11 (English) <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 

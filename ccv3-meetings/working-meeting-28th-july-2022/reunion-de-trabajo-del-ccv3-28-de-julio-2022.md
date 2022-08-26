@@ -1,4 +1,4 @@
-# Reunión de trabajo del CCv3: Jueves 28 de Julio 2022
+# Reunión de trabajo del CCv3: 28 de Julio 2022
 
 {% embed url="https://youtu.be/mFA8Il1SNeo" %}
 
@@ -19,7 +19,7 @@
 * El juego del sistema: ¿qué enfoque del poder de voto es el más seguro?
 * ¿Cómo hay que publicitar la votación? ¿Es importante la fecha de la votación (por ejemplo, debe formar parte de una votación del Fondo, para maximizar la participación?)
 
-### Marcas de tiempo
+### M
 
 Viabilidad de la votación con la aplicación Catalyst **1:32**\
 Representación, y como definir “una comunidad” a efectos de la votación **3:28**\
