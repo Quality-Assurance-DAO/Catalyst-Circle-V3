@@ -25,17 +25,17 @@ Check-in  **(0:03)**\
 ****Announcements **(5:53)** IdeaFest videos are uploaded on Swarm channel **(Felix)**
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser’s note**</mark>: _the IdeaFest videos have been grouped according to the GPS categories, rather than the Challenges under which proposers submitted their proposals._
+<mark style="color:purple;">**Summariser’s note**</mark>: _the IdeaFest videos have been grouped according to the GPS categories, rather than the Challenges under which proposers submitted their proposals. This seems pre-emptive, as any discussion so far has only been about aligning Circle with GPS, not the whole of Catalyst._
 
 __\
-_Also of note is that the booking form for ATH now requires people to select which GPS category their ATH relates to. There is no option for "none"._&#x20;
+_Also of note is that the booking form for ATH now requires people to select which GPS category their ATH relates to. There is no option for "none" or "not applicable"._&#x20;
 {% endhint %}
 
-**Agenda (6:19): Items added:** titling of e.g. Google docs to  make it clear they originate from Circle**(Quasar)**; request for info from IOG re: who is on their Coordinator team **(Quasar)**; how to recruit candidates for the redesigned CCv4 seats, and how CCv3 can start building the sub-circles for CCv4 **(Tomi)**; deciding voting criteria for CCv4 vote **(Felix)**
+**Agenda (6:19):** Items added: **** titling of e.g. Google docs to  make it clear they originate from Circle**(Quasar)**; request for info from IOG re: who is on their Coordinator team **(Quasar)**; how to recruit candidates for the redesigned CCv4 seats, and how CCv3 can start building the sub-circles for CCv4 **(Tomi)**; deciding voting criteria for CCv4 vote **(Felix)**
 
 ### Clarity on last week's vote
 
-**Steve Lockhart (14:26)** I'm unclear whether it has been agreed that CCv4 seats should be defined by the 5 GPS categories.\
+**Steve Lockhart (14:26)** I'm unclear whether it has been agreed that CCv4 seats should be defined by the five GPS categories.\
 **Nori (15:01)** There was a vote on this in the previous meeting, so that’s decided.
 
 {% hint style="warning" %}
@@ -54,29 +54,32 @@ _Nori’s comment here suggests he was using a "consent" approach on 4th August 
 
 ### **Key documents:**
 
-[CCv4 election checklist](https://docs.google.com/document/d/1gZ1HiGUMr2kKG-X3Pem1J3wfV3U-SmEbl\_\_YulSpu4M/edit?usp=sharing) created by Felix – tasks that need to be done\
+****[CCv4 election checklist](https://docs.google.com/document/d/1gZ1HiGUMr2kKG-X3Pem1J3wfV3U-SmEbl\_\_YulSpu4M/edit?usp=sharing) created by Felix – tasks that need to be done\
 __[Catalyst GPS Trustee Guide](https://docs.google.com/document/d/1oVRto5fI7gKnhNlRrdfZ41fRwQXLCAHqiFaphweKONg/edit?usp=sharing) created by Tomi – a guidance document to tell CCv4 reps and subcircle members how to work\
 [Shared notes on Circle v4 composition](https://docs.google.com/document/d/13et1Ddrtfs8\_ytoJBray1EvMdU5r4z4JMp611Wuj8pU/edit#heading=h.umbsz2hm3qvm) – originally created by Tomi? and deleted. Copied by Zoe\
 [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180) for candidates for election to CCv4
 
-**21:45** Date for CCv4 election, to allow sufficient time for informing the community before nominations open, the nomination process, and to allow DripDropz to carry out their work.\
+### Date for CCv4 election
+
+**(21:45)** Needs to allow sufficient time for informing the community before nominations open, running the nomination process, and allowing DripDropz to carry out their work.\
 **Steve (22:34)** Election launch should be all the Town Halls, not just Wednesday Town Hall.\
-**Kriss (25:52**) We should work backwards from the vote itself. We need information material about Circle.\
-**Rhys (28:26)**  Re-use information from the last election, with the categories updated.\
+**Kriss (25:52**) We should work backwards from the vote itself. \
 **Tomi (30:12)**  Was there any decisions made _\[i.e. from IOG_] about incentives – is it coming from Treasury?
 
 **(32:53)** Interpersonal tension
 
-**Nori (37:55)** Date for the vote: Sept 22nd - October 2nd. Does everyone agree? \[no objections]\
+**Nori (37:55)** Date for the vote: Sept 22nd - October 2nd. Does everyone agree? \[_no objections_]\
 **Nori (40:37)** Nomination window for candidates will be September 1st -14th, and September 15th – 22nd  to check nominations. Does everyone agree? \[_no objections_]\
 **Felix (41:15)** Nomination criteria – base them on those used for CCv3 - experience, commitment, engagement, etc. See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180)\
-**Steve (42:49)** This should be a priority – if we are encouraging people to stand for election, they need to know what they’re standing for.\
-**Felix (43:17)** We also need to know from IOG about whether compensation will be via a parameter change.\
-**Kriss (43:45)** I understood that a working group was going to create a proposal on what the expected amount is.\
-**Felix (45:19)** Submitting a proposal is a lot of work – it won’t be ready in the time we have.\
+**Steve (42:49)** This should be a priority – if we are encouraging people to stand for election, they need to know what they’re standing for.
+
+### **Compensation for Circle**
+
+**Felix (43:17)** We need to know from IOG about whether compensation will be via a parameter change.\
 **Rhys (45:59)** To speed things up, I propose $1,000 a month per person.\
 **Tomi (46:56)** Is the term 3 months?\
-**Kriss (47:08**) I think we agreed 6 months with a stage gate at 3 months to ask if they want to continue\
+**Kriss (47:08**) I think we agreed 6 months with a stage gate at 3 months to ask if they want to continue.\
+**Quasar (49:10)** We should probably set the amount in ADA.\
 **Tomi (47:55)** I suggest $3,000 per month per sub-circle, to fund a rep, a secretary and a facilitator.\
 **Nori (49:27)** It sounds like $1,000 is where people feel comfortable, and there is a proposal to do it in ADA. Kriss, is that enough information to take back to IOG?\
 **Kriss (49:49**) The last conversation that the IOG governance team had with Charles,  is that new decisions on Treasury movements aren't necessarily going to be just decided by the existing stakeholders. I’ll bring feedback next week; it might mean we need a baseline service-level agreement on what people will be doing for that money.\
@@ -90,9 +93,10 @@ __[Catalyst GPS Trustee Guide](https://docs.google.com/document/d/1oVRto5fI7gKnh
 
 **Nori (57:19**) We need to finalise nomination criteria by next week.\
 **Joey, Rhys (57:45)** Agreement to do this in this meeting \
-See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180)&#x20;
+See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9FgyC-ktmefW9bWxeGo-uqCJJdkRhIlwM/edit#gid=12559180) \
+**Felix (59:43)** Last week we agreed that the responsibilities are the same for all roles, and the qualifications are specific to each role.
 
-### The responsibilities listed are:
+### The proposed responsibilities are:
 
 1. represent the Catalyst community, its needs, divisions and all its beautiful frictions
 2. represent the interests of the functional role they're selected for, and provide a unique perspective to the others
@@ -121,54 +125,81 @@ See [Nomination criteria](https://docs.google.com/spreadsheets/d/1nkpJpQz9Uu9Fgy
 
 ### **Are we making assumptions?**
 
-**Quasar (1:07:13)** I'm concerned that we are assuming that people agree with these categories. Unsure if it will improve the communication between the functional groups. Are we categorising people based on our assumptions?\
+**Quasar (1:07:13)** I'm concerned that we are assuming that people agree with these categories. Unsure if it will improve the communication between the functional groups. Are we categorising people based on our own assumptions?\
 **Felix (1:07:58)** Can we work through the other points?\
 **Nori (1:08:03)** I want to respond to Quasar. I used to think the same, but now I feel we have to decide the categories now, and then in future iterations the community can decide.\
 **Quasar (1:09:02)** Do we know what the goals are? We’ve gone from five functional groups with roles, to 10 stereotypes.\
 **Felix (1:09:30)** Our goals and objectives have been well defined by Catalyst GPS.\
-**Felix (1:10:00 )**One of our goals from CCv1 is to set up the election process for the next Circle.\
+**Felix (1:10:00)** One of our goals from CCv1 is to set up the election process for the next Circle.\
 **Quasar(1:10:09**)  Yes. And another goal from CCv1 is to facilitate communications between, and across, the functional groups. How well have we been doing that, and will the new categories help, or not?\
 **Kriss (1:11:39**) I appreciate the strategy document that GPS group has produced, but I'm still not sure when it seems to have been unilaterally decided to implement these changes.\
 **Nori (1:12:13)** We had a vote at one of the previous Circle meetings, and it was decided. Harris abstained, but did not object to it. And the rest of the Circle did not have strong objection to move forward with this as an experiment.
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser's note:**</mark> as previously noted, this might not have been fully understood by everyone in the meeting.
+<mark style="color:purple;">**Summariser's note:**</mark> as previously noted, this might not have been fully understood by everyone in the 4th Aug meeting.
 {% endhint %}
 
-**Tomi (1:13:40)** The Catalyst GPS Trustee Guide says that the community all need to have one common dream; but I don’t see this in the nomination criteria document. This is the issue Quasar alluded to – that the functional groups have been unable to pull in the same direction.\
+**Tomi (1:13:40)** The Catalyst GPS Trustee Guide says that the community all need to have one common dream; but I don’t see this in the nomination criteria document. \
 **Tomi (1:15:21)** Remember, this is for CCv4.  If they're successful, then the CCv5 will maintain it, not create it. So I think the Circle role naturally changes over time.
 
 {% hint style="warning" %}
-<mark style="color:blue;">**Summariser’s note:**</mark> Note that others on Circle have previously stated their belief that CCv5 and later are free to change and iterate, rather than maintain what is being set up here; and Nori at 1:12:13 points out that Circle voted on 4th August to adopt the GPS categories **as an experiment.**
+<mark style="color:blue;">**Summariser’s note:**</mark> Note that others on Circle have previously stated their belief that CCv5 and later are free to change things, rather than maintain what is being set up here; and Nori at **1:12:13** points out that Circle voted on 4th August to adopt the GPS categories **as an experiment.**
 {% endhint %}
 
 ### **Keeping track of Circle work**
 
 **Felix (1:17:19)** Who here keeps track of the work they do for Circle? The responsibility “maintain an agile backlog list to track issues between meetings" – this has always been hard to motivate Circle members to do.\
 **Steve (!:17:49)** The Funded Proposers sub-circle do.\
-**Nori (1:18:23**) Maybe easier with an entire sub-circle working on it. The Prioritised Problem board was a core mechanism of Circle for this. We stopped using it to focus on the election. Unsure if it was effective or not.
+**Nori (1:18:23**) It may be easier with an entire sub-circle working on it. The Prioritised Problem board was a core mechanism of Circle for this. We stopped using it to focus on the election. Unsure if it was effective or not.
 
 ### **Vote to agree the "Responsibilities" for CCv4 members**
 
-**Joey 1:22:46**  I propose a vote on whether everyone is happy with the “Responsibilities” as they now stand.\
+**Joey (1:22:46)**  I propose a vote on whether everyone is happy with the “Responsibilities” as they now stand.\
 <mark style="color:red;">**VOTE:**</mark> all voted yes, but with some questions from Quasar (**1:24:12** and **1:25:34**)\
+**Quasar (1:24:12)**  Alternative suggestion for how to define the Circle.
 
+### **Preferred qualifications for CCv4 members, and focus of roles for CCv4 (1:26:37)**
 
+**Tomi (1:28:11)** Working group two weeks ago was supposed to look at the focus; but not done, as nobody attended. We should ensure everyone shares the same understanding so we don't need to argue any more, and we can  give clear messages to the community.
 
+### **If you stood for CCv4, which role would you stand for?**
 
+**Quasar (1:28:54)** If you were to stand for CCv4, which role would you stand for? Or, which role do you think your friends would nominate you for?\
+**Tomi (1:28:54)** I have been working in "Structure and Processes", but I would rather be in "People and Culture".\
+**Steve (1:29:30)** I would stand for "Growth and impact" - but I disagree with this definition of the focus  I'm not interested in marketing, I'm interested in building. Other than the term "Growth and impact", I don't see that emphasis on building. We want to bank the unbanked, and that means community hubs and education; yet, it's really hard to make that a standard in the community, in Catalyst, in the Circle.\
+**Tomi (1:31:20)** Marketing is important for growth. But we could use the word “outreach” instead.\
+**Kriss (1:32:09)** What is the role of the sub-circle there? Are these things that the subcircle would actually do, or things they would discuss?\
+**Tomi (1:33:02)** We need to define the role of the sub circles – it has not been written yet.\
+**Nori (1:36:45)**  Agreement on how to finalise the role descriptions and Subcircle descriptions
 
+<mark style="color:red;">**ACTION ITEM:**</mark> Quasar and Rhys to lead on rewrites of the role descriptions; wording to be finalised at next week’s meeting. Anyone who does not make changes is deemed to be agreeing to the wording as it stands.
 
-\
+**Felix (1:43:55)** Governance Services Guild (CC Admin as was) will not be managing the election this time, so who will do it?\
+**Quasar (1:46:43)** Circle will do it.\
+**Quasar (1:49:05)** I will run a new Pol.is survey.
 
+### **Proposal to change time of Circle meetings (1:49:33)**
 
-## 3. Checkout and close (1:56:57)
+Agreed not to change time.
 
-Meeting is out of time, so no checkout.\
-Meeting ends: **1:56:57**
+### **VPA update (1:51:39, Tomi)**
+
+&#x20;\- Feedback loop was helpful\
+&#x20;\- People are looking into the results of the QA stage after it has happened; discussions mainly in Discord.\
+**Steve (1:53:36)** Vietnamese assessors issues seem to have been resolved.\
+&#x20;\- VPA caution – VPAs wary of giving anything but simply “good” ratings in case rewards are slashed.\
+&#x20;\- Petitions are now under way\
+&#x20;\- Suggestion that flash rounds should be able to be flagged by proposers. Community asked for an answer on this from this meeting, but there has not been time to discuss it.
+
+## **3. Checkout and close (1:53:09)**
+
+Meeting is out of time, so very brief checkout.\
+**1:56:57** Checkout and closing remarks\
+Meeting ends **1:59:23**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-<figure><img src="../.gitbook/assets/frequentword mtg 12.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/frequentword mtg 12.JPG" alt=""><figcaption><p>Some of the most common words used in this meeting</p></figcaption></figure>
 
 ## **Abbreviations / Glossary**
 
