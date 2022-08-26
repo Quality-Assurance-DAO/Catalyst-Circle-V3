@@ -70,7 +70,3 @@ Cómo se determinó el poder de voto en la votación inicial de DripDropz **33:4
 ### Transcripción literal (en inglés)
 
 {% file src="../../.gitbook/assets/CCv3 working meeting 28th July 2022 - QA-DAO verbatim transcript.doc" %}
-
-### Orden del día de esta reunión (en inglés)
-
-coming soon
