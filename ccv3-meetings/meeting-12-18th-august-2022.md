@@ -249,7 +249,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/CCv3 meeting 12,18th August 2022, QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
