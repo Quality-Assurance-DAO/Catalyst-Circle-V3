@@ -168,7 +168,7 @@ Meeting ends: **1:56:57**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-Coming soon
+<figure><img src="../.gitbook/assets/frequentword mtg 12.JPG" alt=""><figcaption></figcaption></figure>
 
 ## **Abbreviations / Glossary**
 
