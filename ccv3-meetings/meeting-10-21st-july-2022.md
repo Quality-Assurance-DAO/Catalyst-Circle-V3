@@ -4,7 +4,7 @@
 
 {% embed url="https://youtu.be/vQMicDl_nlY" %}
 
-## Minutes of Catalyst Circle v3 Meeting #10 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
+## Summary of Catalyst Circle v3 Meeting #10: English <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
