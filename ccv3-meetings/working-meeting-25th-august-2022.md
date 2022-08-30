@@ -101,7 +101,7 @@ No clear knowledge on why he left.\
 {% hint style="warning" %}
 **Summariser's note:** In this meeting, one idea arose several times (eg Mercy, 51:42; Felix, 55:13; Nori, 1:11:20) of dissolving Circle per se, and creating an interim working group involving more people, to plan CCv4. \
 \
-This idea was not put to the vote. It appears not to have been strongly rejected by anyone, but it seems to have disappeared in the discussion.
+This idea was not put to the vote. It appears not to have been strongly rejected by anyone, but it seems it may have disappeared or got lost in the discussion.
 {% endhint %}
 
 ### **The proposal: five undefined seats** <a href="#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627" id="docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627"></a>
