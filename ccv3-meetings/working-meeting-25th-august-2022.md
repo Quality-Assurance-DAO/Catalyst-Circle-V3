@@ -98,6 +98,12 @@ No clear knowledge on why he left.\
 **Kriss (1:30:23)** There is another idea - to do away with the labels altogether. As Steve said, there's just 5 roles - that's it - and when they're elected they agree between themselves what to work on.\
 **Steve (1:33:13)** Those who stand for election would have to state a platform. But how does the vote work - do people stand for Seat 1, or Seat 2; or is it just a general vote and the 5 top-voted people get in? Our job is to is to encourage people to stand for election, so we get some diversity in nominees. **(1:35:24)** And let's remind people every week in Town Hall about the goal to bank the unbanked, and state that if you're not here to do that, you're not going to be a good fit in the community.&#x20;
 
+{% hint style="warning" %}
+**Summariser's note:** In this meeting, one idea arose several times (eg Mercy, 51:42; Felix, 55:13; Nori, 1:11:20) of dissolving Circle per se, and creating an interim working group involving more people, to plan CCv4. \
+\
+This idea was not put to the vote. It appears not to have been strongly rejected by anyone, but it seems to have disappeared in the discussion.
+{% endhint %}
+
 ### **The proposal: five undefined seats** <a href="#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627" id="docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627"></a>
 
 **Nori  (1:39:05)** So the proposal is, five seats without predefined roles; allow people to state their own platform; and the 5 highest-voted people are elected.\
