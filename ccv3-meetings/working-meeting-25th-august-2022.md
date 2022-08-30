@@ -23,9 +23,15 @@ Check-in **(0:02)**\
 &#x20;\- [Voting delays](working-meeting-25th-august-2022.md#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-1)\
 &#x20;\- [Document from Zoe, "Community suggestions for Alternatives to CCv4 structure" ](working-meeting-25th-august-2022.md#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-2)\
 &#x20;\- Election process - discussed with the above\
-&#x20;\- Election criteria for CCv4 - not discussed\
-&#x20;\- Code of Conduct - not discussed\
-&#x20;\- Pol.is - not discussed
+&#x20;\- Election criteria for CCv4 - not discussed; out of time\
+&#x20;\- Code of Conduct - not discussed; out of time\
+&#x20;\- Pol.is - not discussed; out of time
+
+{% hint style="warning" %}
+<mark style="color:purple;">**Summariser's note:**</mark> In the last Circle meeting, a proposal was made to IOG to fund Circle v4 directly from Treasury via a parameter change, at $1,000 per seat per month.\
+\
+Kriss Baird was to put this proposal to IOG and return with an answer in this meeting. However, at the time of writing, it is unclear whether there has been an answer.
+{% endhint %}
 
 ### Tomi leaving the Circle (3:52) <a href="#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627" id="docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627"></a>
 
