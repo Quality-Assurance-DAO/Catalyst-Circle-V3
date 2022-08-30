@@ -28,7 +28,7 @@ Check-in **(0:02)**\
 &#x20;\- Pol.is - not discussed; out of time
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser's note:**</mark> In the last Circle meeting, a proposal was made to IOG to fund Circle v4 directly from Treasury via a parameter change, at $1,000 per seat per month.\
+<mark style="color:purple;">**Summariser's note:**</mark> In the [last Circle meeting, on 18th Aug](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-12-18th-august-2022), a proposal was made to IOG to fund Circle v4 directly from Treasury via a parameter change, at $1,000 per seat per month.\
 \
 Kriss Baird was to put this proposal to IOG and return with an answer in this meeting. However, at the time of writing, it is unclear whether there has been an answer.
 {% endhint %}
