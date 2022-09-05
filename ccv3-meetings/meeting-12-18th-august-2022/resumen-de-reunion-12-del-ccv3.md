@@ -10,6 +10,10 @@ Nori Nishigaya (facilitador); Quasar (miembro del subcírculo de titulares de AD
 
 Nori (24%), Quasar (19%), Tomi (14%), Kriss (14%), Felix (10%), Rhys (8%), Steve (6%), Joey (3%), Peter (2%)
 
+### Abreviaturas / Glosario
+
+[ver más abajo](resumen-de-reunion-12-del-ccv3.md#abreviaturas-glosario)
+
 &#x20;
 
 ## &#x20;1. Apertura, bienvenida y agenda (0:00)
@@ -190,3 +194,47 @@ Se acuerda no cambiar la hora
 La reunión está fuera de tiempo, por lo que la revisión es muy breve.\
 **1:56:57** Cierre de la reunión y observaciones finales\
 La reunión termina **1:59:23**
+
+## Abreviaturas / Glosario
+
+ATH - After Townhall, las salas de descanso después de la [reunión](https://bit.ly/3rCicSR) ordinaria [del Town Hall](https://bit.ly/3rCicSR) del miércoles
+
+CATH - Ayuntamiento de Catalyst África
+
+Escuela de Catalyst - [https://thecatalyst.school](https://thecatalyst.school/)
+
+CC - Círculo de Catalyst
+
+CF - [Fundación Cardano](https://cardanofoundation.org/)
+
+CGO - [Community Governance Oversight](https://quality-assurance-dao.gitbook.io/community-governance-oversight/), una propuesta financiada por los F7 y F8 que ha creado un equipo para debatir y supervisar los principales procesos de gobernanza de Catalyst
+
+CIP - Propuesta de mejora de Cardano https://cips.cardano.org&#x20;
+
+CTC - Catalyst Technical Council, un organismo propuesto que será designado por el IOG para participar en la gobernanza [bicameral](https://en.wikipedia.org/wiki/Bicameralism) junto a la comunidad Catalyst.
+
+dRep - representante de la delegación, una nueva función que se introducirá para el Fondo 10; personas en las que un votante podrá delegar su poder de voto. Vea el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
+
+DIDs - [Identificadores descentralizados](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
+
+ETH - [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg)
+
+Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
+
+GPS o Catalyst GPS - una propuesta financiada por el F8 Catalyst y liderada por el actual miembro del Círculo Tomi, [https://cardano.ideascale.com/c/idea/398299](https://cardano.ideascale.com/c/idea/398299) que busca reorganizar Catalyst.
+
+IOG - [Input/Output Global](https://iohk.io/)
+
+LatAm - la comunidad Catalyst en América Latina. Comprende un Ayuntamiento regular y varias otras iniciativas comunitarias.
+
+NFT - [token no fungible](https://en.wikipedia.org/wiki/Non-fungible\_token)
+
+PA - Evaluador de propuestas, un papel abierto a cualquier persona en Catalyst, para evaluar las propuestas en cada ronda de financiación (anteriormente llamado CA, Community Advisor).
+
+QA-DAO - [Organización Autónoma Distribuida de Garantía de Calidad](https://quality-assurance-dao.github.io/)
+
+SPO - Operador de pool de staking
+
+VPA - Veteran Proposal Assessor (Evaluador de propuestas de veteranos); función abierta a quienes hayan sido PA en rondas anteriores, que evalúa las revisiones de los AP (anteriormente VCA, Veteran Community Advisor).
+
+Voltaire: la siguiente fase de la [hoja de ruta de Cardano hacia la descentralización](https://roadmap.cardano.org/en/voltaire/)
