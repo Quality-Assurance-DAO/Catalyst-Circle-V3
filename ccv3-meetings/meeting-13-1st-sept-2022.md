@@ -2,7 +2,7 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/zdkakn8KynM" %}
 
 ## Minutes of Catalyst Circle v3 Meeting #11 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
@@ -23,6 +23,12 @@ coming soon
 [please scroll down](meeting-13-1st-sept-2022.md#abbreviations-glossary)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
+
+Check-in **(0:03)**
+
+Announcements **(1:48)** Danny’s recent Tweet [https://twitter.com/danny\_cryptofay/status/1563925640734248960](https://twitter.com/danny\_cryptofay/status/1563925640734248960) raising the idea of no fixed funding cycles and monthly ballot **(Felix);** ADAO Twitter space on Sat 3rd to discuss Circle elections [https://twitter.com/i/spaces/1MYxNgZDVZLKw](https://twitter.com/i/spaces/1MYxNgZDVZLKw) **(Quasar);** Working group on audit is being started by IOG **(Kriss);** Voting starts Sept 5th and ends Sept 19th; results Sept 27th **(Nori and Felix);** 2nd dRep meeting is on 8th Sept **(Nori)**
+
+Agenda **(5:43):** Items added: **** none
 
 ## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
