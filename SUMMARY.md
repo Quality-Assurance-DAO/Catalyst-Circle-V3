@@ -35,3 +35,4 @@
   * [Resumen de reunión #12 del CCv3 ](ccv3-meetings/meeting-12-18th-august-2022/resumen-de-reunion-12-del-ccv3.md)
 * [Working meeting, 25th August 2022](ccv3-meetings/working-meeting-25th-august-2022.md)
 * [Meeting #13, 1st Sept 2022](ccv3-meetings/meeting-13-1st-sept-2022.md)
+* [Meeting #14, 15th Sept 2022](ccv3-meetings/meeting-14-15th-sept-2022.md)
