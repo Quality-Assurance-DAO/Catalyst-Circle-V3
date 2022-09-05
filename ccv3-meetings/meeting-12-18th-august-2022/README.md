@@ -1,5 +1,7 @@
 # Meeting #12, 18th August 2022
 
+## Resumen de reunión #12 del CCv3 (español) <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
+
 ## Meeting recording
 
 {% embed url="https://youtu.be/0Ro2059UvKE" %}
@@ -16,7 +18,7 @@
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
-[please scroll down](meeting-12-18th-august-2022.md#abbreviations-glossary)
+[please scroll down](./#abbreviations-glossary)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
@@ -199,7 +201,7 @@ Meeting ends **1:59:23**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-<figure><img src="../.gitbook/assets/frequentword mtg 12.JPG" alt=""><figcaption><p>Some of the most common words used in this meeting</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frequentword mtg 12.JPG" alt=""><figcaption><p>Some of the most common words used in this meeting</p></figcaption></figure>
 
 ## **Abbreviations / Glossary**
 
@@ -249,7 +251,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-{% file src="../.gitbook/assets/CCv3 meeting 12,18th August 2022, QA-DAO verbatim transcript.doc" %}
+{% file src="../../.gitbook/assets/CCv3 meeting 12,18th August 2022, QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
