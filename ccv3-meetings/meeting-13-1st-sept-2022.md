@@ -76,9 +76,9 @@ Agenda **(5:43):** Items added: **** none
 **Nori (37:45)** We have all said what we did to inform the community; and I don’t think the gathering of community feedback is a criterion for moving forward. Do we need more time for feedback? Is negative feedback likely? There are some concerns, but overall it seems the feedback is positive.
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Summariser’s note:**</mark>** ** In the last meeting, it was agreed that gathering community feedback _**was**_ a criterion for moving forward. Also Kriss has said that IOG’s support depends on broad community buy-in.&#x20;
+<mark style="color:purple;">**Summariser’s note:**</mark>** ** In the last meeting, it was agreed that gathering community feedback _**was**_ a criterion for moving forward. Also Kriss says (33:31 above) that IOG’s support depends on broad community buy-in.&#x20;
 
-Quasar and Kriss are questioning whether enough feedback has been gathered, and in a wide enough range of forums – has the meeting given sufficient consideration to this view? It is unclear whether enough people in the community are aware, and whether a broad enough range of people have had a chance to give an opinion. Also, the assumption made here (that because feedback so far has been mostly positive, negative feedback is unlikely) may be unwarranted.
+Quasar and Kriss are questioning whether enough feedback has been gathered, and in a wide enough range of forums – has the meeting given sufficient consideration to this view? It is unclear whether the meeting believes enough people in the community have been informed, and a broad enough range of people have had a chance to give an opinion. Also, the assumption made here (that because feedback so far has been mostly positive, negative feedback is unlikely) may be unwarranted.
 {% endhint %}
 
 **Steve (38:33)**  If we seek feedback now, we will start to get new ideas, and it’s too late for those. We should have proactively looked for ideas in May but we didn’t. I don’t want to further canvass opinion and risk slowing things down. We are supposed to be experimenting, so let’s do it, without further consultation.\
