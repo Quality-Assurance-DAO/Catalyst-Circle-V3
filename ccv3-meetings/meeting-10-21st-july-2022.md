@@ -26,7 +26,7 @@ Agenda and align expectations – **6:21** Minor changes to the order of items o
 
 ## 2. **Circle Stand-Up** <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board. Summariser has asked when this decision was formally made, but did not receive an answer.
+Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board.
 
 ## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
