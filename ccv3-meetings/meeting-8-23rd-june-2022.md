@@ -74,7 +74,15 @@ Welcome and check-in **(0:02)**\
 ****Announcements **(4:09) -** Felix announced that Catalyst GPS had held an ATH yesterday, 22nd June.\
 Agenda and align expectations **(7:52)** - added "Circle structure and legitimacy".
 
-**Nori (9:46)** Circle agreed in the last meeting \[_summariser's note: it's unclear where this agreement happened; it wasn't in the last meeting_] to refocus around the CCv4 election planning, and not to use the GitHub board until CCv4. Is that still the consensus?\
+**Nori (9:46)** Circle agreed in the last meeting to refocus around the CCv4 election planning, and not to use the GitHub board until CCv4. Is that still the consensus?
+
+{% hint style="warning" %}
+_<mark style="color:purple;">**Summariser's note:**</mark> it's unclear where this agreement happened; it wasn't in the last meeting. Summariser has asked for clarification; at the point of writing, nobody has been able to point to when this decision was taken. It appears not to have been in a Circle meeting; so possibly, an offline discussion?_\
+__\
+_Since part of Circle's role is to look at and prioritise problems sensed in the community, there is a sense in which this group is no longer operating as Circle if it is not doing this. This decision may have been a response to the fact that several members are now unelected - but if so, this is not clear._
+{% endhint %}
+
+\
 **Harris (10:19)** We should address the CCv4 election; but should also discuss what the makeup of Circle should be.\
 **Quasar (10:53)** I want some clarification on Harris's comment about not focusing on the problem statement, but on legitimacy of Circle. Which one is priority? And what counts as doing that, and not doing that?\
 **Nori (11:39)** I'll add "Circle structure and legitimacy" before "Election planning".\
@@ -82,7 +90,7 @@ Agenda and align expectations **(7:52)** - added "Circle structure and legitimac
 
 ## 2. Circle stand-up <a href="#2.-circle-stand-up-9-06" id="2.-circle-stand-up-9-06"></a>
 
-There is no Circle Stand-up in this meeting's agenda, and the Prioritised Problems Board was not addressed.&#x20;
+There is no Circle Stand-up in this meeting's agenda, and the Prioritised Problems Board was not addressed.  As noted above, summariser has asked when this decision was formally made, but to date, did not receive an answer.
 
 ## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 

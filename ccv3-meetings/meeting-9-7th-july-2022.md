@@ -28,7 +28,7 @@ Agenda and align expectations – conducted off camera. JP asked for consent of 
 
 ## **2. Circle Stand-Up**
 
-Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board. Summariser has asked when this decision was formally made, but did not receive an answer.
+Circle is no longer doing a Stand-up or addressing the Prioritised Problems Board.
 
 ## 3. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
