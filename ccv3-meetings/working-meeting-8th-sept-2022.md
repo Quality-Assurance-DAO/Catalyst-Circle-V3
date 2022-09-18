@@ -2,7 +2,7 @@
 
 ## Meeting recording
 
-{% embed url="https://youtu.be/xgDdETKMsqA" %}
+coming soon
 
 ### Present (in order of first speaking)
 
