@@ -1,4 +1,4 @@
-# Meeting #14, 15th Sept 2022
+# Meeting #15, 29th Sept 2022
 
 ## Meeting recording
 
@@ -12,8 +12,6 @@ coming soon
 
 ### Speaker percentages
 
-
-
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
 ## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
@@ -24,7 +22,7 @@ coming soon
 
 ## Appendix
 
-### Abbreviations used/Glossary <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
+### Abbreviations used/glossary
 
 **ATH** – After Townhall, the breakout rooms after the regular Wednesday [TownHall meeting](https://bit.ly/3rCicSR)
 
