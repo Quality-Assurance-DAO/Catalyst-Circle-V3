@@ -90,7 +90,7 @@ If Circle are paid via a parameter change, IOG has said it needs them to be acco
 
 ### Where should documentation be stored?
 
-**Kriss (54:07**)  There only needs to be one place where the Circle reps’ work is logged; it doesn’t need to be more than that.\
+**Kriss (54:07**)  There only needs to be one place where the Circle reps’ work is logged; it doesn’t need to be more.\
 **Quasar (54:16)** On the Cardano forum.\
 **Steve (55:31)** On the GitBook where the rest of the Circle documentation goes.\
 **Felix (56:43)** Documentation is a lot of work, and perhaps Circle should not document themselves. We should approach QA-DAO and CGO for help, because this is what they do.\
