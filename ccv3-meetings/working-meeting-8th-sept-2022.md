@@ -2,11 +2,15 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/xgDdETKMsqA" %}
 
 ### Present (in order of first speaking)
 
+**Nori Nishigaya** (facilitator); **Joey Chessher** (Toolmakers and Maintainers); **Quasar** (ADA Holders subcircle member); **Felix Weber** (CF); **Steve Lockhart** (deputy for Mercy; Funded Proposers); **Kriss Baird** (IOG).
+
 ### Speaker percentages
+
+**Quasar** (26%), **Kriss** (17%), **Felix** (17%), **Nori** (16%), **Steve** (12%), **Joey** (12%)
 
 ## 1. Opening; agenda
 
