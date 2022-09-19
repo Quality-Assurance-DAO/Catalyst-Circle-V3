@@ -114,7 +114,8 @@ If Circle are paid via a parameter change, IOG has said it needs them to be acco
 **Joey (1:10:29)** The CCv3 nomination form is still there, but CC Admin need to enable access.
 
 <mark style="color:red;">**ACTION ITEM:**</mark> Nori to enable access to old CCv3 nomination form as a basis for creating the CCv4 form.\
-<mark style="color:red;">**ACTION POINT**</mark><mark style="color:red;">:</mark> This group to road-test Kriss’s activity log.
+<mark style="color:red;">**ACTION ITEM:**</mark> Felix to approach QA-DAO and CGO for input on how to document and audit Circle reps' work.\
+<mark style="color:red;">**ACTION ITEM**</mark><mark style="color:red;">:</mark> This group to road-test Kriss’s activity log.
 
 ### **Code of Conduct (1:11:03)**
 
