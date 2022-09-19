@@ -121,7 +121,9 @@ This idea was not put to the vote. It appears not to have been strongly rejected
 
 Meeting ends: **1:55:24**
 
-## Abbreviations/Glossary
+## Appendix
+
+### Abbreviations/Glossary
 
 **ATH** – After Townhall, the breakout rooms after the regular Wednesday [TownHall meeting](https://bit.ly/3rCicSR)
 
@@ -164,8 +166,6 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 **VPA** - Veteran Proposal Assessor; a role open to those who have been a PA in previous rounds, which assesses the PAs’ reviews  (previously VCA, Veteran Community Advisor).
 
 **Voltaire** – the next phase on the [Cardano roadmap to decentralisation](https://roadmap.cardano.org/en/voltaire/)
-
-## Appendix
 
 ### Transcript of this meeting
 

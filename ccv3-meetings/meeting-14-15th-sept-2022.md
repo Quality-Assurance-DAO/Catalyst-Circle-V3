@@ -2,9 +2,9 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/3Cw_iGkbCjo" %}
 
-## Minutes of Catalyst Circle v3 Meeting #11 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
+## Minutes of Catalyst Circle v3 Meeting #14 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
