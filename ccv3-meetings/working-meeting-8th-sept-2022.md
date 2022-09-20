@@ -14,9 +14,15 @@
 
 ## 1. Opening; agenda
 
-Check-in **(0:03)**\
-****Announcements **(1:23)** Conversation with Emurgo about increasing their involvement with Catalyst **(Felix)**; Idea heard in the community of a “Catalyst reboot” **(Quasar)**; Ariob incubator startups. [https://startupxs.com/accelerator/ariob-incubator-of-startups/](https://startupxs.com/accelerator/ariob-incubator-of-startups/) **(Kriss)**; DripDropz ATH (“Governance Jam” [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)) where Kriss presented some slides at the end on his own thoughts on GPS and George's funding categories; would like to discuss next meeting. **(Kriss)**\
-****Agenda **(7:44)**  Item added: idea of “Circle” shifting to “working group”. Because several members now are unelected, causing confusion and pushback, should we officially say that Circle version 3 is over, and these meetings are a working group to set up the CC 4 elections? **(Felix)**
+**Check-in (0:03)**
+
+**Announcements (1:23)**  \
+&#x20;\- Conversation with Emurgo about increasing their involvement with Catalyst **(Felix)**; \
+&#x20;\- Idea heard in the community of a “Catalyst reboot” **(Quasar)**; \
+&#x20;\- Ariob incubator startups. [https://startupxs.com/accelerator/ariob-incubator-of-startups/](https://startupxs.com/accelerator/ariob-incubator-of-startups/) **(Kriss)**; \
+&#x20;\- DripDropz ATH (“Governance Jam” [https://www.youtube.com/watch?v=lt0Efbtngnc](https://www.youtube.com/watch?v=lt0Efbtngnc)) where Kriss presented some slides at the end on his own thoughts on GPS and George's funding categories; would like to discuss next meeting. **(Kriss)**
+
+**Agenda (7:44)**  Item added: idea of “Circle” shifting to “working group”. Because several members now are unelected, causing confusion and pushback, should we officially say that Circle version 3 is over, and these meetings are a working group to set up the CC 4 elections? **(Felix)**
 
 ## 2. Consent agenda
 
