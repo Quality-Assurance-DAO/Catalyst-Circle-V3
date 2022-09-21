@@ -26,6 +26,7 @@
 * [Meeting #8, 23rd June 2022](ccv3-meetings/meeting-8-23rd-june-2022.md)
 * [Working meeting, 30th June 2022](ccv3-meetings/working-meeting-30th-june-2022.md)
 * [Meeting #9, 7th July 2022](ccv3-meetings/meeting-9-7th-july-2022.md)
+* [Working meeting 14th July 2022](ccv3-meetings/working-meeting-14th-july-2022.md)
 * [Meeting #10, 21st July 2022](ccv3-meetings/meeting-10-21st-july-2022.md)
 * [Working meeting, 28th July 2022](ccv3-meetings/working-meeting-28th-july-2022.md)
   * [Reunión de trabajo del CCv3: 28 de Julio 2022](ccv3-meetings/working-meeting-28th-july-2022/reunion-de-trabajo-del-ccv3-jueves-28-de-julio-2022.md)
