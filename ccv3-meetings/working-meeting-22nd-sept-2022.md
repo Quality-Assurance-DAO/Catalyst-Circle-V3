@@ -2,6 +2,8 @@
 
 ## Meeting recording
 
+{% embed url="https://youtu.be/IBBoRfXQyVg" %}
+
 ### Present (in order of first speaking)
 
 ****
