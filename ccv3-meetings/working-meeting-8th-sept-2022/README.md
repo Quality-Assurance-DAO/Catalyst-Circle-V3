@@ -26,10 +26,10 @@
 
 ## 2. Consent agenda
 
-\- [CCv4 election process](working-meeting-8th-sept-2022.md#ccv4-election-process-11-18)\
-\- [CCv4 accountability](working-meeting-8th-sept-2022.md#ccv4-accountability-and-ccv4-compensation-28-39)\
-\- [CCv4 compensation](working-meeting-8th-sept-2022.md#ccv4-accountability-and-ccv4-compensation-28-39)\
-\- [Code of Conduct](working-meeting-8th-sept-2022.md#code-of-conduct-1-11-03)\
+\- [CCv4 election process](./#ccv4-election-process-11-18)\
+\- [CCv4 accountability](./#ccv4-accountability-and-ccv4-compensation-28-39)\
+\- [CCv4 compensation](./#ccv4-accountability-and-ccv4-compensation-28-39)\
+\- [Code of Conduct](./#code-of-conduct-1-11-03)\
 \- Circle's shift to working group - not discussed.
 
 ### **CCv4 election process (11:18)**
@@ -196,4 +196,4 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Transcript of this meeting
 
-{% file src="../.gitbook/assets/CCv3 working meeting 8th Sept 2022 QA-DAO verbatim transcript.doc" %}
+{% file src="../../.gitbook/assets/CCv3 working meeting 8th Sept 2022 QA-DAO verbatim transcript.doc" %}
