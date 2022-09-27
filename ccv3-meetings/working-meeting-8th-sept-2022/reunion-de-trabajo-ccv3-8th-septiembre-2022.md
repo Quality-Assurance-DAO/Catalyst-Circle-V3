@@ -1,6 +1,8 @@
 # Reunión de trabajo CCv3 8th Septiembre 2022
 
 {% embed url="https://youtu.be/xgDdETKMsqA" %}
+Presentes (por orden de intervención)
+{% endembed %}
 
 ### Presentes (por orden de intervención)
 
