@@ -19,9 +19,9 @@
 ## 2. Orden del día consensuado
 
 \- [Proceso de elección del CCv4](reunion-de-trabajo-ccv3-8th-septiembre-2022.md#proceso-de-eleccion-de-la-ccv4)\
-\- Compensación CCv4\
-\- Responsabilidad CCv4\
-\- Código de conducta\
+\- [Compensación CCv4](reunion-de-trabajo-ccv3-8th-septiembre-2022.md#contabilidad-y-compensacion-de-ccv4-28-39)\
+\- [Responsabilidad CCv4](reunion-de-trabajo-ccv3-8th-septiembre-2022.md#contabilidad-y-compensacion-de-ccv4-28-39)\
+\- [Código de conducta](reunion-de-trabajo-ccv3-8th-septiembre-2022.md#codigo-de-conducta-1-11-03)\
 \- El cambio del Círculo a un grupo de trabajo
 
 ### Proceso de elección de la CCv4
@@ -44,151 +44,144 @@ Sobre la financiación para gestionar las elecciones:\
 **Felix (24:09)** Los constructores de puentes \[a través de la propuesta F7 "Governance Events[" https://cardano.ideascale.com/c/idea/382705](https://cardano.ideascale.com/c/idea/382705) ] podrían contribuir también.
 
 <mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Kriss escribirá una entrada en el blog sobre las elecciones del Círculo: para incluir un recordatorio de lo que es el Círculo; información sobre lo que se ha logrado en el último año; y detalles de cómo se desarrollarán las elecciones de CCv4. Los redactores técnicos del IOG y el departamento legal tendrán que aprobarlo antes de que se publique, pero es de esperar que esto se haga la semana que viene.\
-<mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Felix dirigirá la administración de las elecciones, e involucrará a la gente a través de Swarm para crear un formulario de nominación, y establecerá el evento de gobierno. (NOTA: esto puede ser contradicho más tarde en la reunión, cuando el grupo parece estar de acuerdo en utilizar el formulario de nominación de CCv3 con cambios menores).
+<mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Felix dirigirá la administración de las elecciones, e involucrará a la gente a través de Swarm para crear un formulario de nominación, y establecerá el evento de gobierno.&#x20;
+
+{% hint style="info" %}
+<mark style="color:purple;">**NOTA:**</mark> esto puede ser contradicho más tarde en la reunión, cuando el grupo parece estar de acuerdo en utilizar el formulario de nominación de CCv3 con cambios menores.
+{% endhint %}
 
 ### Contabilidad y compensación de CCv4 (28:39)
 
+{% hint style="info" %}
 Si el Círculo se paga a través de un cambio de parámetros, IOG ha dicho que tienen que rendir cuentas, por lo que estos dos puntos se discuten juntos.
+{% endhint %}
 
-&#x20;Cómo los representantes de Circle podrían registrar su trabajo
+### Cómo los representantes de Circle podrían registrar su trabajo
 
-Kriss (30:20) No debería ser demasiado oneroso, y no ser un informe de progreso mensual como hacen los Proponentes Financiados; pero debería haber una forma de que los representantes de los Círculos demuestren las actividades que tienen lugar fuera de estas reuniones para que la comunidad pueda seguirlas. Quizás un registro de actividades. Por ejemplo, si un representante hace un espacio en Twitter, debería poder registrarlo y señalar el enlace.
+**Kriss (30:20)** No debería ser demasiado oneroso, y no ser un informe de progreso mensual como hacen los Proponentes Financiados; pero debería haber una forma de que los representantes de los Círculos demuestren las actividades que tienen lugar fuera de estas reuniones para que la comunidad pueda seguirlas. Quizás un registro de actividades. Por ejemplo, si un representante hace un espacio en Twitter, debería poder registrarlo y señalar el enlace.\
+**Quasar (32:02)** Peter ha creado una plantilla para los espacios de Twitter, [https://docs.google.com/document/d/1IUDuUKknDgDj-wxNiKajU\_M7aItIVIwBaRHm6Zj0GMk/edit](https://docs.google.com/document/d/1IUDuUKknDgDj-wxNiKajU\_M7aItIVIwBaRHm6Zj0GMk/edit) Podría utilizarse también para otras reuniones.\
+**Nori (37:00)** En CCv2 utilizamos un formulario para que los representantes dieran un breve resumen de sus actividades en la última quincena. Podría volver a utilizarse como herramienta. Resumir y registrar lleva tiempo; los representantes cuentan con mucho apoyo de voluntarios de la comunidad para, por ejemplo, documentar los TH regionales.
 
-Quasar (32:02) Peter ha creado una plantilla para los espacios de Twitter, https://docs.google.com/document/d/1IUDuUKknDgDj-wxNiKajU\_M7aItIVIwBaRHm6Zj0GMk/edit. Podría utilizarse también para otras reuniones.
+### Gestión de los fondos del Círculo
 
-Nori (37:00) En CCv2 utilizamos un formulario para que los representantes dieran un breve resumen de sus actividades en la última quincena. Podría volver a utilizarse como herramienta. Resumir y registrar lleva tiempo; los representantes cuentan con mucho apoyo de voluntarios de la comunidad para, por ejemplo, documentar los TH regionales.
+**Quasar (38:33)** Sugiero que pongamos la compensación de Circle en una billetera multisig, de modo que de 3 a 5 personas puedan firmar antes de que se distribuyan los fondos.\
+**Joey (40:49)** Recomienda que utilicemos Treasury Guild para ayudar a gestionar los fondos.
 
-&#x20;
+### La importancia del trabajo individual
 
-Gestión de los fondos del Círculo
+**Steve (42:20)** En cuanto a la rendición de cuentas, las conversaciones individuales son una parte válida del trabajo, así como las actividades de grupo; creo que los representantes deberían registrarlas.\
+**Quasar (42:40)** Cuantas más personas haya, más se difundirá la información; pero es complicado decidir cuáles grabar y cómo. Algunas personas pueden no querer ser registradas. Herramientas como Obsidian y HackMD son útiles; los representantes podrían empezar a llevar un diario para compartir.
 
-Quasar (38:33) Sugiero que pongamos la compensación de Circle en una billetera multisig, de modo que de 3 a 5 personas puedan firmar antes de que se distribuyan los fondos.
+### Formas de demostrar el trabajo
 
-Joey (40:49) Recomienda que utilicemos Treasury Guild para ayudar a gestionar los fondos.
+**Joey (44:10)** Es importante mantenerlo simple, y los representantes deben completar un formulario durante la reunión o inmediatamente después, para que esté fresco. (46:36) Un formulario, además de lo que ya hacemos en los Townhall y en los After Townhalls, debería ser suficiente para que el CCv4 rinda cuentas de lo que está haciendo.\
+**Kriss (46:58)** Pero eso es sólo decir que lo hiciste. Tienes que demostrar que lo hiciste.\
+**Quasar (47:13)** El Círculo no sólo debe detectar los problemas, sino también gestionar las soluciones, mediante el pago de recompensas. Así que 3.000 ADA por asiento no es suficiente; debería haber dinero adicional para pagar las soluciones.\
+**Steve (48:25)** Si adoptamos un enfoque holocrático, deberíamos pedir a la gente de Wada, de América Latina y de Asia que formen ellos mismos Círculos para hablar con este Círculo.\
+**Quasar (49:42)** Catalyst United \[el servidor Discord de PA/VPA) utiliza un proceso para las recompensas que podría adoptarse.\
+**Joey (50:31)** Para comprobar si un empleado remoto ha hecho su trabajo, mi enfoque es establecer algunos objetivos con el empleado, y si esos objetivos se cumplen, sé que ha hecho su trabajo. Quizás Circle debería adoptar este enfoque basado en la evidencia.\
+**Steve (51:34)** Las plataformas de los candidatos son la forma en que los representantes rinden cuentas como individuos. Debemos guiar a los nominados hacia donde \*nosotros\* vemos que va la gobernanza de la comunidad de Catalyst.
 
-&#x20;
+{% hint style="warning" %}
+<mark style="color:purple;">**Nota del resumidor**</mark> - Sobre este último punto, no está claro en qué se basa este grupo, en parte no elegido, para dirigir el CCv4. En reuniones anteriores, el plan parecía ser que los candidatos de CCv4 propondrían sus propios enfoques y, si a la comunidad le gusta su punto de vista, los elegiría. En este momento no está claro si este grupo actual pretende dirigir el CCv4 o no.
+{% endhint %}
 
-La importancia del trabajo individual
+**Quasar (53:27)** Si completamos los signos de interrogación en el documento de Kriss, el puede ir a IO y pedir un cambio de parámetros para financiar a Circle.
 
-Steve (42:20) En cuanto a la rendición de cuentas, las conversaciones individuales son una parte válida del trabajo, así como las actividades de grupo; creo que los representantes deberían registrarlas.
+### ¿Dónde debe guardarse la documentación?
 
-Quasar (42:40) Cuantas más personas haya, más se difundirá la información; pero es complicado decidir cuáles grabar y cómo. Algunas personas pueden no querer ser registradas. Herramientas como Obsidian y HackMD son útiles; los representantes podrían empezar a llevar un diario para compartir.
+**Kriss (54:07)** Sólo tiene que haber un lugar donde se registre el trabajo de los representantes del Círculo; no es necesario que haya más que eso.\
+**Quasar (54:16)** En el foro de Cardano.\
+**Steve (55:31)** Sobre el GitBook donde va el resto de la documentación de Circle.\
+**Félix (56:43)** La documentación es mucho trabajo, y quizás el Círculo no debería documentarse a sí mismo. Deberíamos pedir ayuda a QA-DAO y CGO, porque es lo que hacen.\
+**Joey (58:22)** De acuerdo. Y deberíamos incluir la documentación en nuestro presupuesto cuando pensemos en financiar el Círculo.\
+**Nori (59:04)** Kriss ha publicado en el chat un registro de actividad del círculo que ha creado [https://docs.google.com/spreadsheets/d/1RVMqa5EB7n3ahycG9usc2O\_0h26SGLYZ/edit#gid=1687497442](https://docs.google.com/spreadsheets/d/1RVMqa5EB7n3ahycG9usc2O\_0h26SGLYZ/edit#gid=1687497442)\
+**Kriss (1:00:30)** Podría configurarlo para que el "nombre de la actividad" sea un desplegable. Pero vamos a preguntar si esto replica algo de lo que ya está usando QA-DAO.
 
-&#x20;
+{% hint style="info" %}
+**Punto de información:** El subcírculo de proponentes financiados ha estado haciendo algo similar desde junio - ver [https://catalyst-circle.gitbook.io/funded-proposers-hub/the-funded-proposers-sub-circle/funded-proposers-sub-circle-activity-log](https://catalyst-circle.gitbook.io/funded-proposers-hub/the-funded-proposers-sub-circle/funded-proposers-sub-circle-activity-log)&#x20;
+{% endhint %}
 
-Formas de demostrar el trabajo
+### Restablecer las herramientas utilizadas anteriormente por Circle
 
-Joey (44:10) Es importante mantenerlo simple, y los representantes deben completar un formulario durante la reunión o inmediatamente después, para que esté fresco. (46:36) Un formulario, además de lo que ya hacemos en los Townhall y en los After Townhalls, debería ser suficiente para que el CCv4 rinda cuentas de lo que está haciendo.
+**Felix (1:02:36)** El Círculo solía hacer un stand-up al comienzo de cada reunión, que era efectivo: "¿Qué has hecho la semana pasada? ¿Qué vas a hacer la semana que viene? ¿Hay algo que te bloquee?".\
+**Félix (1:03:33)** Es difícil saber qué documentar y qué no.\
+**Nori (1:04:23)** Es mejor resumir las cosas importantes, para que la gente pueda tener una visión general.\
+**Félix (1:04:45)** Deberíamos probar el proceso de registrar nuestra actividad nosotros mismos antes de pedirle a CCv4 que lo haga. También deberíamos volver a poner en marcha el "Circle Stand-up" al principio de cada reunión. Y cada uno de nosotros debería registrar un breve resumen a través de Loom o similar sobre lo que hemos hecho. Pero el problema es: ¿dónde los compartimos? El Círculo necesita realmente una plataforma en la que podamos reunir estas cosas.\
+**Joey (1:06:39)** El tablero de problemas prioritarios permite a la comunidad ver y comentar. Podríamos añadir otra área donde los representantes puedan registrar lo que han hecho.\
+**Nori (1:07:09)** Podríamos buscar otras herramientas, pero la mayoría cuestan dinero. Tenemos el tablero de problemas prioritarios, y podemos ampliarlo para hacer un seguimiento de otras cosas, o crear un tablero lateral.\
+**Quasar (1:09:02)** Github y Google Sheets son gratuitos; pero el trabajo no lo es. Así que volvemos a la financiación, que es necesaria para entregar el formulario de candidatura y comenzar la elección.\
+**Joey (1:10:29)** El formulario de nominación del CCv3 sigue ahí, pero el administrador de la CC tiene que habilitar el acceso.
 
-Kriss (46:58) Pero eso es sólo decir que lo hiciste. Tienes que demostrar que lo hiciste.
+<mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Nori habilitará el acceso al antiguo formulario de nominación CCv3 como base para crear el formulario CCv4.\
+<mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Felix se dirigirá al QA-DAO y al CGO para pedirles su opinión sobre cómo documentar y auditar el trabajo de los representantes de los círculos.\
+<mark style="color:red;">**PUNTO DE ACCIÓN:**</mark> Este grupo debe probar el registro de actividades de Kriss.
 
-Quasar (47:13) El Círculo no sólo debe detectar los problemas, sino también gestionar las soluciones, mediante el pago de recompensas. Así que 3.000 ADA por asiento no es suficiente; debería haber dinero adicional para pagar las soluciones.
+### Código de conducta (1:11:03)
 
-Steve (48:25) Si adoptamos un enfoque holocrático, deberíamos pedir a la gente de Wada, de América Latina y de Asia que formen ellos mismos Círculos para hablar con este Círculo.
+**Joey (1:11:27)** Lynn Gummow, de la Fundación Cardano, tiene experiencia en recursos humanos y en asuntos legales; nos podríamos dirigir a ella para que nos dé su opinión.\
+**Quasar (1:12:55)** Deberíamos abordar las secciones 5 a 9, ya que están directamente relacionadas con la definición de las expectativas para la CCv4. Por ejemplo, ¿se debe permitir a los representantes presentar propuestas? ¿Y cómo tratamos las violaciones del Código de Conducta?\
+**Joey (1:14:31)** Si los representantes del Círculo no pueden presentar propuestas, se limitaría quiénes pueden presentarse.\
+**Steve (1:16:07)** Creo que si la gente está en el Círculo, debería tomarse un descanso de las propuestas durante 6 meses para centrarse en el Círculo.\
+**Joey (1:17:31)** Creo que el conflicto de la última vez fue cuando los representantes del Círculo presentaron propuestas para beneficiarse a sí mismos.
 
-Quasar (49:42) Catalyst United \[el servidor Discord de PA/VPA) utiliza un proceso para las recompensas que podría adoptarse.
+{% hint style="info" %}
+&#x20;<mark style="color:purple;">**Nota del resumidor:**</mark> Los temas sobre las propuestas en el pasado han sido realmente:
 
-Joey (50:31) Para comprobar si un empleado remoto ha hecho su trabajo, mi enfoque es establecer algunos objetivos con el empleado, y si esos objetivos se cumplen, sé que ha hecho su trabajo. Quizás Circle debería adoptar este enfoque basado en la evidencia.
+&#x20;¿Debe un miembro del Círculo presentar una propuesta sobre el propio Círculo (por ejemplo, para pagar el Círculo) sin consultar a los demás miembros del Círculo o sin su acuerdo?
 
-Steve (51:34) Las plataformas de los candidatos son la forma en que los representantes rinden cuentas como individuos. Debemos guiar a los nominados hacia donde \*nosotros\* vemos que va la gobernanza de la comunidad de Catalyst.
+&#x20;¿Debe un miembro del Círculo utilizar su plataforma en el Círculo para promocionar o publicitar sus propias propuestas personales que no estén relacionadas con el Círculo?
 
-&#x20;
+¿Cómo deben los miembros del Círculo decidir y acordar qué es una "propuesta del Círculo", presentada en nombre de éste?
+{% endhint %}
 
-Nota del resumidor - Sobre este último punto, no está claro en qué se basa este grupo, en parte no elegido, para dirigir el CCv4. En reuniones anteriores, el plan parecía ser que los candidatos de CCv4 propondrían sus propios enfoques y, si a la comunidad le gusta su punto de vista, los elegiría. En este momento no está claro si este grupo actual pretende dirigir el CCv4 o no.
+**Joey (1:18:13)** Todos estamos experimentando; vamos a ver si alguien se presenta en el Círculo si hay una restricción para presentar propuestas.
 
-\
+## 3. Salida y cierre (1:19:18)
 
+No se puede comprobar, ya que la reunión es a contrarreloj.\
+La reunión termina: **1:21:15**
 
-Quasar (53:27) Si completamos los signos de interrogación en el documento de Kriss, el puede ir a IO y pedir un cambio de parámetros para financiar a Circle.
+## Abreviaturas / Glosario
 
-&#x20;
+ATH - After Townhall, las salas de descanso después de la [reunión](https://bit.ly/3rCicSR) ordinaria [del Town Hall](https://bit.ly/3rCicSR) del miércoles
 
-&#x20;
+CATH - Ayuntamiento de Catalyst África
 
-¿Dónde debe guardarse la documentación?
+Escuela de Catalyst - [https://thecatalyst.school](https://thecatalyst.school/)
 
-Kriss (54:07) Sólo tiene que haber un lugar donde se registre el trabajo de los representantes del Círculo; no es necesario que haya más que eso.
+CC - Círculo de Catalyst
 
-Quasar (54:16) En el foro de Cardano.
+CF - [Fundación Cardano](https://cardanofoundation.org/)
 
-Steve (55:31) Sobre el GitBook donde va el resto de la documentación de Circle.
+CGO - [Community Governance Oversight](https://quality-assurance-dao.gitbook.io/community-governance-oversight/), una propuesta financiada por los F7 y F8 que ha creado un equipo para debatir y supervisar los principales procesos de gobernanza de Catalyst
 
-Félix (56:43) La documentación es mucho trabajo, y quizás el Círculo no debería documentarse a sí mismo. Deberíamos pedir ayuda a QA-DAO y CGO, porque es lo que hacen.
+CIP - Propuesta de mejora de Cardano https://cips.cardano.org&#x20;
 
-Joey (58:22) De acuerdo. Y deberíamos incluir la documentación en nuestro presupuesto cuando pensemos en financiar el Círculo.
+CTC - Catalyst Technical Council, un organismo propuesto que será designado por el IOG para participar en la gobernanza [bicameral](https://en.wikipedia.org/wiki/Bicameralism) junto a la comunidad Catalyst.
 
-Nori (59:04) Kriss ha publicado en el chat un registro de actividad del círculo que ha creado [https://docs.google.com/spreadsheets/d/1RVMqa5EB7n3ahycG9usc2O\_0h26SGLYZ/edit#gid=1687497442](https://docs.google.com/spreadsheets/d/1RVMqa5EB7n3ahycG9usc2O\_0h26SGLYZ/edit#gid=1687497442)
+dRep - representante de la delegación, una nueva función que se introducirá para el Fondo 10; personas en las que un votante podrá delegar su poder de voto. Vea el [formulario de inscripción](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
-Kriss (1:00:30) Podría configurarlo para que el "nombre de la actividad" sea un desplegable. Pero vamos a preguntar si esto replica algo de lo que ya está usando QA-DAO.
+DIDs - [Identificadores descentralizados](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
 
-&#x20;
+ETH - [Eastern Town Hall](https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg)
 
-Punto de información: El subcírculo de proponentes financiados ha estado haciendo algo similar desde junio - ver [https://catalyst-circle.gitbook.io/funded-proposers-hub/the-funded-proposers-sub-circle/funded-proposers-sub-circle-activity-log](https://catalyst-circle.gitbook.io/funded-proposers-hub/the-funded-proposers-sub-circle/funded-proposers-sub-circle-activity-log)&#x20;
+Gimbalabs - [https://gimbalabs.com/gimbalgrid](https://gimbalabs.com/gimbalgrid)
 
-&#x20;
+GPS o Catalyst GPS - una propuesta financiada por el F8 Catalyst y liderada por el actual miembro del Círculo Tomi, [https://cardano.ideascale.com/c/idea/398299](https://cardano.ideascale.com/c/idea/398299) que busca reorganizar Catalyst.
 
-&#x20;
+IOG - [Input/Output Global](https://iohk.io/)
 
-Restablecer las herramientas utilizadas anteriormente por Circle
+LatAm - la comunidad Catalyst en América Latina. Comprende un Ayuntamiento regular y varias otras iniciativas comunitarias.
 
-Felix (1:02:36) El Círculo solía hacer un stand-up al comienzo de cada reunión, que era efectivo: "¿Qué has hecho la semana pasada? ¿Qué vas a hacer la semana que viene? ¿Hay algo que te bloquee?".
+NFT - [token no fungible](https://en.wikipedia.org/wiki/Non-fungible\_token)
 
-Félix (1:03:33) Es difícil saber qué documentar y qué no.
+PA - Evaluador de propuestas, un papel abierto a cualquier persona en Catalyst, para evaluar las propuestas en cada ronda de financiación (anteriormente llamado CA, Community Advisor).
 
-Nori (1:04:23) Es mejor resumir las cosas importantes, para que la gente pueda tener una visión general.
+QA-DAO - [Organización Autónoma Distribuida de Garantía de Calidad](https://quality-assurance-dao.github.io/)
 
-Félix (1:04:45) Deberíamos probar el proceso de registrar nuestra actividad nosotros mismos antes de pedirle a CCv4 que lo haga. También deberíamos volver a poner en marcha el "Circle Stand-up" al principio de cada reunión. Y cada uno de nosotros debería registrar un breve resumen a través de Loom o similar sobre lo que hemos hecho. Pero el problema es: ¿dónde los compartimos? El Círculo necesita realmente una plataforma en la que podamos reunir estas cosas.
+SPO - Operador de pool de staking
 
-Joey (1:06:39) El tablero de problemas prioritarios permite a la comunidad ver y comentar. Podríamos añadir otra área donde los representantes puedan registrar lo que han hecho.
+VPA - Veteran Proposal Assessor (Evaluador de propuestas de veteranos); función abierta a quienes hayan sido PA en rondas anteriores, que evalúa las revisiones de los AP (anteriormente VCA, Veteran Community Advisor).
 
-Nori (1:07:09) Podríamos buscar otras herramientas, pero la mayoría cuestan dinero. Tenemos el tablero de problemas prioritarios, y podemos ampliarlo para hacer un seguimiento de otras cosas, o crear un tablero lateral.
-
-Quasar (1:09:02) Github y Google Sheets son gratuitos; pero el trabajo no lo es. Así que volvemos a la financiación, que es necesaria para entregar el formulario de candidatura y comenzar la elección.
-
-Joey (1:10:29) El formulario de nominación del CCv3 sigue ahí, pero el administrador de la CC tiene que habilitar el acceso.
-
-&#x20;
-
-PUNTO DE ACCIÓN: Nori habilitará el acceso al antiguo formulario de nominación CCv3 como base para crear el formulario CCv4.
-
-PUNTO DE ACCIÓN: Felix se dirigirá al QA-DAO y al CGO para pedirles su opinión sobre cómo documentar y auditar el trabajo de los representantes de los círculos.
-
-PUNTO DE ACCIÓN: Este grupo debe probar el registro de actividades de Kriss.
-
-&#x20;
-
-Código de conducta (1:11:03)
-
-Joey (1:11:27) Lynn Gummow, de la Fundación Cardano, tiene experiencia en recursos humanos y en asuntos legales; nos podríamos dirigir a ella para que nos dé su opinión.
-
-Quasar (1:12:55) Deberíamos abordar las secciones 5 a 9, ya que están directamente relacionadas con la definición de las expectativas para la CCv4. Por ejemplo, ¿se debe permitir a los representantes presentar propuestas? ¿Y cómo tratamos las violaciones del Código de Conducta?
-
-Joey (1:14:31) Si los representantes del Círculo no pueden presentar propuestas, se limitaría quiénes pueden presentarse.
-
-Steve (1:16:07) Creo que si la gente está en el Círculo, debería tomarse un descanso de las propuestas durante 6 meses para centrarse en el Círculo.
-
-Joey (1:17:31) Creo que el conflicto de la última vez fue cuando los representantes del Círculo presentaron propuestas para beneficiarse a sí mismos.
-
-&#x20;
-
-Nota del resumidor: Los temas sobre las propuestas en el pasado han sido realmente:
-
-&#x20;\- ¿Debe un miembro del Círculo presentar una propuesta sobre el propio Círculo (por ejemplo, para pagar el Círculo) sin consultar a los demás miembros del Círculo o sin su acuerdo?
-
-&#x20;\- ¿Debe un miembro del Círculo utilizar su plataforma en el Círculo para promocionar o publicitar sus propias propuestas personales que no estén relacionadas con el Círculo?
-
-&#x20;\-¿Cómo deben los miembros del Círculo decidir y acordar qué es una "propuesta del Círculo", presentada en nombre de éste?
-
-&#x20;
-
-Joey (1:18:13) Todos estamos experimentando; vamos a ver si alguien se presenta en el Círculo si hay una restricción para presentar propuestas.
-
-&#x20;
-
-Salida y cierre (1:19:18)
-
-No se puede comprobar, ya que la reunión es a contrarreloj.
-
-La reunión termina: 1:21:15
-
-\
+Voltaire: la siguiente fase de la [hoja de ruta de Cardano hacia la descentralización](https://roadmap.cardano.org/en/voltaire/)\
