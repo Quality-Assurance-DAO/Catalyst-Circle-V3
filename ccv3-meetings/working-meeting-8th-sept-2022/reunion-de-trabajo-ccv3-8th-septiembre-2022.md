@@ -1,5 +1,7 @@
 # Reunión de trabajo CCv3 8th Septiembre 2022
 
+{% embed url="https://youtu.be/xgDdETKMsqA" %}
+
 ### Presentes (por orden de intervención)
 
 **Nori Nishigaya** (facilitador); **Joey Chessher** (Toolmakers and Maintainers); **Quasar** (miembro del subcírculo ADA Holders); **Felix Weber** (CF); **Steve Lockhart** (adjunto de Mercy; Funded Proposers); **Kriss Baird** (IOG).
