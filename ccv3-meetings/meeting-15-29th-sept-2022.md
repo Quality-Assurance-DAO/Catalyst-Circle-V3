@@ -8,9 +8,11 @@
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-### Apologies
+**Rhys Morgan** (representing SPOs); **Felix Weber** (Cardano Foundation); **Quasar** (General ADA Holders subcircle); **Joey Chessher** (Toolmakers and Maintainers); **Steve Lockhart** (substituting for Mercy, Funded Proposers); **Kriss Baird** (IOG).
 
 ### Speaker percentages
+
+**Rhys** (39%), **Kriss** (26%), **Steve** (16%), **Joey** (8%), **Quasar** (7%), **Felix** (4%)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
