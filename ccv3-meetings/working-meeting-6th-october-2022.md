@@ -2,11 +2,15 @@
 
 ## Meeting recording
 
+{% embed url="https://youtu.be/C6b9dalXHvQ" %}
+
 ### Present (in order of first speaking)
 
-****
+**Rhys Morgan** (SPOs); **Joey Chessher** (Toolmakers and Maintainers); **Steve Lockhart** (deputy for Mercy; Funded Proposers); **Felix Weber** (CF); **Quasar** (ADA Holders subcircle member); **Kriss Baird** (IOG).
 
 ### Speaker percentages
+
+**Kriss** (32%), **Rhys** (20%), **Felix** (14%), **Steve** (14%), **Quasar** (12%), **Joey** (8%)
 
 ## 1. Opening/agenda
 
