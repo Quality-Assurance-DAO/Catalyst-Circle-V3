@@ -211,7 +211,7 @@ Meeting ends **1:58:05**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-coming soon
+<figure><img src="../.gitbook/assets/frequentword meeting 13 1st sept.JPG" alt=""><figcaption></figcaption></figure>
 
 ## **Abbreviations / Glossary**
 
@@ -261,7 +261,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/Meeting #13, 1st Sept 2022 QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
