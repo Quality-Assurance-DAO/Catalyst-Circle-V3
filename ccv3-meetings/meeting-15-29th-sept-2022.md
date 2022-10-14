@@ -22,6 +22,8 @@
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
+<figure><img src="../.gitbook/assets/frequentword meeting #15, 29th sept.JPG" alt=""><figcaption></figcaption></figure>
+
 ## Appendix
 
 ### Abbreviations used/glossary
@@ -70,7 +72,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-coming soon
+{% file src="../.gitbook/assets/CCv3 meeting #15, 29th September 2022, QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
