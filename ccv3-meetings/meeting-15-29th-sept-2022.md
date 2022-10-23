@@ -203,9 +203,11 @@ Meeting ends: **1:42:45**
 
 **CIP** – Cardano Improvement Proposal [https://cips.cardano.org](https://cips.cardano.org/)&#x20;
 
+**CT** - Challenge Team; a group that manages and oversees a Catalyst Challenge.
+
 **CTC** - Catalyst Technical Council, a proposed body that will be appointed by IOG to be involved in [bicameral](https://en.wikipedia.org/wiki/Bicameralism) governance alongside the Catalyst community.
 
-dRep – delegation representative, a new role that will be introduced for Fund 10; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
+**dRep** – delegation representative, a new role that will be introduced for Fund 10; people to whom a voter will be able to delegate their voting power. See the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSfPSb\_cDlIxN6cnnbOrJN\_oxDBmxB3kENbsE\_\_pmMAw8yJk0w/viewform)
 
 **DIDs** – [Decentralised identifiers](https://en.wikipedia.org/wiki/Decentralized\_identifiers)
 
