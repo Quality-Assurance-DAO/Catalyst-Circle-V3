@@ -154,6 +154,15 @@ Steve (1:16:42) I spoke to Kyle \[DripDropz] who said they don’t want too many
 <mark style="color:red;">**ACTION ITEM:**</mark> Steve and Joey added to Telegram group where Rhys and Felix are already communicating with DripDropz.\
 <mark style="color:red;">**ACTION ITEM:**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> All to promote the nomination form heavily over the weekend of 1st/2nd Oct and the following 2 weeks.&#x20;
 
+{% hint style="info" %}
+<mark style="color:purple;">**NOTE:**</mark> The following schedule was agreed with DripDropz after this meeting:
+
+* October week 1 - Nomination open ( [nomination form](https://forms.gle/srDeYgz1qvKUTqLg6) ) (Deadline October 12)
+* October 12 - Email to nominees, request for Nominees to provide a [Platform Statement](https://forms.gle/RMfQAQf9gca92NRUA) (Deadline Oct 15)
+* October 16 - Nomination platfrom statement releases on the [Cardano Forum](https://forum.cardano.org/)
+* October 17 - DripDropz takes over & will provide Voting Dates (edited)&#x20;
+{% endhint %}
+
 ### Possible delays to F10
 
 **Quasar (1:27:29)** It is likely that Fund 10 will be pushed back to November, so there is time.\
