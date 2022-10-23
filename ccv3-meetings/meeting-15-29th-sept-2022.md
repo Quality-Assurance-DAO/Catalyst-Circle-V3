@@ -60,11 +60,11 @@
 
 ## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-The agenda items suggested prior to the meeting were as follows, but the meeting was more an unstructured discussion.
+The agenda items that were suggested prior to the meeting were as follows, but the meeting was more of an unstructured discussion, and several other topics were covered.
 
 &#x20;\- [Parameters mentioned in Town Hall (29:46)](meeting-15-29th-sept-2022.md#parameters-mentioned-in-town-hall)\
 &#x20;\- [CCv4 election planning](meeting-15-29th-sept-2022.md#ccv4-election-planning-1-01-25) (1:01:25)\
-&#x20;\- [Circle removing criteria (1:30:37)](meeting-15-29th-sept-2022.md#circle-removing-criteria-1-30-37)
+&#x20;\- [Criteria for removing someone from Circle (1:30:37)](meeting-15-29th-sept-2022.md#circle-removing-criteria-1-30-37)
 
 ### **Parameters mentioned in Town Hall**
 
@@ -162,7 +162,7 @@ Steve (1:16:42) I spoke to Kyle \[DripDropz] who said they don’t want too many
 **Rhys (1:29:46)** DripDropz were only interested  in helping us do the voting mechanism this time; but maybe in the future.\
 **Joey (1:30:04)** And in future DripDropz will need to be paid.
 
-### **Circle removing criteria (1:30:37)**
+### **Criteria for removing someone from Circle (1:30:37)**
 
 **Felix (1:30:50)** The Circle Code of Conduct does not cover what happens if  there is a case of misconduct. CCv4 may find it helpful to have guidance. Maybe we should not devise this ourselves – we could set up a community work group to look at it.\
 **Rhys (1:31:38)** A Dework bounty for a decision-making group who will investigate objectively when the Code of Conduct is breached? Like a jury.  Because other Circle members might be involved in whatever the issue is.\
@@ -233,7 +233,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-{% file src="../.gitbook/assets/CCv3 meeting #15, 29th September 2022, QA-DAO verbatim transcript.doc" %}
+{% file src="../.gitbook/assets/CCv3 meeting #15, 29th September 2022, QA-DAO verbatim transcript (1).doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
