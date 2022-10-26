@@ -29,12 +29,10 @@ No formal check-in,  announcements, or agenda.\
 **Felix (1:20**) Once we hand everything over to you, you will decide the date to fit with your workload.\
 **Kyle (1:30**) DripDropz will discuss what is needed to build a good, intuitive UX, and come back with a suggested timeframe, including a date for the snapshot. We need to give people notice, so they can start moving their ADA, since it’s an ADA-based vote.
 
-&#x20;****&#x20;
-
 ### **How the vote will work**
 
 **Joey (2:01)** So people vote and the top 5 are the winners?\
-**Kyle (2:08)** No, it’s ranked choice. Each person \[NOTE: presumably, this should be “each wallet”] has 5 votes;  you give 100% of the voting power to the first vote, 80% of the voting power to the second vote, 60% to the third, 40% to the fourth and 20% to the fifth.\
+**Kyle (2:08)** No, it’s ranked choice. Each person \[<mark style="color:red;">**NOTE:**</mark> presumably, this should be “each wallet”] has 5 votes;  you give 100% of the voting power to the first vote, 80% of the voting power to the second vote, 60% to the third, 40% to the fourth and 20% to the fifth.\
 **Felix (2:59)** Minimum threshold is 5 ADA; and no downvoting.
 
 ### **What will be displayed on the DripDropz platform?**
