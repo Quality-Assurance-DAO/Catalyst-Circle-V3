@@ -21,7 +21,7 @@ No formal check-in,  announcements, or agenda.\
 
 ## 2. Discussion <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-### **CCv4 vote on DripDropz (00:47)**
+## **CCv4 vote on DripDropz (00:47)**
 
 ### **Date of the vote (part 1)**
 
@@ -41,7 +41,7 @@ No formal check-in,  announcements, or agenda.\
 
 **Lloyd (3:16)** Their name, and a link to their profile statement on the Cardano forum. If they have made a video, or given their socials, those links will be in their Cardano forum statement, rather than being a separate direct link on the DripDropz platform
 
-### **Checking candidates’ data is correct (6:06)**
+### **Checking candidates’ data is correct**
 
 **Quasar (6:06)** 3 people omitted to put their names in their platform statement – I am editing it to add their names.\
 **Felix (8:16)** Circle has contacted nominees by email several times to  request a platform statement. Those who have not responded, we assume do not want to stand. So there are 34 candidates.\
@@ -83,6 +83,10 @@ No formal check-in,  announcements, or agenda.\
 **Joey (18:59)** Epoch shifts are on 1st, 6th and 11th November.\
 **Kyle (19:18)** The sooner, the better for us as well.\
 **Lloyd (19:21)** Wait until DripDropz’s product planning meeting later today; we’ll communicate with Rhys and Felix
+
+
+
+TBC
 
 ## 3. Checkout and close
 
