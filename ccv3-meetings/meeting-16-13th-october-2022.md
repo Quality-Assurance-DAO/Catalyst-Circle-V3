@@ -2,15 +2,17 @@
 
 ## Meeting recording
 
-coming soon
+{% embed url="https://youtu.be/St-VF_iEytU" %}
 
 ## Minutes of Catalyst Circle v3 Meeting #16 <a href="#minutes-of-catalyst-circle-v3-meeting-6" id="minutes-of-catalyst-circle-v3-meeting-6"></a>
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-### Apologies
+**Felix Weber** (CF);  **Kyle** (DripDropz); **Joey Chessher** (Toolmakers and Maintainers**); LLoyd Duhon** (DripDropz); **Rhys Morgan (representing SPOs); Quasar** (ADA Holders subcircle member); **Steve Lockhart** (deputy for Mercy; Funded Proposers); **Kriss Baird** (IOG).
 
 ### Speaker percentages
+
+**Rhys** (24%), **Felix** (22%), **Joey** (14%), **Quasar** (12%), **Kriss** (11%), **Kyle** (10%), **Steve** (5%), **Lloyd** (3%)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
