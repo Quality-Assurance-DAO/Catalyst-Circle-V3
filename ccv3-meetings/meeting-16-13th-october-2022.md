@@ -8,7 +8,7 @@
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-**Felix Weber** (CF);  **Kyle** (DripDropz); **Joey Chessher** (Toolmakers and Maintainers**); LLoyd Duhon** (DripDropz); **Rhys Morgan (representing SPOs); Quasar** (ADA Holders subcircle member); **Steve Lockhart** (deputy for Mercy; Funded Proposers); **Kriss Baird** (IOG).
+**Felix Weber** (CF);  **Kyle** (DripDropz); **Joey Chessher** (Toolmakers and Maintainers**); Lloyd Duhon** (DripDropz); **Rhys Morgan (representing SPOs); Quasar** (ADA Holders subcircle member); **Steve Lockhart** (deputy for Mercy; Funded Proposers); **Kriss Baird** (IOG).
 
 ### Speaker percentages
 
