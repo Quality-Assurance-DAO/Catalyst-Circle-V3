@@ -106,7 +106,7 @@ Steve: 5
 **Rhys (1:04:29)** It’s an organization, so no individual can own it&#x20;
 
 {% hint style="warning" %}
-_<mark style="color:purple;">**Summariser's note**</mark>: this is not quite accurate - the account is always owned by someone, and they decide who joins the organization, and can remove people from it._&#x20;
+_<mark style="color:purple;">**Summariser's note**</mark>:_ this is not quite accurate - the account is always owned by someone, and they decide who joins the organization, and can remove people from it.&#x20;
 
 From [https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts](https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts#organization-accounts)  “_All members can collaborate with each other in repositories and projects, but only organization owners and security managers can manage the settings for the organization and control access to the organization's data._”
 {% endhint %}
