@@ -8,9 +8,13 @@
 
 ### Present (in order of first speaking) <a href="#present-in-order-of-first-speaking" id="present-in-order-of-first-speaking"></a>
 
-### Apologies
+**Nori Nishigaya** (facilitator); Joey Chessher (Toolmakers and Maintainers); **Felix Weber** (CF); Steve Lockhart (standing in for Mercy; Funded Proposers); ); **Kriss Baird** (IOG); **Rhys Morgan** (stakepool operators); **Quasar** (ADA Holders subcircle member);  JP (secretary).
 
 ### Speaker percentages
+
+**Kriss** (28%), **Rhys** (21%), **Quasar** (17%), **Felix** (14%), **Steve** (12%), **Joey** (3%), **Nori** (3%), **JP** (2%).
+
+
 
 
 
@@ -21,6 +25,8 @@
 ## 3. Checkout and close
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
+
+<figure><img src="../.gitbook/assets/frequentword mtg 14, 15th Sept.JPG" alt=""><figcaption></figcaption></figure>
 
 ## Appendix
 
