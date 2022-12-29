@@ -1,5 +1,5 @@
 ---
-description: 'Catalyst Circle version 3: Feb-April 2022'
+description: 'Catalyst Circle version 3: Feb-Oct 2022'
 ---
 
 # Catalyst Circle v3
@@ -14,4 +14,4 @@ The Catalyst Circle Oversight GitBooks are produced by [**Quality Assurance DAO*
 
 ### Funded by Project Catalyst
 
-Production of this GitBook is funded by the Project Catalyst Fund 6 proposal [Oversight of Catalyst Circle](https://cardano.ideascale.com/c/idea/370088) .
+Production of this GitBook is funded by the Project Catalyst Fund 8 proposal [QA-DAO Oversight of Catalyst Circle](https://cardano.ideascale.com/c/idea/399108).
