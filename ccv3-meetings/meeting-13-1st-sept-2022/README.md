@@ -1,5 +1,7 @@
 # Meeting #13, 1st Sept 2022
 
+## Link to Spanish version: Resumen de reunión del CCv3 #13 (español)
+
 ## Meeting recording
 
 {% embed url="https://youtu.be/zdkakn8KynM" %}

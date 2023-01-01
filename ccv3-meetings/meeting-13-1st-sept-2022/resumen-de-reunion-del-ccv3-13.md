@@ -1,4 +1,4 @@
-# Resumen de reunión del CCv3 #13: Jueves 1 de Septiembre de 2022
+# Resumen de reunión del CCv3 #13
 
 ### Presentes (por orden de intervención)
 
@@ -18,11 +18,11 @@ Registro de entrada **(0:03)**\
 
 ## 2. Orden del día consensuado
 
-&#x20;\- [Diapositivas del Town Hall](resumen-de-reunion-del-ccv3-13-jueves-1-de-septiembre-de-2022.md#diapositivas-del-town-hall-7-15) (7:15)\
-&#x20;\- [Elección CCv4 - retroalimentación de la comunidad sobre el plan “5 asientos sin especificar"](resumen-de-reunion-del-ccv3-13-jueves-1-de-septiembre-de-2022.md#eleccion-ccv4-retroalimentacion-de-la-comunidad-sobre-el-plan-5-asientos-sin-especificar-11-36) (11:36)\
-&#x20;\- [Elección CCv4 - criterios de nominación](resumen-de-reunion-del-ccv3-13-jueves-1-de-septiembre-de-2022.md#criterios-de-nominacion-45-00)\
-\- [Código de Conducta](resumen-de-reunion-del-ccv3-13-jueves-1-de-septiembre-de-2022.md#codigo-de-conducta-58-41)\
-&#x20;\- [Compensación del Círculo](resumen-de-reunion-del-ccv3-13-jueves-1-de-septiembre-de-2022.md#compensacion-del-circulo-1-16-34)
+&#x20;\- [Diapositivas del Town Hall](resumen-de-reunion-del-ccv3-13.md#diapositivas-del-town-hall-7-15) (7:15)\
+&#x20;\- [Elección CCv4 - retroalimentación de la comunidad sobre el plan “5 asientos sin especificar"](resumen-de-reunion-del-ccv3-13.md#eleccion-ccv4-retroalimentacion-de-la-comunidad-sobre-el-plan-5-asientos-sin-especificar-11-36) (11:36)\
+&#x20;\- [Elección CCv4 - criterios de nominación](resumen-de-reunion-del-ccv3-13.md#criterios-de-nominacion-45-00)\
+\- [Código de Conducta](resumen-de-reunion-del-ccv3-13.md#codigo-de-conducta-58-41)\
+&#x20;\- [Compensación del Círculo](resumen-de-reunion-del-ccv3-13.md#compensacion-del-circulo-1-16-34)
 
 ### Diapositivas del Town Hall (7:15)
 
