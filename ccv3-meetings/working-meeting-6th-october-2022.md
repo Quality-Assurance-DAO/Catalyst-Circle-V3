@@ -134,7 +134,12 @@ See “Introduction to Circle” document [https://docs.google.com/document/d/1i
 
 **Felix (1:00:38)** Let’s not use the phrase “human sensor array” as some people find it confusing; and the nomination form should ask nominees how they plan to measure and evidence their work on Circle.\
 **Steve (1:02:00)** Last week, we agreed the process where reps will record their work, so I think this question is superfluous.\
-**Rhys (1:02:23)** We could ask instead how they plan to reach out to their community and measure their engagement. \[_Note: in practice, this question seems to have been misunderstood by some CCv4 candidates as asking how they would measure their own level of engagement in Catalyst, rather than how they will measure the extent to which they, as a Circle rep, will measure how far they are engaging with those they purport to represent_.]\
+**Rhys (1:02:23)** We could ask instead how they plan to reach out to their community and measure their engagement.&#x20;
+
+{% hint style="warning" %}
+<mark style="color:purple;">**Note:**</mark> in practice, this question seems to have been misunderstood by some CCv4 candidates as asking how they would measure their own level of engagement in Catalyst, rather than how they will measure the extent to which they, as a Circle rep, will measure their level of engagement with the community they aim to represent.
+{% endhint %}
+
 **Quasar (1:03:11)** And let’s add a link to the form they will be using to record their work, so they can see it, since that’s the process IOG have agreed.
 
 {% hint style="info" %}
@@ -271,3 +276,5 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 **Voltaire** – the next phase on the [Cardano roadmap to decentralisation](https://roadmap.cardano.org/en/voltaire/)
 
 ### Transcript of this meeting
+
+{% file src="../.gitbook/assets/CCv3 working meeting 6th Oct 2022 QA-DAO verbatim transcript.doc" %}
