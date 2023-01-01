@@ -20,7 +20,7 @@
 
 ### Abbreviations used/Glossary <a href="#abbreviations-used-glossary" id="abbreviations-used-glossary"></a>
 
-[please scroll down](meeting-13-1st-sept-2022.md#abbreviations-glossary)
+[please scroll down](./#abbreviations-glossary)
 
 ## 1. Opening, agenda (0:00) <a href="#1.-opening-agenda-0-00" id="1.-opening-agenda-0-00"></a>
 
@@ -32,11 +32,11 @@ Agenda **(5:43):** Items added: **** none
 
 ## 2. Consent agenda <a href="#3.-consent-agenda-1-07-01" id="3.-consent-agenda-1-07-01"></a>
 
-[Town Hall slides](meeting-13-1st-sept-2022.md#town-hall-slides-7-15)\
-[CCv4 election - community feedback on "5 unspecified seats" plan](meeting-13-1st-sept-2022.md#ccv4-election-feedback-on-5-unspecified-seats-11-36)\
-[CCv4 election - nominee criteria](meeting-13-1st-sept-2022.md#nominee-criteria-45-00)\
-[Code of Conduct](meeting-13-1st-sept-2022.md#code-of-conduct-58-41)\
-[Circle compensation](meeting-13-1st-sept-2022.md#circle-compensation-1-16-34)
+[Town Hall slides](./#town-hall-slides-7-15)\
+[CCv4 election - community feedback on "5 unspecified seats" plan](./#ccv4-election-feedback-on-5-unspecified-seats-11-36)\
+[CCv4 election - nominee criteria](./#nominee-criteria-45-00)\
+[Code of Conduct](./#code-of-conduct-58-41)\
+[Circle compensation](./#circle-compensation-1-16-34)
 
 ### **Town Hall slides (7:15)**
 
@@ -211,7 +211,7 @@ Meeting ends **1:58:05**
 
 ## Key words from this meeting <a href="#key-words-from-this-meeting" id="key-words-from-this-meeting"></a>
 
-<figure><img src="../.gitbook/assets/frequentword meeting 13 1st sept.JPG" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/frequentword meeting 13 1st sept.JPG" alt=""><figcaption></figcaption></figure>
 
 ## **Abbreviations / Glossary**
 
@@ -261,7 +261,7 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Intelligent-verbatim transcript of this meeting <a href="#intelligent-verbatim-transcript-of-this-meeting" id="intelligent-verbatim-transcript-of-this-meeting"></a>
 
-{% file src="../.gitbook/assets/Meeting #13, 1st Sept 2022 QA-DAO verbatim transcript.doc" %}
+{% file src="../../.gitbook/assets/Meeting #13, 1st Sept 2022 QA-DAO verbatim transcript.doc" %}
 
 ### Agenda for this meeting <a href="#agenda-for-this-meeting" id="agenda-for-this-meeting"></a>
 
