@@ -1,5 +1,7 @@
 # Working meeting, 25th August 2022
 
+## Link to Spanish version: [Reunión de trabajo CCv3, Jueves 25 agosto 2022](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/working-meeting-25th-august-2022/reunion-de-trabajo-ccv3-jueves-25-agosto-2022)
+
 ## Meeting recording
 
 {% embed url="https://youtu.be/qz4XV9YI1uA" %}

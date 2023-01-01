@@ -1,5 +1,7 @@
 # Reunión de trabajo CCv3  Jueves 25 agosto 2022
 
+{% embed url="https://youtu.be/qz4XV9YI1uA" %}
+
 ### Presentes (por orden de intervención)&#x20;
 
 Nori Nishigaya (facilitador); **Joey Chessher** (Fabricantes de herramientas y Mantenimiento); **Felix Weber** (CF); **Mercy A** (Proponentes financiados); **Steve Lockhart** (Sustituyendo a Mercy; Proponentes financiados); **Kriss Baird** (IOG); **Quasar** (miembro del subcírculo ADA Holders); **Rhys Morgan** (operadores de stakepool); **Peter Wolcott** (secretario). &#x20;
