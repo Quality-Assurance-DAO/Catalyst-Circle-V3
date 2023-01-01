@@ -19,9 +19,9 @@ Check-in **(0:02)**\
 
 ## 2. Consent agenda
 
-&#x20;\- [Tomi leaving the Circle](working-meeting-25th-august-2022.md#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627)\
-&#x20;\- [Voting delays](working-meeting-25th-august-2022.md#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-1)\
-&#x20;\- [Document from Zoe, "Community suggestions for Alternatives to CCv4 structure" ](working-meeting-25th-august-2022.md#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-2)\
+&#x20;\- [Tomi leaving the Circle](./#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627)\
+&#x20;\- [Voting delays](./#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-1)\
+&#x20;\- [Document from Zoe, "Community suggestions for Alternatives to CCv4 structure" ](./#docs-internal-guid-3447e081-7fff-f5ca-3b1e-4405c4ffa627-2)\
 &#x20;\- Election process - discussed with the above\
 &#x20;\- Election criteria for CCv4 - not discussed; out of time\
 &#x20;\- Code of Conduct - not discussed; out of time\
@@ -169,4 +169,4 @@ dRep – delegation representative, a new role that will be introduced for Fund 
 
 ### Transcript of this meeting
 
-{% file src="../.gitbook/assets/CCv3 working meeting 25th Aug 2022, QA-DAO verbatim transcript.doc" %}
+{% file src="../../.gitbook/assets/CCv3 working meeting 25th Aug 2022, QA-DAO verbatim transcript.doc" %}
