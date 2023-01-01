@@ -1,3 +1,7 @@
+---
+description: 'Resumen de reunión del CCv3 #13: Jueves 1 de Septiembre de 2022'
+---
+
 # Resumen de reunión del CCv3 #13
 
 ### Presentes (por orden de intervención)
