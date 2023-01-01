@@ -1,6 +1,6 @@
 # Meeting #13, 1st Sept 2022
 
-## Link to Spanish version: Resumen de reunión del CCv3 #13 (español)
+## Link to Spanish version: [Resumen de reunión del CCv3 #13 (español)](https://quality-assurance-dao.gitbook.io/catalyst-circle-oversight-v3/ccv3-meetings/meeting-13-1st-sept-2022/resumen-de-reunion-del-ccv3-13)
 
 ## Meeting recording
 
