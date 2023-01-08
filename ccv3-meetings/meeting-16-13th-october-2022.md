@@ -206,12 +206,12 @@ These questions remain unaddressed for CCv4; although a Code of Conduct is now i
 **Rhys (55:22)** Do you think that’s what they would do? If it was me, I would pick people who could do the work.\
 **57:12 Kriss leaves the meeting temporarily.**
 
-### Cardano Forum post about bullying
+### Cardano Forum post about bullying and trolling
 
-**Rhys (57:34)** I think this forum post [https://forum.cardano.org/t/why-is-iog-catalyst-platforming-someone-who-continuously-bullies-misrepresents-and-trolls-their-peers/108508/1](https://forum.cardano.org/t/why-is-iog-catalyst-platforming-someone-who-continuously-bullies-misrepresents-and-trolls-their-peers/108508/1) should be taken down, because it’s not appropriate to discuss accusations in public.
+**Rhys (57:34)** I think this forum post [https://forum.cardano.org/t/why-is-iog-catalyst-platforming-someone-who-continuously-bullies-misrepresents-and-trolls-their-peers/108508/1](https://forum.cardano.org/t/why-is-iog-catalyst-platforming-someone-who-continuously-bullies-misrepresents-and-trolls-their-peers/108508/1) should be taken down, because it’s not appropriate to discuss such accusations in public.
 
 {% hint style="warning" %}
-<mark style="color:purple;">**Note:**</mark> The discussion on this agenda item has been documented very minimally here, because there were questions raised in the meeting about whether it was appropriate to discuss the matter in a meeting at all, and whether it’s appropriate for Quasar, the person to whom the post relates, to speak on it.&#x20;
+<mark style="color:purple;">**Note:**</mark> The discussion on this agenda item has been documented very minimally here, because there were questions raised in the meeting about whether it was appropriate to raise the matter in a Circle meeting at all, and whether it’s appropriate for Quasar, the person to whom the post relates, to be platformed.&#x20;
 
 This summary avoids referencing any of the direct comments about the case itself that are made in the meeting – however, there is a full transcript and recording.
 
